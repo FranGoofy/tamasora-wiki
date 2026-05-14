@@ -2,8 +2,7 @@ backend:
   name: github
   repo: FranGoofy/tamasora
   branch: main
-  auth_type: pkce
-  app_id: Ov23liQbHpkl2mT0bphG
+  base_url: https://sveltia-cms-auth.franbookmmo.workers.dev
 
 media_folder: z_Images/uploads
 public_folder: /z_Images/uploads
