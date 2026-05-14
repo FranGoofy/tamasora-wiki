@@ -29,7 +29,7 @@ const EditButton: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
 
   if (!collection || !entryName) return null
 
-  const editUrl = `${ADMIN_URL}/#/collections/${collection}/entries/${encodeURIComponent(entryName)}`
+  const editUrl = `${ADMIN_URL}/#/collections/${collection}/entries/${entryName.split("/").map(encodeURIComponent).join("/")}`
 
   return (
     <a href={editUrl} class="edit-button" target="_blank" rel="noopener noreferrer">
