@@ -1,7 +1,6 @@
 ---
 publish: true
 ---
-
 *'Human' (Changeling) [[Titanborn]], Druid / Barbarian, Order of [[Natu]]*
 
 **Background.** A fierce Changeling that hails from the [[Titan]] turtle [[Jupiter|Carapax]]. Whimsy, dubbed 'the Strongest Woman on Jupiter', was its local hero and protector from raiding pirates. An adoptive mother of two sons — [[Omniscient]] and [[Charming]] — she was recommended by her Titan's shaman to travel to [[Astraloftum]] to make a bigger difference in the world.

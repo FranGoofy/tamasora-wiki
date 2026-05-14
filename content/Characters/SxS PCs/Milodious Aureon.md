@@ -1,7 +1,6 @@
 ---
 publish: true
 ---
-
 *[[Titanborn]] — [[Children of Jas]], College of Valor Bard, Wandering Minstrel*
 
 Milo is 24, an adult Titanborn birdfolk that hails from the [[Titan]] [[Saturn|Janus]]. A graduate of the prestigious [[College of Damocles]], Milo's passion for astronomy is his map. He navigates by the celestial ley-lines of the [[Skysea]] and composes the rise and fall of kingdoms, the romance of forgotten lords, and the gritty folk tales of the common folk.
