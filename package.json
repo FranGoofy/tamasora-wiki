@@ -13,6 +13,7 @@
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
+    "build": "npx quartz build && mkdir -p public/admin && cp content/admin/index.html public/admin/index.html && cp content/admin/config.yml public/admin/config.yml",
     "docs": "npx quartz build --serve -d docs",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
