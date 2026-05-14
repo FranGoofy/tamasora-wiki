@@ -26,36 +26,9 @@ collections:
       - { label: "Publish to Wiki", name: "publish", widget: "boolean", default: false }
       - { label: "Body", name: "body", widget: "markdown" }
 
-  - name: npcs
-    label: "NPCs"
-    folder: "Characters/NPCs"
-    create: true
-    extension: md
-    fields:
-      - { label: "Publish to Wiki", name: "publish", widget: "boolean", default: false }
-      - { label: "Body", name: "body", widget: "markdown" }
-
-  - name: factions
-    label: "Factions & Organizations"
-    folder: "Factions & Organizations"
-    create: true
-    extension: md
-    fields:
-      - { label: "Publish to Wiki", name: "publish", widget: "boolean", default: false }
-      - { label: "Body", name: "body", widget: "markdown" }
-
-  - name: locations
-    label: "Locations"
-    folder: "Locations"
-    create: true
-    extension: md
-    fields:
-      - { label: "Publish to Wiki", name: "publish", widget: "boolean", default: false }
-      - { label: "Body", name: "body", widget: "markdown" }
-
-  - name: lore
-    label: "Lore & Religion"
-    folder: "Lore & Religion"
+  - name: recaps
+    label: "Recaps"
+    folder: "a_Recaps"
     create: true
     extension: md
     fields:
