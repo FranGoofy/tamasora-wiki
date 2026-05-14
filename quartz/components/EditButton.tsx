@@ -27,9 +27,7 @@ const EditButton: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
     }
   }
 
-  if (!collection || !entryName) {
-    return <small style="opacity:0.4;font-size:0.7rem">debug path: {normalised || "(empty)"}</small>
-  }
+  if (!collection || !entryName) return null
 
   const editUrl = `${ADMIN_URL}/#/collections/${collection}/entries/${encodeURIComponent(entryName)}`
 
