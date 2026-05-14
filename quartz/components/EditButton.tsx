@@ -9,22 +9,29 @@ const COLLECTION_MAP: Record<string, string> = {
 }
 
 const EditButton: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
-  const slug = fileData.slug ?? ""
+  const filePath = fileData.filePath ?? ""
+
+  // Normalise path separators and strip leading slash
+  const normalised = filePath.replace(/\\/g, "/").replace(/^\//, "")
 
   let collection: string | undefined
   let entryName: string | undefined
 
   for (const [folder, col] of Object.entries(COLLECTION_MAP)) {
-    if (slug.startsWith(folder + "/")) {
+    if (normalised.includes(folder + "/")) {
       collection = col
-      entryName = slug.slice(folder.length + 1)
+      // Extract filename after the folder, strip .md extension
+      const afterFolder = normalised.split(folder + "/")[1]
+      entryName = afterFolder?.replace(/\.md$/, "")
       break
     }
   }
 
-  if (!collection || !entryName) return null
+  if (!collection || !entryName) {
+    return <small style="opacity:0.4;font-size:0.7rem">debug path: {normalised || "(empty)"}</small>
+  }
 
-  const editUrl = `${ADMIN_URL}/#/collections/${collection}/entries/${entryName}`
+  const editUrl = `${ADMIN_URL}/#/collections/${collection}/entries/${encodeURIComponent(entryName)}`
 
   return (
     <a href={editUrl} class="edit-button" target="_blank" rel="noopener noreferrer">
