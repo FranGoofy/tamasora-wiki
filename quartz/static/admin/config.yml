@@ -1,0 +1,64 @@
+backend:
+  name: github
+  repo: FranGoofy/tamasora
+  branch: main
+  auth_type: pkce
+  app_id: Ov23liQbHpkl2mT0bphG
+
+media_folder: z_Images/uploads
+public_folder: /z_Images/uploads
+
+collections:
+  - name: sxs_characters
+    label: "SxS Player Characters"
+    folder: "Characters/SxS PCs"
+    create: true
+    extension: md
+    fields:
+      - { label: "Publish to Wiki", name: "publish", widget: "boolean", default: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: scribes_characters
+    label: "Scribes Player Characters"
+    folder: "Characters/Scribes PCs"
+    create: true
+    extension: md
+    fields:
+      - { label: "Publish to Wiki", name: "publish", widget: "boolean", default: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: npcs
+    label: "NPCs"
+    folder: "Characters/NPCs"
+    create: true
+    extension: md
+    fields:
+      - { label: "Publish to Wiki", name: "publish", widget: "boolean", default: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: factions
+    label: "Factions & Organizations"
+    folder: "Factions & Organizations"
+    create: true
+    extension: md
+    fields:
+      - { label: "Publish to Wiki", name: "publish", widget: "boolean", default: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: locations
+    label: "Locations"
+    folder: "Locations"
+    create: true
+    extension: md
+    fields:
+      - { label: "Publish to Wiki", name: "publish", widget: "boolean", default: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: lore
+    label: "Lore & Religion"
+    folder: "Lore & Religion"
+    create: true
+    extension: md
+    fields:
+      - { label: "Publish to Wiki", name: "publish", widget: "boolean", default: false }
+      - { label: "Body", name: "body", widget: "markdown" }
