@@ -1,6 +1,7 @@
 ---
 publish: true
 ---
+# Virtus Tenebris
 >[!infobox] Virtus Tenebris 
 ># 
 >![[virtusfinal2.webp]] 

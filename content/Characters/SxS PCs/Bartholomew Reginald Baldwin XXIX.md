@@ -1,11 +1,12 @@
 ---
 publish: true
 ---
+# Bartholomew Reginald Baldwin XXIX
 *Kobold, Paladin / Bard / Warlock, [[Natu]]*
 
 A member of the [[Soul Shepherds]].
 
-### Background. 
+# Background. 
 Bartholomew Reginald Baldwin XXIX, also known as 'Arse', is an [[Emerald Kobolds|Emerald Kobold]] from the town of [[Emerald's Rest]].
 Arse was always very reckless and immature, shirking his duties just to have fun with friends. To this, his parents would always comment, *"Stop being such an arse and get back to your duties."*
 
@@ -21,17 +22,17 @@ Arse then set out to become a Solar Scion, pledging his blade to secure the path
 
 **Legitimized Solar Scion.** After months of fighting alongside the [[Soul Shepherds]], Bart publicly revealed his true Kobold identity and his origins to the [[Ecclesia Solari]]. With the advocacy of the Soul Shepherds and the [[Whispering Grove]] Druids behind him, he was permitted to enter the [[Mirror Realm]] and face his Dark Self — a trial every Scion must pass. He defeated Dark Arse not with violence, but by offering him friendship and a peaceful death, granting his shadow a vision of the home and family it never had. Upon his return, [[High Priestess Cetra]] officially knighted him into the Holy Order of the Solar Scions. In the same ceremony, Cetra declared that Kobolds are no longer to be classified as Fomorians — a proclamation Bart inspired.
 
-### **Key Relationships & Bonds.**
+# **Key Relationships & Bonds.**
 - Deepened his bond with [[Silas Clemens]] during Silas's recovery from losing his arm, urging him to lean on friends rather than on the Trinity.
 - Formed a genuine musical friendship with [[Hans Brin]], the one-armed flutist from Damocles College.
 - Recruited [[Frederick]], [[Meek]], and [[Meek Sr]] — former Cloudbeard pirate Kobolds — into the Soul Shepherds' crew after the battle at the Janus City Aque-Docks.
 - Earned the respect of the [[Arcadian Phoenix]] by freeing caged birds on the Elephant Spire, leading the Phoenix to declare him worthy.
 - Spoke directly to the [[Great Natu Tree]], which remembered the Emerald Dragon [[Clorox]] from when it was a sapling. The two shared a moment of musical mourning, reciting an epitaph for the fallen dragon whose tooth forms his Blade of Clorox.
 
-### **Items of Note.**
+# **Items of Note.**
 - **Blade of Clorox** — a sword belonging to the Emerald Scourge, whose tooth forms the blade.
 - **Obsidian Pepper Orb** — won at auction in Janus City; whispered to him in Draconic.
 
-### Personal Quests.
+# Personal Quests.
 **The [[Emerald Scourge]]** — is after Arse for taking Cassian's blade. The [[Martian Imperium]] has also now occupied [[Emerald's Rest]], Bart's hometown, seeking to resurrect Clorox. He has promised [[Frederick]] they will deal with this after Jupiter.
 **[[City of Gold]]** — still the dream.

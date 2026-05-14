@@ -1,6 +1,7 @@
 ---
 publish: true
 ---
+# Diallos
 *[[Cometborn]], Cleric / Monk, Order of [[Tekk]]*
 
 **Background.** A young [[Cometborn]] man that hatched from an egg made of crystalized celestial meteorite. Diallos believes he resembles his parents that found and nursed his broken celestial egg, but much of his own past is a mystery to him. Diallos was adopted and raised by the monks of the [[Solari Abbey]], where they realized he had a gift of prophecy. His visions were powerful and the monks taught him how to decipher them for the good of the realm. A childhood friend of [[Characters/SxS Player Characters/Virtus Tenebris]], he quickly sharpened his abilities and was selected to be a member of the [[Solar Scions]] alongside her.

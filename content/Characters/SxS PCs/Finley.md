@@ -1,6 +1,7 @@
 ---
 publish: true
 ---
+# Finley
 *Satyr, Warlock / Druid, Order of [[Natu]]*
 
 **Background.** A young Satyr adopted by the [[Whispering Grove]] in [[Astraloftum]] and raised by druids under the protective canopy of the [[Great Natu Tree]]. Finley's gentle nature and love for the natural world inspired him to pursue a life of dedication to the Goddess of Nature, [[Natu]], and Her Works. Finley has grown to be a well-respected Druid and Cleric in the Grove and is considered by the majority of his friends a natural successor to his adoptive mother, [[Archdruid Elowen]].
