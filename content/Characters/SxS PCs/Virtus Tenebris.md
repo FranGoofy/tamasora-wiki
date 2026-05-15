@@ -2,10 +2,6 @@
 publish: true
 ---
 # Virtus Tenebris
->[!infobox] Virtus Tenebris 
-># 
->![[virtusfinal2.webp]] 
-
 *[[Tiefling]], Paladin / Fighter, Order of [[Tekk]]*
 
 The leader of the [[Soul Shepherds]]. 

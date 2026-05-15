@@ -72,7 +72,7 @@ They discuss how to open the Adamantine Door and find all the levers to do so, b
 ## **Session 74\.** The Deep Roads
 *15 Everbloom 312 (Day 70 since the formation of the Soul Shepherds)  Game Date: (April 30th, 2026\)*
 
-The Soul Shepherds climb down a long stairway, the Forvivlad Dwarves take their Mine Carts down with their ore. Silas sings a song in the dark descent very much to Joy’s amusement. Diallos encounters an Undershell Hare, who disappears back into the darkness. Whimsical tells Diallos of the tale of the Hare and the Tortoise \- Carapax told the Hare that if he can get through all of the Undershell before Carapax sails through the Entire Skysea, the Hare would be crowned the fastest on Jupiter…
+The Soul Shepherds climb down a long stairway, the Forvivlad Dwarves take their Mine Carts down with their ore. Silas sings a song in the dark descent very much to Joy’s amusement. Diallos encounters an Undershell Hare, who disappears back into the darkness. Whimsical tells Diallos of the tale of the Hare and the Tortoise \- Carapax told the Hare that if he can get through all of the Undershell before Carapax sails through the Entire Skysea, the Hare would be crowned the fastest on Jupiter… alas he did not.
 
 The party reaches downstairs into the Ore Storage and Entrance to the Deep Roads. Silas asks one of the Forvivlad Dwarves, their name Ribny, to come with him to the Resistance Base so he can potentially cure them of their ‘Forvivlad’ curse. The rest of the Forvivlad Dwarves say they will gather their ore and venture towards the Capital. The Soul Shepherds encounter a magical stone door with ten chimes they must ring with different weapons. 
 
@@ -99,7 +99,21 @@ The Soul Shepherds head out towards the Inverted Temple’s Alchemical Library t
 
 With the help of Milodius’ calming ballads, Diallos’ peaceful resistance magic, Virtus’ trusting presence, Whimsical’s reassuring words, Thirteen’s Warding Bond, Bart’s support, and Joy’s patience, Silas narrowly overcomes succumbing to his vampiric nature as he drinks the blood. The operation is a success and Ribny is cured, proving that Forvivlad is curable. 
 
-## **Session 76\.** ???
-*15 Everbloom 312 (Day 70 since the formation of the Soul Shepherds)  Game Date: (May 13th, 2026\)
+## **Session 76\.** Just in Time for an Ale
+*15 Everbloom 312 (Day 70 since the formation of the Soul Shepherds)  Game Date: (May 14th, 2026\)
 
-To Be Continued...
+- The Soul Shepherds explore the Great Alchemical Library in the Inverted Temple and meet [[Groin the Brewer]], who tells them that [[Saint Brasser the Ambrosius]] was 'decanonized' by the [[Ecclesia Solari]]. 
+- Diallos is scared of [[Abathur]] after he reads his name in a journal from [[Bobby Beerbelly]]. Silas and Bart are drunk so they don't get scared (immune to Frightened condition for 1 hour.)
+- Silas looked for a Book on Hemomancy, and a Book about the Scribes' take on the Church.
+- Whimsical find an Urn (Alchemy Jug) in a secret tunnel behind a bookshelf.
+- Thirteen finds the 'Church Killer' manuscript hidden in the library and keeps it to himself.
+- Virtus finds evidence that her father [[Amiel Tenebris]] was here with Bobby at some point.
+- Silas absorbs 4 monks souls with their consent.
+- Thirteen asks the Gods 4 questions with the Commune Scroll.
+	- The manuscript will destroy the church, Yes.
+	- The Gods are currently displeased, Yes.
+	- The Golden Key is under Lake Ruthaba, Yes.
+	- In risk of divine retribution, Thirteen asked one more question, Is Abathur still alive? Yes.
+- The party discusses what to do about Dumac's scout party at Crystalhammer falls (2 days before they find the party)
+	- But, Silas has a Hallucinatory Terrain plan and the Shepherds Milodius, Diallos, and Thirteen plan to scout ahead and potentially bait the Fire giants to the Deep Roads so they can drown them by destroying the blockage under Lake Ruthaba (from below).
+- 
