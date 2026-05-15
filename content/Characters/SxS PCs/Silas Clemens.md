@@ -4,7 +4,8 @@ publish: true
 # Silas Clemens
 *[[Dhampir]], Cleric / Sorcerer, Order of [[Magi]]*
 
-**Background.** Silas Clemens, born a dhampir, is the product of a dark union between [[Count von Preshons]] and a [[Silas' Mother|mortal woman]]. His early life was marked by torment and darkness as he was subjected to grueling torture by his father, Count Preshons, who intended to mold Silas into the [[Unborn Fomorian King]] — a living [[Phylactery]] of immense dark power — by etching the [[Twilight Brand]] onto him. Silas has a sister named [[Talleah Preshons]].
+## **Background.** 
+Silas Clemens, born a dhampir, is the product of a dark union between [[Count von Preshons]] and a [[Silas' Mother|mortal woman]]. His early life was marked by torment and darkness as he was subjected to grueling torture by his father, Count Preshons, who intended to mold Silas into the [[Unborn Fomorian King]] — a living [[Phylactery]] of immense dark power — by etching the [[Twilight Brand]] onto him. Silas has a sister named [[Talleah Preshons]].
 
 This plan was thwarted during the [[The Fall of Yahar’gul|Fall of Yahar'gul]], led by the [[Ecclesia Solari]] and the [[Solar Scions]], who rescued the young Silas from his father's clutches. Raised by the monks of the [[Solari Abbey]] alongside [[Diallos]], Silas grew up under the watchful eye of [[Holy Mother Anastasia]] and [[Abbot Muho]]. His presence within the church was controversial due to his [[Fomorian]] lineage and [[Dhampir]] nature, which made him both a threat and an object of fear. However, his physical fragility and emotional tranquility gradually alleviated these fears.
 
@@ -12,7 +13,7 @@ Silas exhibited unparalleled magical prowess from a young age. Despite the initi
 
 ---
 
-**The Phylactery Body & the Souls.**
+## **Body & the Souls**
 Silas became a living Soul Phylactery during the events on [[Aluminux]], when he inadvertently absorbed the soul of Elyas Threepwood after [[Maya O Soldrei]] cast a forbidden Soul-Infusion technique on him. Since then, he has absorbed many more Souls — from fallen soldiers, released prisoners, Dwarven Kings, and even the [[Spider Queen]] — carrying them as willing or unwilling passengers within himself. He can draw on these Souls for power and sometimes speaks to them.
 
 Souls currently carried include (among others):
@@ -46,7 +47,7 @@ Silas is at the [[Inverted Temple]], having just successfully cured [[Ribny]] an
 
 ---
 
-### Personal Quests.
+## Personal Quests.
 **Take over the [[Cult of Nirvana]]** — Silas's long-term intention, though its shape is still forming.
 **Shepherd the [[Souls]] to [[Paradise]]** — the core of who he is.
 **His Sister Talleah** — she is under arrest alongside him. Their future together is unresolved.

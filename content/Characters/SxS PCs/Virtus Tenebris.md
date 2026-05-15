@@ -6,7 +6,8 @@ publish: true
 
 The leader of the [[Soul Shepherds]]. 
 
-**Background.** A female warrior dedicated to protecting her friends and family. Virtus comes from a pedigreed lineage of famous warriors and explorers known as the [[Tenebris Estate|Tenebris family]]. Virtus demonstrated from a very young age her leadership capabilities and effortlessly rose through the ranks of the [[Solari Crusader|Solari Crusaders]], quickly being chosen to become a [[Solar Scions|Solar Scion]] shortly after.
+## **Background.** 
+A female warrior dedicated to protecting her friends and family. Virtus comes from a pedigreed lineage of famous warriors and explorers known as the [[Tenebris Estate|Tenebris family]]. Virtus demonstrated from a very young age her leadership capabilities and effortlessly rose through the ranks of the [[Solari Crusader|Solari Crusaders]], quickly being chosen to become a [[Solar Scions|Solar Scion]] shortly after.
 
 [[Amiel Tenebris|Sir Tenebris]], a [[Solar Scions|Solar Scion]] and her father, went missing ten years ago in an expedition to find [[Paradise]]; this event ignited Virtus and her brother [[Animus Tenebris|Animus]] to become Solar Scions and explore the world like their father before them. Despite the absence of her father, Virtus respects her mother [[Zariel Tenebris]], Lord Commander of [[Astraloftum]], for defending the floating capital of the [[Ecclesia Solari]]. Her brother [[Animus Tenebris|Animus]] is a famous and seasoned [[Solar Scions|Solar Scion]] that she shares a fierce rivalry with.
 
@@ -14,7 +15,7 @@ Virtus ascended to the [[Solar Scions]] and now travels with her group as its le
 
 ---
 
-**Key Moments & Growth.**
+## **Key Moments & Growth.**
 
 - Is childhood friends with [[Diallos]] and [[Pinot]].
 - Despises [[Vincent of Damocles]].
@@ -43,6 +44,6 @@ Led the Soul Shepherds into Vincent's private study, where they uncovered: a led
 
 ---
 
-### Personal Quests.
+## Personal Quests.
 **Finding Father** — *Active lead in the [[Inverted Temple]].* 
 **Becoming a Good Leader** — learning when to trust, when to speak, and when to let her crew carry the weight.

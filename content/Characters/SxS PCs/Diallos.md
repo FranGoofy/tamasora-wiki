@@ -4,13 +4,14 @@ publish: true
 # Diallos
 *[[Cometborn]], Cleric / Monk, Order of [[Tekk]]*
 
-**Background.** A young [[Cometborn]] man that hatched from an egg made of crystalized celestial meteorite. Diallos believes he resembles his parents that found and nursed his broken celestial egg, but much of his own past is a mystery to him. Diallos was adopted and raised by the monks of the [[Solari Abbey]], where they realized he had a gift of prophecy. His visions were powerful and the monks taught him how to decipher them for the good of the realm. A childhood friend of [[Characters/SxS Player Characters/Virtus Tenebris]], he quickly sharpened his abilities and was selected to be a member of the [[Solar Scions]] alongside her.
+## **Background.** 
+A young [[Cometborn]] man that hatched from an egg made of crystalized celestial meteorite. Diallos believes he resembles his parents that found and nursed his broken celestial egg, but much of his own past is a mystery to him. Diallos was adopted and raised by the monks of the [[Solari Abbey]], where they realized he had a gift of prophecy. His visions were powerful and the monks taught him how to decipher them for the good of the realm. A childhood friend of [[Characters/SxS Player Characters/Virtus Tenebris]], he quickly sharpened his abilities and was selected to be a member of the [[Solar Scions]] alongside her.
 
 Initially, the [[Solari Inquisition]] and the [[Ecclesia Solari]] thought he was too physically weak to be a Scion, but with the tutelage of the esteemed but eccentric [[Abbot Muho]], Diallos vanquished those doubts during an intense sparring match with Virtus, demonstrating his prowess and potential in front of the heads of the Church. He became a '[[Tekkhead]]' because he believes [[Fate]] is what we forge, not what we are told. He takes his role as an Oracle extremely seriously, and believes he must do his part to seek paradise.
 
 Generally Diallos is non-confrontational and prefers to parley and seek nonviolent resolutions. He's having doubts about the Scions as an institution, but he's going by his own moral compass: protecting the innocent, preventing evil from going unchecked, and helping people and places flourish.
 
-**Notable Deeds.**
+## **Notable Deeds.**
 - Delivered the killing blow to [[Count von Preshons]] in mid-air above the [[Well of Souls]], impaling him with his own Spear of the Damned as they both fell.
 - Was killed by [[Magus Xor'Ocu]]'s Necrosis beam during the [[Fomorian Invasion of Astraloftum]], then revived by [[Finley]] with *Revivify*. He is one of the few members of the party to have experienced death firsthand.
 - Led the panicking citizens of Astraloftum to the [[Ark of the Trinity]] during the Fomorian Invasion, fulfilling his "Messiah" prophecy.
@@ -19,7 +20,7 @@ Generally Diallos is non-confrontational and prefers to parley and seek nonviole
 - Sparred with [[Thirteen]] on Astraloftum, and after the fight, shook hands and told Thirteen he hopes he finds absolution one day.
 - On Jupiter: helped triage the wounded [[Bhan-Ember]] fighters at the [[Inverted Temple]], casting Detect Thoughts on [[Editor Rupert]] to expose his hidden memories of [[King Dumaclath]], and performed Last Rites on a dying Bhan-Ember resistance fighter.
 
-### Prophecies Received.
+## Prophecies Received.
 **The Drowning Prophecy (Session 4):** While swimming in the [[Skysea]], the currents of [[Fate]] pulled Diallos under, granting him his first significant vision: a mysterious Red-Haired Lady cradling an infant, a "Darkened Sun," and the ominous "[[Unborn Fomorian King]]."
 
 **Prince of the Comet (Session 9):** In the presence of the ruby dragon [[Syrax]], a vision washed over Diallos. Dragons flying around a central figure; its significance was immense, for it led Syrax to declare Diallos "[[Argahax]]."
@@ -48,6 +49,6 @@ Generally Diallos is non-confrontational and prefers to parley and seek nonviole
 
 **The Mirror Prison & The Dark Tree (Session 64):** During [[Bartholomew Reginald Baldwin XXIX|Bartholomew]]'s Mirror Realm trial, Diallos knelt before the [[Egg of the King]] and communed with Tekk. He received a terrifying augury: a falling, mirror-realm version of Astraloftum, and shades gathering around a withered, Dark Natu Tree. This led him to the conclusion that the Trinity did not create the Mirror Realm merely as a reflection, but as a prison for Demons — or something far older.
 
-### Personal Quests.
+## Personal Quests.
 **Cometborn Heritage** — understanding his origins and the nature of Argahax.
 **Totem [[Spiritcarving]]** — one totem per Titan, carved from each Titan's rare wood. Totems completed: Janus. Next: Jupiter.

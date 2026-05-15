@@ -6,7 +6,7 @@ publish: true
 
 A member of the [[Soul Shepherds]].
 
-# Background. 
+# **Background.** 
 Bartholomew Reginald Baldwin XXIX, also known as 'Arse', is an [[Emerald Kobolds|Emerald Kobold]] from the town of [[Emerald's Rest]].
 Arse was always very reckless and immature, shirking his duties just to have fun with friends. To this, his parents would always comment, *"Stop being such an arse and get back to your duties."*
 

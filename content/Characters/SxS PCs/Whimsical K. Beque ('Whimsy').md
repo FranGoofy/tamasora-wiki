@@ -4,7 +4,8 @@ publish: true
 # Whimsical K. Beque ('Whimsy')
 *'Human' (Changeling) [[Titanborn]], Druid / Barbarian, Order of [[Natu]]*
 
-**Background.** A fierce Changeling that hails from the [[Titan]] turtle [[Jupiter|Carapax]]. Whimsy, dubbed 'the Strongest Woman on Jupiter', was its local hero and protector from raiding pirates. An adoptive mother of two sons — [[Omniscient]] and [[Charming]] — she was recommended by her Titan's shaman to travel to [[Astraloftum]] to make a bigger difference in the world.
+## **Background.** 
+A fierce Changeling that hails from the [[Titan]] turtle [[Jupiter|Carapax]]. Whimsy, dubbed 'the Strongest Woman on Jupiter', was its local hero and protector from raiding pirates. An adoptive mother of two sons — [[Omniscient]] and [[Charming]] — she was recommended by her Titan's shaman to travel to [[Astraloftum]] to make a bigger difference in the world.
 
 After immigrating to Astraloftum with her kids, she was recruited by the [[Ecclesia Solari]] as a [[Solari Crusader]] (foot soldier). Whimsy's awe-inspiring strength and leadership made her respected; she rose through the ranks before being selected by [[Natu]] for the [[Solar Scions]]. She now travels with the [[Soul Shepherds]] as the resident mother of the group and provider of excellent meals.
 
@@ -12,7 +13,7 @@ She believes it was the [[Trinity]], especially Natu, who helped her and her fam
 
 ---
 
-**Key Moments & Growth.**
+## **Key Moments & Growth.**
 
 - **Quadrennial Meal Festival Champion.** Won the Quadrennial Meal Festival on [[Saturn]] alongside [[Diallos]] as her sous-chef. Their winning final dish: a marinated [[Saturnus Rex]] Heart cooked in a clay vessel shaped like Janus, blessed by Tekk's divine favor. She was awarded a medal and 10 solid Gold Blocks.
 - **Earned Natu's Boon** — twice on Saturn, once for freeing a trapped Air Elemental alongside [[Finley]], and once for releasing the Ychen Bannog from ritual slaughter (Finley's act, but Natu recognized them both).
@@ -35,6 +36,6 @@ Her sons are growing up. Charming demonstrated combat prowess during training se
 
 ---
 
-### Personal Quests.
+## Personal Quests.
 **Raising the Kids** — [[Omniscient]] and [[Charming]] are growing up fast.
 **Becoming a Champion Chef** — Quadrennial Meal Festival Champion title secured. What comes next?
