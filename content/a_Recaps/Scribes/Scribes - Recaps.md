@@ -46,10 +46,15 @@ Game Date: (April 14th, 2026\)
 Game Date: (May 11th, 2026\)
 - **Aurelia takes Moony the Bunny Doll.**
 - **Isra takes the Treasure:** Gold pocket watch (100gp), engraved _"Remember the Third."_ Foreshadows the third sister.
-- The Weasels sounds like [[the Baker of Boneshield]].
-- Monty finds a Journal: 
+- The Weasels sounds like [[Holly Aster]].
+- [[Riqirith]] messed with the [[Crooked Man]], convinces him that the paintings are 'twisted', so she fixes them.
+- Monty finds Vlas' Journal: 
 	- "The moment we crossed the Boneshield town gate, I have felt watched. My senses feel less. The dreams come earlier each night. Mother told me long ago we had family from Boneshield, that they died poorly. I thought it was a ghost story. Tonight at dinner I will tell Monty everything. He deserves to know we are blood, if distantly. We should leave on the [[Wandering Line]] tomorrow. But tonight: dinner. No, today, Breakfast." *-Vlastimil*
 		- Written in 297, 15 years ago.
-- Aurelia finds the Seelie Court Curse Tome ([[Thread of Malediction]]).
-- Picky Diggy's Magical Potions (4 Health Potions) which [[Riqirith]] Finds.
-- 
+- Aurelia finds the **Seelie Court Curse Tome** ([[Thread of Malediction]]).
+- **Picky Dikky's Magical Potions** (4 Health Potions) which [[Riqirith]] Finds.
+
+## **Session 4\.** 
+12 Everbloom 312  
+Game Date: (May 19th, 2026\)
+To be continued...
