@@ -5,7 +5,7 @@ publish: true
 *[[Dhampir]], Cleric / Sorcerer, Order of [[Magi]]*
 
 ## **Background.** 
-Silas Clemens, born a dhampir, is the product of a dark union between [[Count von Preshons]] and a [[Evelyn Eve|mortal woman]]. His early life was marked by torment and darkness as he was subjected to grueling torture by his father, Count Preshons, who intended to mold Silas into the [[Unborn Fomorian King]] — a living [[Phylactery]] of immense dark power — by etching the [[Twilight Brand]] onto him. Silas has a sister named [[Talleah Preshons]].
+Silas Clemens, born a dhampir, is the product of a dark union between [[Count von Preshons]] and a [[Evelyn Eve Tepes|mortal woman]]. His early life was marked by torment and darkness as he was subjected to grueling torture by his father, Count Preshons, who intended to mold Silas into the [[Unborn Fomorian King]] — a living [[Phylactery]] of immense dark power — by etching the [[Twilight Brand]] onto him. Silas has a sister named [[Talleah Preshons]].
 
 This plan was thwarted during the [[The Fall of Yahar’gul|Fall of Yahar'gul]], led by the [[Ecclesia Solari]] and the [[Solar Scions]], who rescued the young Silas from his father's clutches. Raised by the monks of the [[Solari Abbey]] alongside [[Diallos]], Silas grew up under the watchful eye of [[Holy Mother Anastasia]] and [[Abbot Muho]]. His presence within the church was controversial due to his [[Fomorian]] lineage and [[Dhampir]] nature, which made him both a threat and an object of fear. However, his physical fragility and emotional tranquility gradually alleviated these fears.
 
