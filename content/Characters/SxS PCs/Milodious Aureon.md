@@ -30,7 +30,7 @@ Milo was discovered by the Soul Shepherds aboard the enemy vessel of Stone Giant
 Milo brings a natural warmth and camaraderie to the group — a troubadour's instinct to witness and document the weight of what is happening around him. He shares a natural rapport with [[Joy]], and acts as a living witness to the resistance's struggle on Jupiter, documenting it in the tradition of a troubadour. He is still new to the group's internal dynamics and is finding his footing.
 
 ## **Family & Saturn.**
-His family on Saturn has no idea of the dangers he regularly faces. They believe he is a wandering singer. He is a Child of Jas — a Titanborn of [[Saturn|Janus]] — and his homeland's culture and ley-line navigation inform the way he moves through the world.
+His family on Saturn has no idea of the dangers he regularly faces. They believe he is a wandering singer. He is a Child of Jas — a Titanborn of [[Saturn|Janus]] — and his homeland's culture and ley-line navigation inform the way he moves through the world. The 'Mad Shamaness' [[Jaz'Farrah]] is his cousin.
 
 ---
 
