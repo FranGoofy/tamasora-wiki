@@ -57,4 +57,5 @@ Game Date: (May 11th, 2026\)
 ## **Session 4\.** 
 12 Everbloom 312  
 Game Date: (May 19th, 2026\)
-To be continued...
+- The [[Boneshield Misfits]] continue exploring the [[Crooked House]], looking for the final mementos required to enter the attic, where they hear Togo barking.
+- 
