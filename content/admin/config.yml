@@ -31,8 +31,6 @@ collections:
     folder: "a_Recaps"
     create: true
     extension: md
-    nested:
-      depth: 100
     fields:
       - { label: "Publish to Wiki", name: "publish", widget: "boolean", default: false }
       - { label: "Body", name: "body", widget: "markdown" }
