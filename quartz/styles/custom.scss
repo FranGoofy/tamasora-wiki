@@ -1,3 +1,66 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Wikipedia-style infobox (Obsidian callout: > [!infobox] Title)
+.callout[data-callout="infobox"] {
+  float: right;
+  width: 280px;
+  margin: 0 0 1rem 1.5rem;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  background-color: var(--light);
+  font-size: 0.85rem;
+
+  // Title bar
+  .callout-title {
+    justify-content: center;
+    text-align: center;
+    font-weight: 700;
+    font-size: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--lightgray);
+    margin-bottom: 0.5rem;
+
+    .callout-icon {
+      display: none;
+    }
+  }
+
+  // Images centered, full width of the box
+  img {
+    display: block;
+    margin: 0 auto 0.75rem auto;
+    max-width: 100%;
+    border-radius: 4px;
+  }
+
+  // Compact key/value table
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0;
+
+    th, td {
+      padding: 0.25rem 0.4rem;
+      border: none;
+      border-bottom: 1px solid var(--lightgray);
+      vertical-align: top;
+    }
+
+    tr:last-child td {
+      border-bottom: none;
+    }
+
+    td:first-child {
+      width: 40%;
+      font-weight: 600;
+    }
+  }
+
+  // Stack vertically on narrow screens
+  @media (max-width: 800px) {
+    float: none;
+    width: 100%;
+    margin: 1rem 0;
+  }
+}
