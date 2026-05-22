@@ -1,9 +1,10 @@
 ---
 publish: true
 ---
-Nightmarish, ravenous demons that plague [[Tamasora]]. According to the [[Ecclesia Solari]], Fomorians are the result of a sinful transformation — [[Spirit Realm|Spirits]] or degrading [[Souls]] infected by the dark ambitions of the [[Cult of Nirvana]], or those that absorb too much worldly suffering, twist into these monstrous entities.
-
+A political term for '*Monstrous Races & Species*', used by denizens of the [[Skysea]] to refer to creatures that are usually ostracized by society. The general population views '*monstrous*' species such as [[Goblin|Goblinoids]], [[Ogre]], [[Kobold]], and [[Harpy]] with deep suspicion and fear.
 ## Ecclesia Solari Doctrine
+
+According to the [[Ecclesia Solari]], Fomorians are the result of a sinful transformation — [[Spirit Realm|Spirits]] or degrading [[Souls]] infected by the dark ambitions of the [[Cult of Nirvana]], or those that absorb too much worldly suffering, twist into these monstrous entities.
 
 The Church teaches that Fomorians are corrupted spiritual entities — the fallen manifestation of what happens when the natural order breaks down. With [[Paradise]] sealed for over 300 years, the [[Spirit Realm|Waiting Veil]] has become bloated and overgrown. Souls that cannot pass on to Paradise begin to degrade, losing their mortal memories and "forged" structure, reverting back into raw Spirits. If these degrading entities are tainted by corruption, ambition, or suffering, they undergo a monstrous transformation.
 
@@ -33,8 +34,6 @@ Fomorians hunger for souls and spiritual energy. They are drawn to places where 
 To the common people of [[Tamasora]], Fomorians are monsters from nightmare — demons that devour souls, corrupt the pure, and bring ruin wherever they appear. Stories of Fomorian attacks terrify children and adults alike. Many settlements have lost loved ones to Fomorian raids, and orphanages like [[Natu's Starlit Nest]] shelter children who lost parents to these creatures.
 
 The [[Solari Inquisition]] hunts Fomorians relentlessly, and being accused of harboring Fomorian taint or association with the [[Cult of Nirvana]] is a death sentence. 
-
-The general population views anyone [[Twilight Brand|Branded]] by the Cult, or monstrous species such as [[Goblin|Goblinoids]], [[Ogre]], [[Kobold]], and [[Harpy]] with deep suspicion and fear.
 
 ## Related
 - [[Spirit Realm]]

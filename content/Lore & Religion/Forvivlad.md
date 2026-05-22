@@ -3,7 +3,7 @@ publish: true
 ---
 # Forvivlad
 
-The **Forvivlad** (Dwarven for *"Stone-grief"* or *"Flesh of Despair"*) is a horrific curse afflicting the [[Dwarves of Jupiter]] under the reign of [[Traitor King Dumac]]. It is the result of prolonged exposure to toxic [[Titanborn|Titan]]-blood, [[Orichalcum]] smog, and the soul-draining conditions of Dumac's forge-factories in the [[Undershell]].
+The **Forvivlad** (Dwarven for *"Stone-grief"* or *"Flesh of Despair"*) is a horrific curse afflicting the [[Dwarves of Jupiter]] under the reign of [[Traitor King Dumac]]. It is the result of prolonged exposure to toxic [[Titanborn|Titan]]-blood from spending too much time in the [[Deep Roads]].
 
 ## Symptoms
 - Complete despair of flesh and bone — the infected's body begins calcifying, their skin hardening toward stone.
