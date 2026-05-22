@@ -113,10 +113,17 @@ With the help of Milodius’ calming ballads, Diallos’ peaceful resistance mag
 \*15 Everbloom 312 (Day 70 since the formation of the Soul Shepherds)  Game Date: (May 14th, 2026)
 
 - The Soul Shepherds explore the Great Alchemical Library in the Inverted Temple and meet [[Groin the Brewer]], who tells them that [[Saint Brasser the Ambrosius]] was 'decanonized' by the [[Ecclesia Solari]]. 
+
 - Diallos is scared of [[Abathur]] after he reads his name in a journal from [[Bobby Beerbelly]]. He becomes **God-Meddled** and shrinks in size out of fear. Silas and Bart are drunk so they don't get scared when they read Abathur's name (immune to Frightened condition for 1 hour after drinking )
 
 > _"It wasn't faith that broke him. They poured Abathur into him like wine into a cup; The CHURCH poured it into him. They knew. The Church Knew. I must tell Amiel..."_ 
 > 		-**Bobby**
+
+
+- Diallos is scared of [[Abathur]] after he reads his name in a journal from [[Bobby Beerbelly]]. He becomes **God-Meddled** and shrinks in size out of fear, and then restores back to normal after a few minutes. 
+- Silas and Bart are drunk so they don't get scared when they read Abathur's name (immune to Frightened condition for 1 hour after drinking )
+>	*"It wasn't faith that broke him. They poured Abathur into him like wine into a cup; The CHURCH poured it into him. They knew. The Church Knew. I must tell Amiel..."* 
+		-**Bobby**
 
 - Silas looks for a **Book on Hemomancy**, and a Book about the Scribes' take on the Church.
     - Silas finds a book about Titan blood (Cause of [[Forvivlad]]).
@@ -147,4 +154,7 @@ With the help of Milodius’ calming ballads, Diallos’ peaceful resistance mag
 
 To Be Continued...
 
-or??
+Whimsical's snake goes down Lake Ruthaba.
+
+The Fire Giant...
+
