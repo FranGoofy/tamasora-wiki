@@ -1,4 +1,5 @@
 ---
+title: Home
 publish: true
 ---
 # Welcome to the Tamasora page!
