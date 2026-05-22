@@ -40,7 +40,9 @@ const EditButton: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
     }
   }
 
-  if (!collection || !entryName) return null
+  if (!collection || !entryName) {
+    return <small style="opacity:0.5;font-size:0.7rem">debug — path: {normalised || "(empty)"} | collection: {collection || "?"} | entry: {entryName || "?"}</small>
+  }
 
   const slugify = (s: string) => s.replaceAll(" ", "-")
   const editUrl = `${ADMIN_URL}/#/collections/${collection}/entries/${entryName.split("/").map(slugify).join("/")}`
