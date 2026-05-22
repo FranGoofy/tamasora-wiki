@@ -1,8 +1,15 @@
 ---
 publish: true
 ---
+> [!infobox] Silas Clemens
+> ![[Silas.webp]]
+> 
+> | | |
+> |---|---|
+> | **Ancestry** | [[Dhampir]] |
+> | **Class** | Cleric / Sorcerer |
+> | **Deity** | [[Magi]] |
 # Silas Clemens
-*[[Dhampir]], Cleric / Sorcerer, Order of [[Magi]]*
 
 ## **Background.** 
 Silas Clemens, born a dhampir, is the product of a dark union between [[Count von Preshons]] and a [[Evelyn Eve Tepes|mortal woman]]. His early life was marked by torment and darkness as he was subjected to grueling torture by his father, Count Preshons, who intended to mold Silas into the [[Unborn Fomorian King]] — a living [[Phylactery]] of immense dark power — by etching the [[Twilight Brand]] onto him. Silas has a sister named [[Talleah Preshons]].

@@ -1,8 +1,16 @@
 ---
 publish: true
 ---
+> [!infobox] Bartholomew Reginald Baldwin XXIX
+> ![[Arse.webp]]
+> 
+> | | |
+> |---|---|
+> | **Ancestry** | [[Emerald Kobolds\|Emerald Kobold]] |
+> | **Class** | Paladin / Bard / Warlock |
+> | **Deity** | [[Natu]] |
+> | **Alias** | Arse |
 # Bartholomew Reginald Baldwin XXIX
-*Kobold, Paladin / Bard / Warlock, [[Natu]]*
 
 A member of the [[Soul Shepherds]].
 

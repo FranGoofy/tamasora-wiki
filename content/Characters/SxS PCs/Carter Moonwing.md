@@ -1,8 +1,15 @@
 ---
 publish: true
 ---
+> [!infobox] Carter Moonwing
+> ![[Carter Moonwing.webp]]
+> 
+> | | |
+> |---|---|
+> | **Ancestry** | Owlin ([[Children of Jas]]) |
+> | **Class** | Cleric / Wizard |
+> | **Deity** | [[Magi]] |
 # Carter Moonwing
-*Owlin, Cleric / Wizard, Order of [[Magi]]*
 
 ## **Background.** 
 Esteemed [[Solar Scions|Solar Scion]] Carter Moonwing is a young Owlin ([[Children of Jas|Child of Jas]]) wizard who graduated at the top of his class in [[College of Damocles]] under the tutelage of the wizened [[Professor Gobby]]. Carter suffers from a state of amnesia with gaps in his memory. Sometime in his past, he was bestowed the knowledge to read the extinct language of '[[Rubix]]'; Carter suspects this is the work of an enigmatic organization known as '[[Scribes|the Scribes]]'.

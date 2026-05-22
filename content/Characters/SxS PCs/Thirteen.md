@@ -1,8 +1,15 @@
 ---
 publish: true
 ---
+> [!infobox] Thirteen
+> ![[thirteenth.webp]]
+> 
+> | | |
+> |---|---|
+> | **Ancestry** | [[Cometborn]] |
+> | **Class** | Martyr / [[SABER]] Operative |
+> | **Allegiance** | [[Ecclesia Solari]] (Clandestine) |
 # Thirteen
-*[[Cometborn]], Martyr / [[SABER]] Operative of the [[Ecclesia Solari]] (Clandestine)*
 
 **Background.** Discovered not in the heavens, but amidst the twisted reflections of the **[[Mirror Realm]]**, Thirteen was found as a dormant, crystallized Egg. He was secretly adopted by **[[High Priestess Cetra|Liara Cetra]]**, then a rising [[Solar Scions|Solar Scion]], who vowed to raise the fledgling [[Cometborn]] away from the prying eyes of the Church. However, as he came of age, he began displaying violent signs of stigmata — manifestations of raw, unstable divinity.
 
