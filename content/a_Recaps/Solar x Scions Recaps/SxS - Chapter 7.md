@@ -113,21 +113,16 @@ With the help of Milodius’ calming ballads, Diallos’ peaceful resistance mag
 \*15 Everbloom 312 (Day 70 since the formation of the Soul Shepherds)  Game Date: (May 14th, 2026)
 
 - The Soul Shepherds explore the Great Alchemical Library in the Inverted Temple and meet [[Groin the Brewer]], who tells them that [[Saint Brasser the Ambrosius]] was 'decanonized' by the [[Ecclesia Solari]]. 
-
 - Diallos is scared of [[Abathur]] after he reads his name in a journal from [[Bobby Beerbelly]]. He becomes **God-Meddled** and shrinks in size out of fear. Silas and Bart are drunk so they don't get scared when they read Abathur's name (immune to Frightened condition for 1 hour after drinking )
 
 > _"It wasn't faith that broke him. They poured Abathur into him like wine into a cup; The CHURCH poured it into him. They knew. The Church Knew. I must tell Amiel..."_ 
 > 		-**Bobby**
 
-
-- Diallos is scared of [[Abathur]] after he reads his name in a journal from [[Bobby Beerbelly]]. He becomes **God-Meddled** and shrinks in size out of fear, and then restores back to normal after a few minutes. 
+ Diallos is scared of [[Abathur]] after he reads his name in a journal from [[Bobby Beerbelly]]. He becomes **God-Meddled** and shrinks in size out of fear, and then restores back to normal after a few minutes. 
 - Silas and Bart are drunk so they don't get scared when they read Abathur's name (immune to Frightened condition for 1 hour after drinking )
->	*"It wasn't faith that broke him. They poured Abathur into him like wine into a cup; The CHURCH poured it into him. They knew. The Church Knew. I must tell Amiel..."* 
-		-**Bobby**
-
 - Silas looks for a **Book on Hemomancy**, and a Book about the Scribes' take on the Church.
-    - Silas finds a book about Titan blood (Cause of [[Forvivlad]]).
-    - He finds a **Scribe manifesto**:
+        - Silas finds a book about Titan blood (Cause of [[Forvivlad]]).
+        - He finds a **Scribe manifesto**:
 	> 	_There's a little voice in our head that says STOP! Abandon Authority and allow us to listen to things that matter. That is, in and of itself, Democracy. The powers of the Skysea have always served the rich and influential and discarded the poor. The Ecclesia is a curious one, they supposedly champion the downtrodden and offer a bastion of refuge, yet they reject other races arbitrarily... Our Goblinoid and Orc friends struggle to find their way into our world, rejected by the Ecclesia and exploited by the Hegemony, what other recourse do they have then mercenary work? They then fall under the stigma that the Ecclesia has labeled them under criminals - it is a vicious negative social spiral. I propose that we revoke the idea of 'Fomorians', the Ecclesia can be force of good, but until they become accepting of all races and species, that cannot, and will not, happen._  - Guapito de Vona, Editor\*\*
 - Whimsical finds an Urn (**'Be Creative' Alchemy Jug**) in a secret tunnel behind a bookshelf.
 - Virtus finds evidence that her father [[Amiel Tenebris]] was here with Bobby at some point:
@@ -135,26 +130,22 @@ With the help of Milodius’ calming ballads, Diallos’ peaceful resistance mag
 > 	_"The Fomorian is dead and Bobby has the Golden Key. I will hold the line at the bridge so he can seal the door. After this, I plan to drink up all of Ale in the Temple!"_
 
 - Thirteen finds the '**Church Killer' manuscript** hidden in the library and keeps it to himself. A heretical manuscript contradicting official Church doctrine on Brasser — hidden in a false stone hollow. [[Thirteen]]'s Soul-Sword vibrates violently near it. Inside the binding is a **Spell Scroll of Commune**.
-    - It names _two_ high-ranking Solari conspirators, not one:
-    - One name is **half-burned away** — visible only as a partial seal. (For us to decide later — leave it open.)
-    - The other is **fully legible:** an older Solari Inquisitor, likely dead now, who served under the previous High Inquisitor. The name's family is still active in Astraloftum politics. [[Vincent of Damocles]].
+        - It names _two_ high-ranking Solari conspirators, not one:
+        - One name is **half-burned away** — visible only as a partial seal. (For us to decide later — leave it open.)
+        - The other is **fully legible:** an older Solari Inquisitor, likely dead now, who served under the previous High Inquisitor. The name's family is still active in Astraloftum politics. [[Vincent of Damocles]].
 - Kekoa warrior named **Thorfinn** in the Hall of Statues. Offered the Soul Shepherds a spot on his [[Pōpō Pele]] team; they refused but he said the offer will remain open, they can seek him out on [[Hipolum-Dhrum]] at [[Grand Aletop]].
 - Silas absorbs 4 monks souls with their consent.
 - Thirteen asks the [[Trinity]] 4 questions with the Commune Scroll.
-    - The manuscript will destroy the church, Yes.
-    - The Gods are currently displeased, Yes.
-    - The Golden Key is under Lake Ruthaba, Yes.
-    - In risk of divine retribution, Thirteen asked one more question, Is Abathur still alive? Yes.
+        - The manuscript will destroy the church, Yes.
+        - The Gods are currently displeased, Yes.
+        - The Golden Key is under Lake Ruthaba, Yes.
+        - In risk of divine retribution, Thirteen asked one more question, Is Abathur still alive? Yes.
 - The party discusses what to do about **Dumac's scout party** at **Crystalhammer Falls** (2 days before they find the **Bham-Ember Base**)
-    - But, Silas has a Hallucinatory Terrain plan and the Shepherds Milodius, Diallos, and Thirteen plan to scout ahead and potentially bait the Fire giants to the Deep Roads so they can drown them by destroying the blockage under Lake Ruthaba (from below).
+        - But, Silas has a Hallucinatory Terrain plan and the Shepherds Milodius, Diallos, and Thirteen plan to scout ahead and potentially bait the Fire giants to the Deep Roads so they can drown them by destroying the blockage under Lake Ruthaba (from below).
 
 ## **Session 77.** ???
 
 \*15-16 Everbloom 312 (Day 71 since the formation of the Soul Shepherds)  Game Date: (??? th, 2026)
 
 To Be Continued...
-
-Whimsical's snake goes down Lake Ruthaba.
-
-The Fire Giant...
-
+ -Erica put your recap here: :)
