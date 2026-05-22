@@ -1,12 +1,14 @@
 ---
 publish: true
 ---
->[!infobox] Virtus Tenebris
- ![[virtusfinal2.webp]]
- **Key Information**
- >**Ancestry** | Tiefling
- >**Class** | Fighter / Paladin
- >**Deity** | Tekk
+> [!infobox] Virtus Tenebris
+> ![[virtusfinal2.webp]]
+> 
+> | | |
+> |---|---|
+> | **Ancestry** | Tiefling |
+> | **Class** | Fighter / Paladin |
+> | **Deity** | Tekk |
 # Virtus Tenebris
 
 ## **Background.** 
