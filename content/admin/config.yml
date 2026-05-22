@@ -26,9 +26,18 @@ collections:
       - { label: "Publish to Wiki", name: "publish", widget: "boolean", default: false }
       - { label: "Body", name: "body", widget: "markdown" }
 
-  - name: recaps
-    label: "Recaps"
-    folder: "a_Recaps"
+  - name: sxs_recaps
+    label: "SxS Recaps"
+    folder: "a_Recaps/Solar x Scions Recaps"
+    create: true
+    extension: md
+    fields:
+      - { label: "Publish to Wiki", name: "publish", widget: "boolean", default: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: scribes_recaps
+    label: "Scribes Recaps"
+    folder: "a_Recaps/Scribes"
     create: true
     extension: md
     fields:

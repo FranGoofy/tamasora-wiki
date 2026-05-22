@@ -5,7 +5,8 @@ const ADMIN_URL = "https://tamasora-wiki.pages.dev/admin"
 const COLLECTION_MAP: Record<string, string> = {
   "Characters/SxS PCs": "sxs_characters",
   "Characters/Scribes PCs": "scribes_characters",
-  "a_Recaps": "recaps",
+  "a_Recaps/Solar x Scions Recaps": "sxs_recaps",
+  "a_Recaps/Scribes": "scribes_recaps",
 }
 
 const EditButton: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
