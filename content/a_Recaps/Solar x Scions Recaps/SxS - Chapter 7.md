@@ -118,7 +118,7 @@ With the help of Milodius’ calming ballads, Diallos’ peaceful resistance mag
 > _"It wasn't faith that broke him. They poured Abathur into him like wine into a cup; The CHURCH poured it into him. They knew. The Church Knew. I must tell Amiel..."_ 
 > 		-**Bobby**
 
-    - Diallos is scared of [[Abathur]] after he reads his name in a journal from [[Bobby Beerbelly]]. He becomes **God-Meddled** and shrinks in size out of fear, and then restores back to normal after a few minutes. 
+ Diallos is scared of [[Abathur]] after he reads his name in a journal from [[Bobby Beerbelly]]. He becomes **God-Meddled** and shrinks in size out of fear, and then restores back to normal after a few minutes. 
 - Silas and Bart are drunk so they don't get scared when they read Abathur's name (immune to Frightened condition for 1 hour after drinking )
 - Silas looks for a **Book on Hemomancy**, and a Book about the Scribes' take on the Church.
         - Silas finds a book about Titan blood (Cause of [[Forvivlad]]).
@@ -148,7 +148,4 @@ With the help of Milodius’ calming ballads, Diallos’ peaceful resistance mag
 \*15-16 Everbloom 312 (Day 71 since the formation of the Soul Shepherds)  Game Date: (??? th, 2026)
 
 To Be Continued...
-
-Whimsical's snake goes down Lake Ruthaba.
-
-The Fire Giant...
+ -Erica put your recap here: :)
