@@ -12,14 +12,16 @@ publish: true
 # Diallos
 
 ## **Background.** 
-A young [[Cometborn]] man that hatched from an egg made of crystalized celestial meteorite. Diallos believes he resembles his parents that found and nursed his broken celestial egg, but much of his own past is a mystery to him. Diallos was adopted and raised by the monks of the [[Solari Abbey]], where they realized he had a gift of prophecy. His visions were powerful and the monks taught him how to decipher them for the good of the realm. A childhood friend of [[Characters/SxS Player Characters/Virtus Tenebris]], he quickly sharpened his abilities and was selected to be a member of the [[Solar Scions]] alongside her.
+A young [[Cometborn]] man that hatched from an egg made of crystalized celestial meteorite. Diallos believes he resembles his parents that found and nursed his broken celestial egg, but much of his own past is a mystery to him. Diallos was adopted and raised by the monks of the [[Solari Abbey]], where they realized he had a gift of prophecy. His visions were powerful and the monks taught him how to decipher them for the good of the realm. A childhood friend of [[Virtus Tenebris]], he quickly sharpened his abilities and was selected to be a member of the [[Solar Scions]] alongside her.
 
 Initially, the [[Solari Inquisition]] and the [[Ecclesia Solari]] thought he was too physically weak to be a Scion, but with the tutelage of the esteemed but eccentric [[Abbot Muho]], Diallos vanquished those doubts during an intense sparring match with Virtus, demonstrating his prowess and potential in front of the heads of the Church. He became a '[[Tekkhead]]' because he believes [[Fate]] is what we forge, not what we are told. He takes his role as an Oracle extremely seriously, and believes he must do his part to seek paradise.
 
 Generally Diallos is non-confrontational and prefers to parley and seek nonviolent resolutions. He's having doubts about the Scions as an institution, but he's going by his own moral compass: protecting the innocent, preventing evil from going unchecked, and helping people and places flourish.
 
+He has a falcon companion named [[Eden]].
+
 ## **Notable Deeds.**
-- Delivered the killing blow to [[Count von Preshons]] in mid-air above the [[Well of Souls]], impaling him with his own Spear of the Damned as they both fell.
+- Delivered the killing blow to [[Count von Preshons]] in mid-air above the [[Well of Souls]], ([[Battle at the Well of Souls]]) impaling him with his own Spear of the Damned as they both fell.
 - Was killed by [[Magus Xor'Ocu]]'s Necrosis beam during the [[Fomorian Invasion of Astraloftum]], then revived by [[Finley]] with *Revivify*. He is one of the few members of the party to have experienced death firsthand.
 - Led the panicking citizens of Astraloftum to the [[Ark of the Trinity]] during the Fomorian Invasion, fulfilling his "Messiah" prophecy.
 - Won Round 1 and Round 2 of the [[Saturn|Quadrennial Meal Festival]] Competition on [[Saturn]] alongside [[Whimsical|Whimsy]], and was a key part of their winning Final Offering.

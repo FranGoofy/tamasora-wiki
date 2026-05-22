@@ -1,6 +1,19 @@
 ---
 publish: true
 ---
+> [!infobox] Sir Amiel Tenebris
+> ![[Sir_Amiel_Tenebris.webp]]
+> 
+> | | |
+> |---|---|
+> | **Title** | Sir Amiel Tenebris the Maulforged |
+> | **Class** | [[Solar Scions\|Solar Scion]] / Warrior |
+> | **Deity** | [[Tekk]] |
+> | **House** | [[Tenebris Estate]] |
+> | **Partner** | [[Zariel Tenebris]] |
+> | **Children** | [[Characters/SxS Player Characters/Virtus Tenebris\|Virtus]], [[Animus Tenebris\|Animus]] |
+> | **Status** | Missing (10 years) |
+
 *Missing Solar Scion — Father of [[Characters/SxS Player Characters/Virtus Tenebris|Virtus]] and [[Animus Tenebris|Animus]]*
 
 **Sir Amiel Tenebris the Maulforged** was a legendary [[Solar Scions|Solar Scion]], renowned warrior, and patriarch of the [[Tenebris Estate]]. He disappeared approximately ten years ago during an expedition to find [[Paradise]], leaving behind his family, his legacy, and many unanswered questions.
