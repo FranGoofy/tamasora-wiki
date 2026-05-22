@@ -1,10 +1,13 @@
 ---
 publish: true
 ---
+>[!infobox] Virtus Tenebris
+ ![[virtusfinal2.webp]]
+ **Key Information**
+ >**Ancestry** | Tiefling
+ >**Class** | Fighter / Paladin
+ >**Deity** | Tekk
 # Virtus Tenebris
-*[[Tiefling]], Paladin / Fighter, Order of [[Tekk]]*
-
-The leader of the [[Soul Shepherds]]. 
 
 ## **Background.** 
 A female warrior dedicated to protecting her friends and family. Virtus comes from a pedigreed lineage of famous warriors and explorers known as the [[Tenebris Estate|Tenebris family]]. Virtus demonstrated from a very young age her leadership capabilities and effortlessly rose through the ranks of the [[Solari Crusader|Solari Crusaders]], quickly being chosen to become a [[Solar Scions|Solar Scion]] shortly after.
