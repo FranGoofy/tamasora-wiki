@@ -15,8 +15,11 @@ const toCollectionName = (s: string) => s.toLowerCase().replace(/[\s-]+/g, "_")
 const EditButton: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   const filePath = fileData.filePath ?? ""
 
-  // Normalise path separators and strip leading slash
-  const normalised = filePath.replace(/\\/g, "/").replace(/^\//, "")
+  // Normalise path separators, strip leading slash, and drop the leading "content/" prefix
+  const normalised = filePath
+    .replace(/\\/g, "/")
+    .replace(/^\//, "")
+    .replace(/^content\//, "")
 
   let collection: string | undefined
   let entryName: string | undefined
@@ -40,9 +43,7 @@ const EditButton: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
     }
   }
 
-  if (!collection || !entryName) {
-    return <small style="opacity:0.5;font-size:0.7rem">debug — path: {normalised || "(empty)"} | collection: {collection || "?"} | entry: {entryName || "?"}</small>
-  }
+  if (!collection || !entryName) return null
 
   const slugify = (s: string) => s.replaceAll(" ", "-")
   const editUrl = `${ADMIN_URL}/#/collections/${collection}/entries/${entryName.split("/").map(slugify).join("/")}`
