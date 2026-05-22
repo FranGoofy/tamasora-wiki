@@ -11,7 +11,7 @@ publish: true
 > | **Deity** | [[Tekk]] |
 > | **House** | [[Tenebris Estate]] |
 > | **Partner** | [[Zariel Tenebris]] |
-> | **Children** | [[Virtus Tenebris]], [[Animus Tenebris\|Animus]] |
+> | **Children** | [[Virtus Tenebris]], [[Animus Tenebris|Animus]] |
 > | **Status** | Missing (10 years) |
 
 *Missing Solar Scion — Father of [[Virtus Tenebris|Virtus]] and [[Animus Tenebris|Animus]]*
