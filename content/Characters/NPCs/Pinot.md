@@ -1,0 +1,10 @@
+---
+publish: true
+---
+Childhood friend of [[Characters/SxS Player Characters/Virtus Tenebris]] & [[Diallos]]. 
+
+A young boy who is good with his hands. According to Pinot, Pinot and Lileas's mother passed away after Lileas' birth. Pinot raised Lileas during their childhood. Their father lived in [[Macha]], raising money for the two children. Since they were hardly with their parents, they spent most of their time on their grandfather's farm. This may be the place where Pinot first took interest in gardening. He eventually developed love for all of nature and "naturally" became a gardener. He never seems to take a day off in gardening, and perhaps never once slacked off. According to his philosophy below:
+
+*If a gardener is lazy, even for a single day, it will show in his work. No, Gardeners should be diligent and meticulous.*
+
+This might be the reason he never takes breaks while working in the garden. At one point, Pinot worked at a General Store in [[Astraloftum]], being able to say the prices right from the top of his head. Pinot also worked for a weapon shop at another point in his life, picking up heavy equipment and perhaps moving them to other local vendors or attempting to sell them for the person he worked for. When he looks back at it, he smiles to himself. He also once took part in a potion study. Though he was paid well, he ended up writhed with pain for days, as well as potion poisoning. He doesn't seem to be much of a spender, saving every piece of gold he earns. Pinot's outfit is a slightly modified Natural Vest Wear. He also wears an old straw hat (which is part of the clothing), which has a lot of sentimental value. He never seems to wear any other clothes at all. In fact, he wears his uniform wherever he goes, being scolded by Virtus from time to time. Pinot also wears gloves that were a gift from his sister. He never goes gardening without the gloves, which he received during the New Years’ Festival.
