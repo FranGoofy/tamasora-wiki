@@ -2,12 +2,15 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 
 const ADMIN_URL = "https://tamasora-wiki.pages.dev/admin"
 
+// Static mappings for fixed character collections
 const COLLECTION_MAP: Record<string, string> = {
   "Characters/SxS PCs": "sxs_characters",
   "Characters/Scribes PCs": "scribes_characters",
-  "a_Recaps/Solar x Scions Recaps": "sxs_recaps",
-  "a_Recaps/Scribes": "scribes_recaps",
 }
+
+// Slugify subfolder names into snake_case collection names
+// (must match the algorithm used in the sync GitHub Action)
+const toCollectionName = (s: string) => s.toLowerCase().replace(/[\s-]+/g, "_")
 
 const EditButton: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   const filePath = fileData.filePath ?? ""
@@ -18,13 +21,22 @@ const EditButton: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   let collection: string | undefined
   let entryName: string | undefined
 
-  for (const [folder, col] of Object.entries(COLLECTION_MAP)) {
-    if (normalised.includes(folder + "/")) {
-      collection = col
-      // Extract filename after the folder, strip .md extension
-      const afterFolder = normalised.split(folder + "/")[1]
-      entryName = afterFolder?.replace(/\.md$/, "")
-      break
+  // Auto-derive collection from a_Recaps/<subfolder>/<file>.md
+  if (normalised.startsWith("a_Recaps/")) {
+    const parts = normalised.split("/")
+    if (parts.length >= 3) {
+      collection = toCollectionName(parts[1])
+      entryName = parts.slice(2).join("/").replace(/\.md$/, "")
+    }
+  } else {
+    // Fall back to static character mappings
+    for (const [folder, col] of Object.entries(COLLECTION_MAP)) {
+      if (normalised.includes(folder + "/")) {
+        collection = col
+        const afterFolder = normalised.split(folder + "/")[1]
+        entryName = afterFolder?.replace(/\.md$/, "")
+        break
+      }
     }
   }
 
