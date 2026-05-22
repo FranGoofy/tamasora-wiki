@@ -21,7 +21,7 @@ The night before the trial, [[Carter Moonwing|Carter]] (revealed to be a Carter 
 ## The Escape
 - [[Silas Clemens|Silas]] unleashed a shroud of **magical darkness**, plunging the courtroom into chaos.
 - Silas used a **Scroll of Power Word: Peel** to tear a spatial rift in reality.
-- [[Diallos]] and [[Characters/SxS Player Characters/Virtus Tenebris|Virtus]] were knocked into the rift by the chaos.
+- [[Diallos]] and [[Virtus Tenebris|Virtus]] were knocked into the rift by the chaos.
 - **[[Finley]]**, standing resolute, intercepted Jaz'Farrah as she fled — striking her with an airborne blow and sending her spiraling into the rift.
 - Carter and Jaz'Farrah escaped together, vanishing into the sky.
 - Silas dispelled the rift before it could consume the world.

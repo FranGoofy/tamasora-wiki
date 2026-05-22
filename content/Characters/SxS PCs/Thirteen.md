@@ -52,7 +52,7 @@ After the Mirror Realm trial, [[Whimsical|Whimsical]] staged a public Gauntlet �
 **Building Trust.**
 - Had drinks with [[Silas Clemens]] at Purgatory Bar. Silas threatened him plainly: if he ever hurts his friends, Silas will personally kill him. They ended the night with a tense but genuine understanding.
 - Sparred with [[Diallos]], revealed his wings in the fight, and the two took to the sky together. After the fight they shook hands. Diallos told him he hoped he would find absolution one day.
-- Lost a fistfight to [[Characters/SxS Player Characters/Virtus Tenebris]] outside the [[Skysmith Forge]] after revealing his full backstory to her — including that he is a covert informant to the [[High Priestess Cetra]]. Virtus's anger was not at his past but at his ongoing dual loyalty. They have an uneasy truce.
+- Lost a fistfight to [[Virtus Tenebris]] outside the [[Skysmith Forge]] after revealing his full backstory to her — including that he is a covert informant to the [[High Priestess Cetra]]. Virtus's anger was not at his past but at his ongoing dual loyalty. They have an uneasy truce.
 - Is still working to build trust with [[Whimsical|Whimsical]].
 
 **Current Assignment.** Thirteen is tasked by [[High Priestess Cetra]] with hunting down the apostate [[Carter Moonwing]] and monitoring the Soul Shepherds. He is now aboard the [[Project A.R.K.]] en route to [[Jupiter]].

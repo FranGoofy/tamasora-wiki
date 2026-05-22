@@ -13,9 +13,9 @@ The mother of the Trinity. Natu governs life, nature, the soul's journey, and th
 **Devotees:** [[Finley]], [[Whimsical|Whimsical]], [[Cannoch]]
 
 ### [[Tekk]] — God of the Forge, War, and Fate
-The most martial of the Trinity. Tekk governs warfare, craftsmanship, fate, and the forging of souls. He is worshipped as the God of the Earth and Underworld by the [[Dwarves of Jupiter]]. Tekk's teaching — that the world is shaped by free will — is a cornerstone of [[Diallos]] and [[Characters/SxS Player Characters/Virtus Tenebris|Virtus]]'s philosophy.
+The most martial of the Trinity. Tekk governs warfare, craftsmanship, fate, and the forging of souls. He is worshipped as the God of the Earth and Underworld by the [[Dwarves of Jupiter]]. Tekk's teaching — that the world is shaped by free will — is a cornerstone of [[Diallos]] and [[Virtus Tenebris|Virtus]]'s philosophy.
 
-**Devotees:** [[Characters/SxS Player Characters/Virtus Tenebris]], [[Diallos]], [[Animus Tenebris]]
+**Devotees:** [[Virtus Tenebris]], [[Diallos]], [[Animus Tenebris]]
 
 ### [[Magi]] — God of Magic, Knowledge, and Duality
 The most enigmatic and dangerous of the Trinity. Magi's soul is **Split** — one half seeks to enlighten and protect, the other seeks to destroy and consume. This duality has made him the most interventionist and unpredictable of the gods. He communicates directly with Carter and Silas, sometimes to guide them, sometimes to demand terrible acts.

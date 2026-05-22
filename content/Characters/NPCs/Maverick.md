@@ -16,4 +16,4 @@ The mystery was solved when [[Diallos]] noticed a rope tied to the whirling wind
 - He informed the Scions that **14 days** had passed in the outside world during their time in the loops (confirmed by a newspaper).
 - An airship from [[Astraloftum]] had recently arrived in Janus City with goods for the upcoming [[Quadrennial Meal Festival]] Auction and left just as quickly.
 - He suggested **[[Freedom's Respite]]** as the best inn for travelers.
-- He offered the Scions an unconventional route into Janus City — an **unstable mine cart track** that shot them screaming through the mountain, requiring a last-moment leap aided by [[Characters/SxS Player Characters/Virtus Tenebris|Virtus]]'s Pegasus Feather.
+- He offered the Scions an unconventional route into Janus City — an **unstable mine cart track** that shot them screaming through the mountain, requiring a last-moment leap aided by [[Virtus Tenebris|Virtus]]'s Pegasus Feather.

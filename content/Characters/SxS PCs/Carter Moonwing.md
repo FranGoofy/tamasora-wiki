@@ -16,7 +16,7 @@ Esteemed [[Solar Scions|Solar Scion]] Carter Moonwing is a young Owlin ([[Childr
 
 Carter set out with his friends, the Solar Scion group '[[Soul Shepherds|White Hand]]', under the leadership of [[Animus Tenebris]] to repel the [[Fomorians]] wrecking havoc across the [[Skysea]]. During his travels, the White Hand experienced a devastating event in which everyone but Carter and Animus became suddenly frozen in time. Carter obtained a dangerous artifact known as 'the [[Tome of Time]]' and believes he may have accidentally caused his friends to freeze.
 
-Carter joined [[Characters/SxS Player Characters/Virtus Tenebris]]' [[Soul Shepherds]] shortly after and worked to uncover the mysteries of the Tome of Time and the '[[Rubix Cube|Rubix Cubes]]' scattered across the world.
+Carter joined [[Virtus Tenebris]]' [[Soul Shepherds]] shortly after and worked to uncover the mysteries of the Tome of Time and the '[[Rubix Cube|Rubix Cubes]]' scattered across the world.
 
 Carter's family lives on [[Astraloftum]]: his parents [[Kain & Lisandra Moonwing]], his siblings Timmy, Rain, Sera, and his eldest brother [[Simon Moonwing]], the Inquisitor.
 

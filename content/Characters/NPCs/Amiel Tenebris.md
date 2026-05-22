@@ -11,15 +11,15 @@ publish: true
 > | **Deity** | [[Tekk]] |
 > | **House** | [[Tenebris Estate]] |
 > | **Partner** | [[Zariel Tenebris]] |
-> | **Children** | [[Characters/SxS Player Characters/Virtus Tenebris\|Virtus]], [[Animus Tenebris\|Animus]] |
+> | **Children** | [[Virtus Tenebris]], [[Animus Tenebris\|Animus]] |
 > | **Status** | Missing (10 years) |
 
-*Missing Solar Scion — Father of [[Characters/SxS Player Characters/Virtus Tenebris|Virtus]] and [[Animus Tenebris|Animus]]*
+*Missing Solar Scion — Father of [[Virtus Tenebris|Virtus]] and [[Animus Tenebris|Animus]]*
 
 **Sir Amiel Tenebris the Maulforged** was a legendary [[Solar Scions|Solar Scion]], renowned warrior, and patriarch of the [[Tenebris Estate]]. He disappeared approximately ten years ago during an expedition to find [[Paradise]], leaving behind his family, his legacy, and many unanswered questions.
 
 ## Legacy
-Amiel was celebrated as one of the most skilled Solar Scions of his generation. The Tenebris name is synonymous with martial excellence and devotion to [[Tekk]]. His disappearance was the event that set both [[Characters/SxS Player Characters/Virtus Tenebris|Virtus]] and [[Animus Tenebris|Animus]] on the path to becoming Solar Scions themselves.
+Amiel was celebrated as one of the most skilled Solar Scions of his generation. The Tenebris name is synonymous with martial excellence and devotion to [[Tekk]]. His disappearance was the event that set both [[Virtus Tenebris|Virtus]] and [[Animus Tenebris|Animus]] on the path to becoming Solar Scions themselves.
 
 The **Shrine of Tekk** at the Tenebris Estate was maintained in his honor, though it fell into disrepair after his disappearance.
 

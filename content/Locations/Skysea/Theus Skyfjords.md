@@ -13,7 +13,7 @@ The Skyfjords must be climbed over rather than flown through — the mountains a
 ## The Giant Ambush
 The Theus Skyfjords were the site of a brutal surprise attack by the **[[Cloudbeard Pirates]]**, who used the mountains as cover to ambush the [[Project A.R.K.]]:
 - **[[Gunhild Stormson]]** ("Runemaiden") — Stone Giant Corsair, attacked from one side with Abyssal Hyenas and four Hill Giant Goons. Polymorphed into a turtle by [[Milodious Aureon|Milo]] and sent gliding into the Skysea.
-- **[[Air Hjorgin Stormson]]** — Ice Giant Corsair, attacked from the opposite side with a second boarding party. Fought [[Characters/SxS Player Characters/Virtus Tenebris|Virtus]] in a brutal duel before triggering a **massive avalanche** that buried Virtus and left her with a permanent facial scar. Died in an honorable final duel with [[Bartholomew|Bartholomew]], requesting with his last breath that Bartholomew tell Admiral [[Cloudbeard]] the tale of their legendary fight.
+- **[[Air Hjorgin Stormson]]** — Ice Giant Corsair, attacked from the opposite side with a second boarding party. Fought [[Virtus Tenebris|Virtus]] in a brutal duel before triggering a **massive avalanche** that buried Virtus and left her with a permanent facial scar. Died in an honorable final duel with [[Bartholomew|Bartholomew]], requesting with his last breath that Bartholomew tell Admiral [[Cloudbeard]] the tale of their legendary fight.
 - **Freezle the Measle** — Enlarged Kobold arcane fuelman. Killed himself and almost took Thirteen and Diallos with him via a Contingency Fireball.
 
 ## Rescued During the Ambush

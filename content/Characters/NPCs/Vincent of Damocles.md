@@ -5,7 +5,7 @@ publish: true
 
 *Enigmatic Arms Dealer — Former Friend of Sir Amiel Tenebris*
 
-**Vincent of Damocles** is a mysterious and morally ambiguous figure with deep ties to both the [[Tenebris Estate]] and [[Tekkhead]] Labs. He was a close friend of the late (or missing) [[Amiel Tenebris]], and is now in a romantic relationship with [[Zariel Tenebris|Lord Commander Zariel Tenebris]], the mother of [[Characters/SxS Player Characters/Virtus Tenebris|Virtus]] and [[Animus Tenebris|Animus]].
+**Vincent of Damocles** is a mysterious and morally ambiguous figure with deep ties to both the [[Tenebris Estate]] and [[Tekkhead]] Labs. He was a close friend of the late (or missing) [[Amiel Tenebris]], and is now in a romantic relationship with [[Zariel Tenebris|Lord Commander Zariel Tenebris]], the mother of [[Virtus Tenebris|Virtus]] and [[Animus Tenebris|Animus]].
 
 ## Known Information
 - He orchestrated the sale of the [[Tenebris Estate]] through Zariel, repurposing it into a Solari Crusader training academy.

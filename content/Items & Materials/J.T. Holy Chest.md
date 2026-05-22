@@ -3,12 +3,12 @@ publish: true
 ---
 # The J.T. Holy Chest
 
-*Heirloom of [[Amiel Tenebris]] — Recovered by [[Characters/SxS Player Characters/Virtus Tenebris]]*
+*Heirloom of [[Amiel Tenebris]] — Recovered by [[Virtus Tenebris]]*
 
-The **J.T. Holy Chest** (belonging to **Sir Amiel Tenebris**) is a Holy Mahogany Chest that once belonged to [[Characters/SxS Player Characters/Virtus Tenebris|Virtus]] and [[Animus Tenebris|Animus]]'s missing father. It is a sacred family heirloom of the [[Tenebris Estate]]. Industriously indestructible and one of the finest pieces of storage craftsmanship in the Skysea. 
+The **J.T. Holy Chest** (belonging to **Sir Amiel Tenebris**) is a Holy Mahogany Chest that once belonged to [[Virtus Tenebris|Virtus]] and [[Animus Tenebris|Animus]]'s missing father. It is a sacred family heirloom of the [[Tenebris Estate]]. Industriously indestructible and one of the finest pieces of storage craftsmanship in the Skysea. 
 
 ## History
-After [[Amiel Tenebris|Sir Amiel]]'s disappearance, [[Vincent of Damocles|Vincent]] arranged its sale at the [[Scheppihn Auction House]] in [[Janus City]] — unbeknownst to [[Zariel Tenebris|Zariel]]. [[Sven Stormson]] outbid [[Characters/SxS Player Characters/Virtus Tenebris|Virtus]], but the Soul Shepherds ambushed the pirates at the Aque-Docks. The chest was launched into the air by Carter's Fireball and caught by [[Diallos]] with his astral arms.
+After [[Amiel Tenebris|Sir Amiel]]'s disappearance, [[Vincent of Damocles|Vincent]] arranged its sale at the [[Scheppihn Auction House]] in [[Janus City]] — unbeknownst to [[Zariel Tenebris|Zariel]]. [[Sven Stormson]] outbid [[Virtus Tenebris|Virtus]], but the Soul Shepherds ambushed the pirates at the Aque-Docks. The chest was launched into the air by Carter's Fireball and caught by [[Diallos]] with his astral arms.
 
 ## Contents
 
