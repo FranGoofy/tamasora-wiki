@@ -10,7 +10,7 @@ The **Trinity** are the three divine forces that govern the world of Tamasora, w
 ### [[Natu]] — Empress of Heaven, Goddess of Nature
 The mother of the Trinity. Natu governs life, nature, the soul's journey, and the bonds between living things. The [[Great Natu Tree]] in Astraloftum is one of her most sacred relics. She is in an eternal, bittersweet dance with her lover **[[Noctu]]** (the Moon), permitted to meet only during Lunar Eclipses due to a curse laid by her brothers Magi and Tekk.
 
-**Devotees:** [[Finley]], [[Whimsical K. Beque ('Whimsy')|Whimsical]], [[Cannoch]]
+**Devotees:** [[Finley]], [[Whimsical|Whimsical]], [[Cannoch]]
 
 ### [[Tekk]] — God of the Forge, War, and Fate
 The most martial of the Trinity. Tekk governs warfare, craftsmanship, fate, and the forging of souls. He is worshipped as the God of the Earth and Underworld by the [[Dwarves of Jupiter]]. Tekk's teaching — that the world is shaped by free will — is a cornerstone of [[Diallos]] and [[Characters/SxS Player Characters/Virtus Tenebris|Virtus]]'s philosophy.

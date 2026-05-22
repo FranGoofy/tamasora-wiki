@@ -13,7 +13,7 @@ Jer'Emee has been living through the [[Rubix Cube|time loop]] that [[Jaz'Farrah]
 He recognized that the newly freed **Arcadian Phoenix of Ashen Lineage** (released by [[Finley]]) represented just such a variable.
 
 ## Role in the Time Loop
-Jer'Emee appeared to the Soul Shepherds via a time-rift near the bridge before the [[Elephant Spire]], warning them that this was the 14th loop and that in the previous loop, [[Carter Moonwing|Carter]] and [[Silas Clemens|Silas]] had died at that exact location. He also revealed [[Bartholomew Reginald Baldwin XXIX|Bartholomew's]] secret Kobold identity as relevant context, and provided the party with a **Temporal Anchor** stabilizer device found by Carter.
+Jer'Emee appeared to the Soul Shepherds via a time-rift near the bridge before the [[Elephant Spire]], warning them that this was the 14th loop and that in the previous loop, [[Carter Moonwing|Carter]] and [[Silas Clemens|Silas]] had died at that exact location. He also revealed [[Bartholomew|Bartholomew's]] secret Kobold identity as relevant context, and provided the party with a **Temporal Anchor** stabilizer device found by Carter.
 
 He traveled with the Scions to the Spire, requiring his own Temporal Anchor to prevent the previous loops from "overwriting" him out of existence.
 

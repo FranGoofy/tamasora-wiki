@@ -10,5 +10,3 @@ She has perished and her Soul now resides in [[Finley]]'s Staff.
 - [[Astraloftum]]
 - [[Great Natu Tree]]
 - [[Natu]]
-
-An elderly, wise, and venerable gnome [[Archdruid]], the former spiritual leader and protector of the [[Whispering Grove]]. She had a deep connection to the [[Great Natu Tree]]. Her soul now resides within [[Finley]]’s Staff of the Seasons.

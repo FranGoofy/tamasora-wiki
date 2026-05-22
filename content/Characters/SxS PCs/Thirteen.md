@@ -45,15 +45,15 @@ Eventually deemed a "success," Thirteen was inducted as a Solar Scion. Tragedy s
 
 To the world, and specifically the **[[Soul Shepherds]]**, he presents as "Steven," the quiet, diligent janitor and deckhand aboard the *[[Project A.R.K.|A.R.K]]*. He sweeps the floors, serves meals, and keeps his head down, maintaining absolute secrecy as he reports to **[[High Priestess Cetra]]**. Beneath this humble facade lies a cold, calculating operative who fears connection — terrified that those he grows close to will burn by his hand, just as his first squad did.
 
-**Joining the Soul Shepherds.** Thirteen was introduced as a "rookie" during [[Bartholomew Reginald Baldwin XXIX|Bartholomew]]'s Mirror Realm induction trial. He opened the portal to the [[Mirror Realm]] through the [[Eluvian Mirror]] and aided the Soul Shepherds inside. Notably, the [[Egg of the King]] in the Atrium of the Profanus nearly dragged his soul in when he summoned his Soul-Sword nearby.
+**Joining the Soul Shepherds.** Thirteen was introduced as a "rookie" during [[Bartholomew|Bartholomew]]'s Mirror Realm induction trial. He opened the portal to the [[Mirror Realm]] through the [[Eluvian Mirror]] and aided the Soul Shepherds inside. Notably, the [[Egg of the King]] in the Atrium of the Profanus nearly dragged his soul in when he summoned his Soul-Sword nearby.
 
-After the Mirror Realm trial, [[Whimsical K. Beque ('Whimsy')|Whimsical]] staged a public Gauntlet — a contest of brawn, bravery, and wit — putting Thirteen against her sons Omniscient and Charming. Thirteen non-lethally incapacitated them quickly, drawing boos from the crowd. "Someone" ([[Finley]]) cast *Tasha's Hideous Laughter* on Thirteen mid-fight, giving Omniscient a chance to stab him while he was down. Thirteen sheepishly surrendered. A party vote resulted in Thirteen receiving a **probationary membership** with the Soul Shepherds.
+After the Mirror Realm trial, [[Whimsical|Whimsical]] staged a public Gauntlet — a contest of brawn, bravery, and wit — putting Thirteen against her sons Omniscient and Charming. Thirteen non-lethally incapacitated them quickly, drawing boos from the crowd. "Someone" ([[Finley]]) cast *Tasha's Hideous Laughter* on Thirteen mid-fight, giving Omniscient a chance to stab him while he was down. Thirteen sheepishly surrendered. A party vote resulted in Thirteen receiving a **probationary membership** with the Soul Shepherds.
 
 **Building Trust.**
 - Had drinks with [[Silas Clemens]] at Purgatory Bar. Silas threatened him plainly: if he ever hurts his friends, Silas will personally kill him. They ended the night with a tense but genuine understanding.
 - Sparred with [[Diallos]], revealed his wings in the fight, and the two took to the sky together. After the fight they shook hands. Diallos told him he hoped he would find absolution one day.
 - Lost a fistfight to [[Characters/SxS Player Characters/Virtus Tenebris]] outside the [[Skysmith Forge]] after revealing his full backstory to her — including that he is a covert informant to the [[High Priestess Cetra]]. Virtus's anger was not at his past but at his ongoing dual loyalty. They have an uneasy truce.
-- Is still working to build trust with [[Whimsical K. Beque ('Whimsy')|Whimsical]].
+- Is still working to build trust with [[Whimsical|Whimsical]].
 
 **Current Assignment.** Thirteen is tasked by [[High Priestess Cetra]] with hunting down the apostate [[Carter Moonwing]] and monitoring the Soul Shepherds. He is now aboard the [[Project A.R.K.]] en route to [[Jupiter]].
 

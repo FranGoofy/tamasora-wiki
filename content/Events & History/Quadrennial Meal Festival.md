@@ -16,16 +16,16 @@ The three best dishes from the final round are carried by the judges into the sk
 ## Judges (312 Festival)
 - **[[Jer'Emee]]** – Jas-Sharaza representative.
 - **[[Reina Akaska]]** – Known as "the Iron Feather."
-- **[[Pickory]]** – The youngest Jas-Sharaza council member; [[Whimsical K. Beque ('Whimsy')|Whimsical's]] first paying customer at [[Freedom's Respite]].
+- **[[Pickory]]** – The youngest Jas-Sharaza council member; [[Whimsical|Whimsical's]] first paying customer at [[Freedom's Respite]].
 
 ## Notable Competitors (312 Festival)
-- **[[Whimsical K. Beque ('Whimsy')|Whimsical]] & [[Diallos]]** – Won all three rounds. Final dish: a [[Saturnus Rex]] heart marinated for days and cooked inside a clay vessel shaped like Janus, blessed with the divine favor of [[Tekk]].
+- **[[Whimsical|Whimsical]] & [[Diallos]]** – Won all three rounds. Final dish: a [[Saturnus Rex]] heart marinated for days and cooked inside a clay vessel shaped like Janus, blessed with the divine favor of [[Tekk]].
 - **[[Carter Moonwing|Carter]] & [[Silas Clemens|Silas]]** – Delivered a provocative "Soulfood" dish. Their collaboration fell apart in Round 2 due to a violent argument, with Silas storming out and Carter finishing alone.
 - **[[Helga the Ogre Baker|Helga]]** – Accidentally served her Raptor sous chef grilled. Attempted to compete without a partner in Round 3 and failed.
 - **Masha** – The Hag of Janus Jungle, competing with a clone of herself. Placed a curse on Carter. Her dishes were sabotaged or destroyed by the other competitors.
 
 ## Champion
-**[[Whimsical K. Beque ('Whimsy')|Whimsical K. Beque]]** — 312 Quadrennial Meal Festival Champion. Awarded a gold medal and 10 solid Gold Blocks.
+**[[Whimsical|Whimsical K. Beque]]** — 312 Quadrennial Meal Festival Champion. Awarded a gold medal and 10 solid Gold Blocks.
 
 ## Significance
 Beyond the culinary competition, the festival served as cover for several important events: Virtus overheard Maskin shamans conspiring to free [[Jaz'Farrah]], Silas and Talleah had a somber meeting in a quiet alley, and Carter used the Magi Tablet to restore Silas's missing arm in the festival's aftermath.

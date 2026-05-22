@@ -28,7 +28,7 @@ She believes it was the [[Trinity]], especially Natu, who helped her and her fam
 - Killed [[Sven Stormson]] — a Cloudbeard Giant pirate who had developed a romantic interest in her — by smashing his head in after the ambush at the Janus City Aque-Docks. She had told him "actions speak louder than words."
 - Attended a tender training session with [[Aukshirok Mensch]] (the blind owner of Freedom's Respite) to hone her culinary knife-work. Her first paying customer was a boy named [[Pickory]].
 - Maintained the home front: upon returning to Astraloftum, left 200 gold with [[Tom Foolery]] for the community to look after Omniscient and Charming while they were at their studies.
-- During [[Bartholomew Reginald Baldwin XXIX|Bartholomew]]'s Gauntlet test — which she organized — changed her vote from "no" to "yes" at the last minute, giving Thirteen his probationary membership with the Soul Shepherds.
+- During [[Bartholomew|Bartholomew]]'s Gauntlet test — which she organized — changed her vote from "no" to "yes" at the last minute, giving Thirteen his probationary membership with the Soul Shepherds.
 
 **Whimsy & Joy.**
 [[Joy]] — Whimsy's presumed-dead lover from Jupiter — was rescued from the Stone Giant Corsair [[Gunhild Stormson]]'s ship. Joy did not recognize Whimsy at first. After Whimsy revealed herself as 'Whim', they shared a tender moment and have since reconciled their past. Joy admitted privately to Whimsy that she is terrified and doesn't know who she is to Whim anymore — but that she still loves her, and asked Whimsy to be patient. Whimsy is back on her home Titan with Joy at her side, a fact that carries enormous emotional weight.

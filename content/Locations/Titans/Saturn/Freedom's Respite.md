@@ -6,14 +6,14 @@ publish: true
 A grand inn-tower in [[Janus City]] on the [[Titan]] [[Saturn]], serving as the primary hub for travelers, merchants, and adventurers. The inn is known for its lively atmosphere, exceptional food and drink, and a rotating cast of colorful staff.
 
 ## Staff & Owners
-- **[[Aukshirok Mensch]]** – A kindly, old, blind winged human. One of the barkeeps and chefs. Has a weakness for pretty young things and secretly sells narcotics. Hates Ogres. Acted as a culinary mentor to [[Whimsical K. Beque ('Whimsy')|Whimsical]] during her stay.
+- **[[Aukshirok Mensch]]** – A kindly, old, blind winged human. One of the barkeeps and chefs. Has a weakness for pretty young things and secretly sells narcotics. Hates Ogres. Acted as a culinary mentor to [[Whimsical|Whimsical]] during her stay.
 - **[[Sonata Stillmist]]** – A gruff but talented Half-Harpy, Half-Human chef and barkeep. Former [[Sky Pirates|Sky Pirate]] who traded her scimitar for a spatula. Holds the trophy for the previous [[Quadrennial Meal Festival]] and has an exceptional singing voice.
 - **[[Jokester Turnip]]** – The youngest barkeep; a winged halfling resembling a canary. Infectious laugh, passion for hooliganry after hours.
-- **[[Hans Brin]]** – A one-armed winged human bard and former graduate of the [[College of Damocles]]. Works as a barkeep and often performs duets with Sonata. Became fast friends with [[Bartholomew Reginald Baldwin XXIX|Bartholomew]] during the Scions' stay.
+- **[[Hans Brin]]** – A one-armed winged human bard and former graduate of the [[College of Damocles]]. Works as a barkeep and often performs duets with Sonata. Became fast friends with [[Bartholomew|Bartholomew]] during the Scions' stay.
 
 ## Notable Features
 - **Private Sanctum** – Carter sealed a room within a Private Sanctum spell to hold the captive [[Jaz'Farrah]] securely during her imprisonment.
-- **The Kitchens** – Where [[Whimsical K. Beque ('Whimsy')|Whimsical]] first served a young [[Pickory]] as her first paying customer during her time working there.
+- **The Kitchens** – Where [[Whimsical|Whimsical]] first served a young [[Pickory]] as her first paying customer during her time working there.
 
 ## Role in the Campaign
 Freedom's Respite served as the Soul Shepherds' base of operations for the majority of their time in Janus City, from their arrival following the Time Loop crisis through the [[Quadrennial Meal Festival]] and beyond. It was here that many pivotal conversations took place: Silas and Carter's estrangement, Bartholomew's confession about his true identity, and Whimsical's emotional reunion with [[Joy]].

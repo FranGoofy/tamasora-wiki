@@ -22,7 +22,7 @@ Generally Diallos is non-confrontational and prefers to parley and seek nonviole
 - Delivered the killing blow to [[Count von Preshons]] in mid-air above the [[Well of Souls]], impaling him with his own Spear of the Damned as they both fell.
 - Was killed by [[Magus Xor'Ocu]]'s Necrosis beam during the [[Fomorian Invasion of Astraloftum]], then revived by [[Finley]] with *Revivify*. He is one of the few members of the party to have experienced death firsthand.
 - Led the panicking citizens of Astraloftum to the [[Ark of the Trinity]] during the Fomorian Invasion, fulfilling his "Messiah" prophecy.
-- Won Round 1 and Round 2 of the [[Saturn|Quadrennial Meal Festival]] Competition on [[Saturn]] alongside [[Whimsical K. Beque ('Whimsy')|Whimsy]], and was a key part of their winning Final Offering.
+- Won Round 1 and Round 2 of the [[Saturn|Quadrennial Meal Festival]] Competition on [[Saturn]] alongside [[Whimsical|Whimsy]], and was a key part of their winning Final Offering.
 - Completed his Totem of Janus, capturing the duality of the Saturn arc, continuing his ongoing [[Spiritcarving]] tradition of a totem per Titan.
 - Sparred with [[Thirteen]] on Astraloftum, and after the fight, shook hands and told Thirteen he hopes he finds absolution one day.
 - On Jupiter: helped triage the wounded [[Bhan-Ember]] fighters at the [[Inverted Temple]], casting Detect Thoughts on [[Editor Rupert]] to expose his hidden memories of [[King Dumaclath]], and performed Last Rites on a dying Bhan-Ember resistance fighter.
@@ -50,11 +50,11 @@ Generally Diallos is non-confrontational and prefers to parley and seek nonviole
 
 **The Titan's Burden (Sessions 46 & 48):** Approaching the [[Elephant Spire]], Diallos saw a massive, god-like hand in the sky plunging a great black spear into Janus's back, revealing the spire's true nature. Later, during the battle with Jaz'Farrah, he witnessed an ancient memory: the Titans themselves rising up in rebellion against the Gods — the source of Janus's eternal penance.
 
-**The Kobold's Past (Session 50):** The rhythm of [[Bartholomew Reginald Baldwin XXIX|Bartholomew]]'s drumming sent Diallos into a trance, showing him a battlefield from a forgotten age. He saw Dragonborn generals leading a [[Kobold]] army against demonic hordes, and watched as an Emerald Kobold assumed the identity of a fallen halfling Solar Scion.
+**The Kobold's Past (Session 50):** The rhythm of [[Bartholomew|Bartholomew]]'s drumming sent Diallos into a trance, showing him a battlefield from a forgotten age. He saw Dragonborn generals leading a [[Kobold]] army against demonic hordes, and watched as an Emerald Kobold assumed the identity of a fallen halfling Solar Scion.
 
 **The Coming of the Comet (Rebuilding the A.R.K Story):** His most recent major vision showed the arrival of the [[Comet of Eden]]: the war engines of the [[Martian Imperium]] roaring to life, the [[Cult of Nirvana]] heralding a new Fomorian King in the form of a red-haired baby, and a small band of Solar Scions — himself, Virtus, Whimsy, Arse, and three unknown strangers — igniting with the Comet's holy power.
 
-**The Mirror Prison & The Dark Tree (Session 64):** During [[Bartholomew Reginald Baldwin XXIX|Bartholomew]]'s Mirror Realm trial, Diallos knelt before the [[Egg of the King]] and communed with Tekk. He received a terrifying augury: a falling, mirror-realm version of Astraloftum, and shades gathering around a withered, Dark Natu Tree. This led him to the conclusion that the Trinity did not create the Mirror Realm merely as a reflection, but as a prison for Demons — or something far older.
+**The Mirror Prison & The Dark Tree (Session 64):** During [[Bartholomew|Bartholomew]]'s Mirror Realm trial, Diallos knelt before the [[Egg of the King]] and communed with Tekk. He received a terrifying augury: a falling, mirror-realm version of Astraloftum, and shades gathering around a withered, Dark Natu Tree. This led him to the conclusion that the Trinity did not create the Mirror Realm merely as a reflection, but as a prison for Demons — or something far older.
 
 ## Personal Quests.
 **Cometborn Heritage** — understanding his origins and the nature of Argahax.

@@ -20,4 +20,4 @@ The [[Jas-Sharaza|Jas'Sharazas]] forbid the collection of these tears, claiming 
 *"Titan's Lament: Janus, the ancient Elephant Titan, strides eternally burdened by profound guilt — a penance for forgotten sins committed against the Old Gods. Its tears are fragments of sorrow and reflection, emotions felt only rarely within the Eruption Pool."*
 
 ## History
-Sold at the [[Scheppihn Auction House]] during the [[Quadrennial Meal Festival]]. [[Whimsical K. Beque ('Whimsy')|Whimsical]] helped [[Reina Akaska]] win the bid, believing it sacrilege for it to fall into the hands of the undevoted.
+Sold at the [[Scheppihn Auction House]] during the [[Quadrennial Meal Festival]]. [[Whimsical|Whimsical]] helped [[Reina Akaska]] win the bid, believing it sacrilege for it to fall into the hands of the undevoted.

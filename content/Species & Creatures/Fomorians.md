@@ -10,7 +10,7 @@ The Church teaches that Fomorians are corrupted spiritual entities — the falle
 
 The [[Ecclesia Solari]] classifies Fomorians as [[Demon|Demons]] and considers them one of the greatest threats to the faithful. Combating them is a sacred duty of the [[Solar Scions]].
 
-[[High Priestess Cetra]], against most of the the Clergy's conservative wing, has announced a reclassification of '[[Kobold|Kobolds]]' as '[[Mortal|Non Fomorian]]'; in part due to the heroics of [[Bartholomew Reginald Baldwin XXIX]]. 
+[[High Priestess Cetra]], against most of the the Clergy's conservative wing, has announced a reclassification of '[[Kobold|Kobolds]]' as '[[Mortal|Non Fomorian]]'; in part due to the heroics of [[Bartholomew]]. 
 
 ## Origins & Nature
 

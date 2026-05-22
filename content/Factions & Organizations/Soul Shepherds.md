@@ -13,8 +13,8 @@ The **Soul Shepherds** is the name adopted by the adventuring group formerly kno
 - **[[Virtus Tenebris]]** – Captain. Legionnaire and devotee of [[Tekk]].
 - **[[Diallos]]** – Cometborn Monk, Prophet of the Trinity.
 - **[[Silas Clemens]]** – Dhampir Cleric/Sorcerer; Living Soul Phylactery.
-- **[[Whimsical K. Beque ('Whimsy')]]** – Titanborn Paladin/Barbarian of Natu; the party's heart and cook.
-- **[[Bartholomew Reginald Baldwin XXIX]]** (Arse) – Emerald Kobold Paladin/Bard/Warlock; newest full Solar Scion.
+- **[[Whimsical]]** – Titanborn Paladin/Barbarian of Natu; the party's heart and cook.
+- **[[Bartholomew]]** (Arse) – Emerald Kobold Paladin/Bard/Warlock; newest full Solar Scion.
 - **[[Thirteen]]** (Steve) – SABER operative and secret informant, now on probation with the party.
 - **[[Milodious Aureon]]** (Milo) – Titanborn Bard of Saturn; joined during the Jupiter arc.
 

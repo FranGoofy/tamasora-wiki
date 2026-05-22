@@ -17,7 +17,7 @@ Their military apparatus is one of the most formidable in the known world, and t
 The Martian Imperium is actively collecting **[[Dragon Souls]]** to bolster their military might. Their long-term goal appears to be constructing or empowering a Dragon army — or some other form of draconic weapon — using harvested Souls as fuel. The exact mechanism is not yet known to the Soul Shepherds.
 
 ### Occupation of Emerald's Rest
-The Martian Imperium has **overtaken [[Emerald's Rest]]** — the homeland of the [[Emerald Scourge]] Kobolds and the birthplace of [[Bartholomew Reginald Baldwin XXIX|Bartholomew]] (Arse) and [[Frederick]]. They seek to **resurrect [[Clorox]], the Emerald Dragon**, to add to their military forces. This has made the Emerald Scourge's future — and Bartholomew's personal quest — urgently tied to the Imperium's defeat.
+The Martian Imperium has **overtaken [[Emerald's Rest]]** — the homeland of the [[Emerald Scourge]] Kobol[[Bartholomew|Bartholomew]]aldwin XXIX|Bartholomew]] (Arse) and [[Frederick]]. They seek to **resurrect [[Clorox]], the Emerald Dragon**, to add to their military forces. This has made the Emerald Scourge's future — and Bartholomew's personal quest — urgently tied to the Imperium's defeat.
 
 ### Jupiter Operations
 The Martian Imperium has a presence on [[Jupiter]] through smuggling networks operating out of [[Hipolum-Dhrum]], dealing in unrefined [[Orichalcum]] and [[Adamantine]] through the Red-Slag Syndicate. Their crates of Orichalcum were among the loot recovered from the [[Cloudbeard Pirates]] after the battle at the [[Theus Skyfjords]].

@@ -25,7 +25,6 @@ The invasion was enabled by **Dark Silas**, who betrayed the [[Solar Scions]] du
 ## Aftermath
 - The [[Great Natu Tree]] was saved from destruction.
 - The Soul Shepherds claimed victory alongside the Inquisition Army.
-- **[[High Priestess Cetra]]** publicly rallied the survivors and revealed her true identity.
-- [[Bartholomew Reginald Baldwin XXIX|Bartholomew]] helped defend Astraloftum, a pivotal act in his eventual official induction as a Solar Scion.
+- **[[High Priestess Cetra]]** publicly rallied the survivors and reveal[[Bartholomew|Bartholomew]]aldwin XXIX|Bartholomew]] helped defend Astraloftum, a pivotal act in his eventual official induction as a Solar Scion.
 - [[Animus Tenebris]] formed a new party, "The **Palms of a New Dawn**," and departed for Damocles College.
 - The Solar Scions officially renamed themselves the **Soul Shepherds**.
