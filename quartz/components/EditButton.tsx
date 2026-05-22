@@ -45,8 +45,7 @@ const EditButton: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
 
   if (!collection || !entryName) return null
 
-  const slugify = (s: string) => s.replaceAll(" ", "-")
-  const editUrl = `${ADMIN_URL}/#/collections/${collection}/entries/${entryName.split("/").map(slugify).join("/")}`
+  const editUrl = `${ADMIN_URL}/#/collections/${collection}/entries/${encodeURIComponent(entryName)}`
 
   return (
     <a href={editUrl} class="edit-button" target="_blank" rel="noopener noreferrer">
