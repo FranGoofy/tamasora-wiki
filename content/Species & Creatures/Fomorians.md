@@ -27,7 +27,7 @@ Fomorians hunger for souls and spiritual energy. They are drawn to places where 
 **Known Fomorian Activity:**
 - **[[Fomorian Invasion of Astraloftum]]**: A devastating assault orchestrated by the [[Cult of Nirvana]] that nearly corrupted the [[Well of Souls]] within the [[Great Natu Tree]]. The [[Soul Shepherds]] intervened, but the tree's souls now remain in Temporal Stasis, unable to be communed with by [[Astraloftum]]'s residents.
 - **Lunar Demons**: During the [[Whispering Grove#Symphony of Ascension|Symphony of Ascension]] ritual when souls are shepherded into the [[Great Natu Tree]], Lunar Demons (a type of Fomorian) are attracted to the movement of souls and attempt to steal them. The Druids of [[Natu]] must defend against these attacks.
-- **Secret Prisons**: Legends speak of [[Tower of Inquisition|a secret prison]] deep within the Tower of Inquisition where captured Fomorians and those tainted by Fomorian magic languish in eternal shadow. The [[Atrium of the Profanus]] contains **Statues of the Fomorian Generals** — permanently petrified Devils. [[Count von Preshons]] once sought the Ebon Star to free these Generals from their petrified states.
+- **Secret Prisons**: Legends speak of [[Tower of Inquisition|a secret prison]] deep within the Tower of Inquisition where captured Fomorians and those tainted by Fomorian magic languish in eternal shadow. The [[Atrium Profanus]] contains **Statues of the Fomorian Generals** — permanently petrified Devils. [[Count von Preshons]] once sought the Ebon Star to free these Generals from their petrified states.
 
 ## Popular Consensus
 
@@ -51,4 +51,4 @@ The [[Solari Inquisition]] hunts Fomorians relentlessly, and being accused of ha
 - [[Titan]]
 - [[Twilight Brand]]
 - [[Tower of Inquisition]]
-- [[Atrium of the Profanus]]
+- [[Atrium Profanus]]

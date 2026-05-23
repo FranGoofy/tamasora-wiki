@@ -11,7 +11,7 @@ Sound passes through mirrors in both directions. Creatures inside can see the re
 
 ## Sub-locations
 
-### [[Atrium of the Profanus]]
+### [[Atrium Profanus]]
 Deep within the Mirror Realm lies the twisted reflection of [[Ecclesia Solari]]'s holy [[St. Ode'bbej Cathedral]]. Protected from the [[Cult of Nirvana]] by Abjuration Sigils crafted by [[Magi]] Clerics. The Church frequents this location as a secret meeting dimension.
 
 ## Related
@@ -21,4 +21,4 @@ Deep within the Mirror Realm lies the twisted reflection of [[Ecclesia Solari]]'
 - [[Trinity]]
 - [[Demon]]
 - [[Ecclesia Solari]]
-- [[Atrium of the Profanus]]
+- [[Atrium Profanus]]
