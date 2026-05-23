@@ -18,7 +18,7 @@ Jer'Emee appeared to the Soul Shepherds via a time-rift near the bridge before t
 He traveled with the Scions to the Spire, requiring his own Temporal Anchor to prevent the previous loops from "overwriting" him out of existence.
 
 ## Fate After the Loop
-Jer'Emee committed to appealing [[Jaz'Farrah's]] case to the broader Jas-Sharaza Council, though the verdict was ultimately execution. He secured **Glidewing Taxi Services** to transport the Scions to [[Elefanti Palace]] for the trial. After the trial chaos and Jaz'Farrah's escape, he was left on Saturn.
+Jer'Emee committed to appealing [[Jaz'Farrah]] case to the broader Jas-Sharaza Council, though the verdict was ultimately execution. He secured **Glidewing Taxi Services** to transport the Scions to [[Elefanti Palace]] for the trial. After the trial chaos and Jaz'Farrah's escape, he was left on Saturn.
 
 He received a gift from [[Diallos]] — a flute carved from Bobo Bird quills — and played a rendition of "Eternal Wind" as Carter manipulated the Rubix Cube to finally halt the Time Loop.
 
