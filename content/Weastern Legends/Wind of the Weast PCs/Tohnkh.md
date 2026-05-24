@@ -1,6 +1,17 @@
 ---
+edit: true
 publish: true
 ---
+> [!infobox] Tohnkh
+> ![[tonkkh.webp]]
+> 
+> | | |
+> |---|---|
+> | **Species** | Forest Gnome |
+> | **Class** | Druid |
+> | **Affiliation** | [[Weastern Pirates]] |
+> | **Role** | Captain |
+
 **Tohnkh**, full name **Tohnkh Rasryhhn Fhelmop Blhistin Wrewhor Scheppihn**, was a young Forest Gnome Druid and the legendary captain of the [[Weastern Pirates]]. Among the [[Sky Pirates]] of the [[Skysea]], few names carry the weight of Tohnkh's — a captain who led a crew of former slaves to found [[Weastworld]], sailed the winds of [[Aigora]] and beyond, and whose journeys through the [[Timescape]] have since passed into a myth that no one has yet managed to fully disprove.
 
 Inquisitive and playful, Tohnkh inspired his friends and crew to great heights with his grounded view of the world. The wind, he was fond of saying, was always with them.

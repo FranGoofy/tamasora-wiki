@@ -1,6 +1,18 @@
 ---
+edit: true
 publish: true
 ---
+> [!infobox] Khemmis
+> ![[khemmis2.webp]]
+> 
+> | | |
+> |---|---|
+> | **Alias** | The Ram of Stygia |
+> | **Species** | Tiefling |
+> | **Class** | Barbarian |
+> | **Affiliation** | [[Weastern Pirates]] |
+> | **Role** | First Mate |
+
 **Khemmis** is a male Tiefling Barbarian who is the current First-Mate of the [[Weastern Pirates]] in **Arx Flutallum**, and was a slave gladiator that fought in the Stygia Coliseum under the moniker **"The Ram of Stygia'.** Khemmis eventually escaped his enslavement, and set sail to find a new life for himself, eventually joining the Weastern Pirates and serving as their First Mate. Khemmis is also the brother of [[Khallis]], a member of the Golden Council of Sang-Lothor.
 
 ## Biography
