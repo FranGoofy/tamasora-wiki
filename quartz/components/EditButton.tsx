@@ -6,6 +6,8 @@ const ADMIN_URL = "https://tamasora-wiki.pages.dev/admin"
 const COLLECTION_MAP: Record<string, string> = {
   "Characters/SxS PCs": "sxs_characters",
   "Characters/Scribes PCs": "scribes_characters",
+  "Weastern Legends/Wind of the Weast PCs": "wind_of_the_weast_pcs",
+  "Weastern Legends": "weastern_legends",
 }
 
 // Slugify subfolder names into snake_case collection names
