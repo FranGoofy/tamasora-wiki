@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: FranGoofy/tamasora
+  repo: FranGoofy/tamasora-wiki
   branch: main
   base_url: https://sveltia-cms-auth.franbookmmo.workers.dev
 
