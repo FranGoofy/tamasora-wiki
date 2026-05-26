@@ -1,6 +1,7 @@
 ---
 publish: true
 ---
+
 # **Chapter VI.** Jupiter
 
 ## **Session 68.** South Sky Sea Sentinels
@@ -118,6 +119,7 @@ With the help of Milodius’ calming ballads, Diallos’ peaceful resistance mag
 > 		-**Bobby**
 
  Diallos is scared of [[Abathur]] after he reads his name in a journal from [[Bobby Beerbelly]]. He becomes **God-Meddled** and shrinks in size out of fear, and then restores back to normal after a few minutes. 
+
 - Silas and Bart are drunk so they don't get scared when they read Abathur's name (immune to Frightened condition for 1 hour after drinking )
 - Silas looks for a **Book on Hemomancy**, and a Book about the Scribes' take on the Church.
         - Silas finds a book about [[Titan]] blood (Cause of [[Forvivlad]]).
@@ -147,4 +149,34 @@ With the help of Milodius’ calming ballads, Diallos’ peaceful resistance mag
 \*15-16 Everbloom 312 (Day 71 since the formation of the Soul Shepherds)  Game Date: (??? th, 2026)
 
 To Be Continued...
- -Erica put your recap here: :)
+ -We have a scout group made up of Milodious, Diallos, & 13
+-Alphos (dwarfs)goes to Bart & says "Would you be able to bless our banner before we leave?" He obliges with a ceremony spell
+-The 3 of them go through the secret entrance behind the waterfall
+-There are some dwarves (traitorous) at Crystalhammer falls. Diallos overheard a conversation among some fire giants.
+- "Did the King's broadcast cut early again?" They say maybe someone is telling him what to say. Someone else says the former king did the same & theorize theres a woman with white hair (released and then sealed again at the bottom of the lake) that is coaching him how to speak.
+- The fire Giants leave a large satchel unattended
+-Astika (Fire Giant General) Vargoon (Orne of her Sergeants)
+- These giants are aligned with cloud beard. Astrika & King Dumoc probably disagree about some things and Astrika hates overseeing production in the forges.
+- Diallos and Co. pick up the satchel.
+- Cut to Whimsy, Virtus, Bart & Silas, they are at Lake Ruthaba preparing the ambush.
+-A Frog tells Whimsy to look in the waterr. The algae says "do'nt'ive" Rubix for "Do not dive"
+-Virtus gets half proficiency in Rubix
+-Bart hears "You stood like he stood" in his head.
+-Silas uses hallucinatory terrain to make it look like a camp is at the edge of a cliff and the fire giants chasing a mislead clone of Milodious fall of the edge of the real cliff, into the water.
+-Milo & Diallos use gusts of wind & a welll placed arrow to clean up the stragglers.
+-13 - nevermind. Vargoon surrenders
+-A very large Creature is killing all the giants that fell in the water, grabbing them with large tentacles and dragging them under.
+-There are jelly Kuo-toa-like creatures in the water.
+-13 binds VArgoon.
+-The jelly fishfolk approach us, they say their master wants to parlay for a resolution on the Dwarven Civil WAr.
+=We agree to meet it at the central island.
+-A pillar of water rises, and Virtus sees a specter of a younger Animus, 13 sees the high priestess, Whimsy sees Omniscient, Bart sees CAssian, Diallos sees abbot Muho, Milo sees his grandma Tweety Bird, Silas sees Mother Anasthasia.
+-They all speak in unison "I am Abathur."
+-He offers us 3 thing. The golden Key, an army, & the names of those who caused the saint to be poisoned, in exchange for not telling the solar solari about the Abathur.
+-Natu and the other gods are not approving of making a deal with this creature.
+-He gains from this pact "The refusal of his existence"
+-The king & Cloud beard threaten his home on Carapax.
+-13 does not want to take the deal. Diallos asks why would he tell the church info if it means that information could perpetuate the corruption that we all know is taking place within the church, and inadvertently contribute to it.
+-Virtus asks "What are you loyal to?" 13 Answers to all of this with "I know there is corruption in the church. My loyalty is to the high priestess. I am following the high priestess blindly." She is his adoptive mother.
+-He says he cares about finding paradise so that he may find a place where he belongs. And he also says he cares about sacrificing what is necessary.
+-We ultimately refuse all of the creature's deals, but we wait for Bart and Silas to give their input on the situation.
