@@ -58,6 +58,10 @@ He has a falcon companion named [[Eden]].
 
 **The Mirror Prison & The Dark Tree (Session 64):** During [[Bartholomew|Bartholomew]]'s Mirror Realm trial, Diallos knelt before the [[Egg of the King]] and communed with Tekk. He received a terrifying augury: a falling, mirror-realm version of Astraloftum, and shades gathering around a withered, Dark Natu Tree. This led him to the conclusion that the Trinity did not create the Mirror Realm merely as a reflection, but as a prison for Demons — or something far older.
 
+**???** There was one of Dwarves being forced to work.
+
+**The Dreamer (Session 77)** You see a woman - jagged cheekbones protruding out of her face, greyish blue skin. She emerges out of a stasis pod; a Dwarf helps her out. You see a note in a language you do not understand. You sense the overwhelming wakefulness of [[Isra|someone who has been dreaming]] for a very long time.
+
 ## Personal Quests.
 **Cometborn Heritage** — understanding his origins and the nature of Argahax.
 **Totem [[Spiritcarving]]** — one totem per Titan, carved from each Titan's rare wood. Totems completed: Janus. Next: Jupiter.
