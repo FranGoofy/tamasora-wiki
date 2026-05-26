@@ -1,5 +1,16 @@
 @use "./base.scss";
 
+// Replace page title text with logo image
+.page-title a {
+  display: block;
+  font-size: 0;
+  color: transparent;
+  background: url('/static/Logo.png') no-repeat left center;
+  background-size: contain;
+  width: 200px;
+  height: 90px;
+}
+
 // Wikipedia-style infobox (Obsidian callout: > [!infobox] Title)
 .callout[data-callout="infobox"] {
   float: right;
