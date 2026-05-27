@@ -10,14 +10,14 @@ publish: true
 > | **Actor** | FranGoofy |
 > | **Name** | Vincent of Damocles |
 > | **Places** | [[Astraloftum]] |
-> | **Factions** | [[Tekkhead]] Labs |
-> | **Class / Profession** | Arms Dealer |
+> | **Factions** | [[Mercantile Hegemony]], [[Ecclesia Solari]], [[Solari Inquisition]] |
+> | **Class / Profession** | Merchant, Investor, Arms Dealer, Shady Bitch |
 
 # Vincent of Damocles
 
 *Enigmatic Arms Dealer — Former Friend of Sir Amiel Tenebris*
 
-**Vincent of Damocles** is a mysterious and morally ambiguous figure with deep ties to both the [[Tenebris Estate]] and [[Tekkhead]] Labs. He was a close friend of the late (or missing) [[Amiel Tenebris]], and is now in a romantic relationship with [[Zariel Tenebris|Lord Commander Zariel Tenebris]], the mother of [[Virtus Tenebris|Virtus]] and [[Animus Tenebris|Animus]].
+**Vincent of Damocles** is a mysterious and morally ambiguous figure with deep ties to both the [[Tenebris Estate]], **Tekkhead Labs**, and the [[Ecclesia Solari]]. He was a close friend of the late (or missing) [[Amiel Tenebris]], and is now in a romantic relationship with [[Zariel Tenebris|Lord Commander Zariel Tenebris]], the mother of [[Virtus Tenebris|Virtus]] and [[Animus Tenebris|Animus]].
 
 ## Known Information
 - He orchestrated the sale of the [[Tenebris Estate]] through Zariel, repurposing it into a Solari Crusader training academy.
@@ -25,7 +25,7 @@ publish: true
 - He owns [[Project A.R.K.]], the prototype airship he lent to the Soul Shepherds in exchange for Virtus accepting his relationship with Zariel. A contract requires a skeleton crew to serve as his informants.
 - He had **[[P-Sowen]]** fitted with a hidden Sol-Phone device to monitor the Scions' communications, discovered by Carter.
 - He has a private study protected by an Alarm spell and a Fireball Trap. Inside the Scions found: a ledger of illegal heirloom sales, and a **Death Note** listing people marked "H" (Harvested?) or "P" (Pending?). All Soul Shepherds are marked "P." Zariel, Pinot, and Father Ghaspen are marked "H."
-- He possesses a **Living Mirror Realm** version of the Tenebris Estate, accessible through an Eluvian Mirror in his study.
+- He possesses a **Living [[Mirror Realm]]** version of the Tenebris Estate, accessible through an [[Eluvian Mirror]] in his study.
 - He once quoted a Bardic passage to [[Silas Clemens|Silas]]: *"And thusly I clothe my naked villainy in old odd ends stolen forth from holy writ and seem a saint when most I play the devil…"*
 - He told Silas that a clue to [[Paradise]] is hidden inside the airship, and to not neglect his sister.
 
