@@ -19,7 +19,7 @@ publish: true
 
 ### Life in the Imperium(1460TO-5TN)
 
-Khemmis and his brother Khallis were born into a life of slavery in the [[Sang Lothor Imperium]] on **Aries 21, 1460 TO**. Together they spent their youth passing from owner to owner, until they eventually found their way to the Coliseum of Stygia**(1475TO)**, where they were beaten, tortured, and made to fight under Emperor Lothor the Prime.
+Khemmis and his brother Khallis were born into a life of slavery in the [[Sang-Lothor Imperium]] on **Aries 21, 1460 TO**. Together they spent their youth passing from owner to owner, until they eventually found their way to the Coliseum of Stygia**(1475TO)**, where they were beaten, tortured, and made to fight under Emperor Lothor the Prime.
 
 Eventually, Khemmis and his brother faced off against the fearsome Minotaur Thorun. Thorun served to be Khemmis' greatest challenge, with the Minotaur making short work of him and breaking off one of his horns. With Khemmis dispatched, the Minotaur set it's sights on his brother, who, without Khemmis to defend him, perished. Khemmis, in a blind rage, mustered the last of his strength and managed to fell the Minotaur, severing its own horn in return and goring it. This violent act cemented his place as the Coliseum champion, and earned him the title of the 'Ram of Stygia'.
 

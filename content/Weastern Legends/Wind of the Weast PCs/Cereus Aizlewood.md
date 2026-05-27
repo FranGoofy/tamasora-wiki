@@ -149,7 +149,7 @@ She is wise beyond her years and still a teenager underneath it. She loses her m
 - Find the Waterfall from her vision. *(The beginning of everything)*
 - Cast Hallow on the ship to protect against fire. 
 - Spread the word of Eldath to restore her influence to [[Aigora]]. 
-- Abolish slavery in the [[Sang Lothor Imperium]].
+- Abolish slavery in the [[Sang-Lothor Imperium]].
 - Find the Butterfly Globe left for her by Eldath with Aroo Goola.
 - Visit home with her newfound friends.
 

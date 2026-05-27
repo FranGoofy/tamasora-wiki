@@ -10,12 +10,12 @@ publish: true
 > | **Alias** | Demon Owl |
 > | **Species** | Tiefling |
 > | **Gender** | Female |
-> | **Affiliation** | [[Weastern Pirates]], [[Sang Lothor Imperium]] |
+> | **Affiliation** | [[Weastern Pirates]], [[Sang-Lothor Imperium]] |
 > | **Occupation** | Lord Commander of the Imperial Guard |
 
-**Savina Blannis**, born **Savina Grimsbane** and known to the Commonwealth of Tormenta Navy as the **"Demon Owl"**, is an infamous founding member of the [[Weastern Pirates]], the wife of Razgaal Blannis, and the current Lord Commander of the Imperial Guard for the [[Sang Lothor Imperium]]. She is a fellow Tiefling and trusted shipmate of [[Khemmis]], who has relied on her shot from the crow's nest more times than he would easily admit.
+**Savina Blannis**, born **Savina Grimsbane** and known to the Commonwealth of Tormenta Navy as the **"Demon Owl"**, is an infamous founding member of the [[Weastern Pirates]], the wife of Razgaal Blannis, and the current Lord Commander of the Imperial Guard for the [[Sang-Lothor Imperium]]. She is a fellow Tiefling and trusted shipmate of [[Khemmis]], who has relied on her shot from the crow's nest more times than he would easily admit.
 
-After her adoptive father and mentor, Peter Grimsbane, was murdered by an unknown assailant, Savina left her hometown of Hassbith and set out to uncover the truth of his death. Captured by slavers and taken far into the uncharted Aigean Seas, she overthrew her captors and helped found the [[Weastern Pirates]]. Her journey eventually brought her to the [[Sang Lothor Imperium]], where she uncovered her father's killer, settled a debt of blood, and chose to stay for love.
+After her adoptive father and mentor, Peter Grimsbane, was murdered by an unknown assailant, Savina left her hometown of Hassbith and set out to uncover the truth of his death. Captured by slavers and taken far into the uncharted Aigean Seas, she overthrew her captors and helped found the [[Weastern Pirates]]. Her journey eventually brought her to the [[Sang-Lothor Imperium]], where she uncovered her father's killer, settled a debt of blood, and chose to stay for love.
 
 ## Overview
 
@@ -25,7 +25,7 @@ After her adoptive father and mentor, Peter Grimsbane, was murdered by an unknow
 **Date of Birth:** 2nd of Libra
 **Place of Birth:** Hassbith Forest Village, [[Aigora]]
 **Marital Status:** Married to Razgaal Blannis
-**Affiliation:** [[Weastern Pirates]], [[Sang Lothor Imperium]]
+**Affiliation:** [[Weastern Pirates]], [[Sang-Lothor Imperium]]
 **Occupation:** Lord Commander of the Imperial Guard, Naval Navigator, Pirate (formerly)
 
 ---
@@ -50,7 +50,7 @@ In the aftermath she encountered the crew that would become the [[Weastern Pirat
 
 ### The Sang-Lothor Imperium and Kalkstein Grimsbane
 
-Savina's path eventually led her to the [[Sang Lothor Imperium]], where the woman she loved — **Princess Razgaal Lothlorian** — was facing an arranged marriage. On the way, Savina discovered she had a bastard brother: **Kalkstein Grimsbane**, a member of the Golden Council of Sang-Lothor — the same council on which [[Khallis]] sits.
+Savina's path eventually led her to the [[Sang-Lothor Imperium]], where the woman she loved — **Princess Razgaal Lothlorian** — was facing an arranged marriage. On the way, Savina discovered she had a bastard brother: **Kalkstein Grimsbane**, a member of the Golden Council of Sang-Lothor — the same council on which [[Khallis]] sits.
 
 She killed him. With the help of her crewmates, she learned in the process that Kalkstein had been the one to order Peter Grimsbane's murder, contracting it through an organization known as the **Black Roses**. The question that had driven her across [[Aigora]] had its answer.
 
@@ -73,7 +73,7 @@ The name Grimsbane was her father's gift to her. The name Blannis is her own.
 ## Relationships
 
 - **Razgaal Blannis** *(wife)*
-    - Princess of the [[Sang Lothor Imperium]] and the reason Savina stayed. Their relationship is the axis around which Savina's later life turns — she crossed the Imperium's politics, killed her own brother, and surrendered the open sea for her. She has no apparent regrets.
+    - Princess of the [[Sang-Lothor Imperium]] and the reason Savina stayed. Their relationship is the axis around which Savina's later life turns — she crossed the Imperium's politics, killed her own brother, and surrendered the open sea for her. She has no apparent regrets.
 
 - **Peter Grimsbane** *(adoptive father, deceased)*
     - The ranger who raised her after she lost her birth family. His murder set the course of her life. She burned his cabin rather than leave him to rot in it, and carried his words further than he likely imagined they would travel. His killer has since been found and dealt with.

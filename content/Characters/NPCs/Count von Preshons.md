@@ -5,7 +5,7 @@ publish: true
 
 *Nirvana's Drakebane — Fallen Lord of [[Yahar'gul]] — Father of [[Silas Clemens|Silas]] and [[Talleah Preshons|Talleah]]*
 
-**Count von Preshons** was a powerful Fomorian General in service of the [[Cult of Nirvana]] and the [[Servants of Nirvana]]. He was the vampiric father of [[Silas Clemens]] and [[Talleah Preshons]], the former lord of the fallen stronghold [[Yahar'gul]], and one of the primary architects of the plot to crown the [[Unborn Fomorian King]].
+**Count von Preshons** was a powerful Fomorian General in service of the [[Cult of Nirvana]] and the [[Cult of Nirvana]]. He was the vampiric father of [[Silas Clemens]] and [[Talleah Preshons]], the former lord of the fallen stronghold [[Yahar'gul]], and one of the primary architects of the plot to crown the [[Unborn Fomorian King]].
 
 ## Appearance & Personality
 The Count was a calculating, aristocratic figure — circular spectacles, impeccable composure, and a cold intelligence that set him apart from brute Fomorian generals. He rarely acted in anger, preferring to let his enemies underestimate him until the moment he chose to reveal his true power. He was capable of transforming into a flaming dragon form and wielded the demonic blade **Sanguinus**, which drained the vitality of anyone it struck.

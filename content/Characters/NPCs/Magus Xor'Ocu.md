@@ -5,7 +5,7 @@ publish: true
 
 *Nirvana's Fomorian General — The Beholder*
 
-**Magus Xor'Ocu** was a Beholder and one of the Fomorian Generals who led the demonic assault on [[Astraloftum]] during the [[Fomorian Invasion of Astraloftum]]. Arrogant, theatrical, and dangerously powerful, Xor'Ocu commanded both the Fomorian demon army and the [[Servants of Nirvana]] during the invasion.
+**Magus Xor'Ocu** was a Beholder and one of the Fomorian Generals who led the demonic assault on [[Astraloftum]] during the [[Fomorian Invasion of Astraloftum]]. Arrogant, theatrical, and dangerously powerful, Xor'Ocu commanded both the Fomorian demon army and the [[Cult of Nirvana]] during the invasion.
 ## Powers
 - **Necrosis Beam** — A devastating beam capable of killing outright. Used to kill [[Diallos]] (later revived) and nearly obliterate [[Finley]].
 - **Antimagic Eye** — His central eye could suppress magic in its gaze. During the battle, it flared into a pitch-black orb that erupted into a dazzling rainbow, dispelling all magic in the area — breaking Finley's Liondrake form and sending him, Diallos, and Virtus plummeting from the sky.

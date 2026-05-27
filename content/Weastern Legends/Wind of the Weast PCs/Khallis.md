@@ -13,7 +13,7 @@ publish: true
 > | **Affiliation** | [[Weastern Pirates]] (formerly) |
 > | **Occupation** | Advisor to the Prince |
 
-**Khallis** is a changeling presenting under the guise of a tiefling, presenting under the guise of a human, who served as personal advisor to the first prince of the [[Sang Lothor Imperium]], Xervisian Lothlorian. As a member of the Golden Council of Sang-Lothor, he wielded considerable influence over the Imperium's politics and inner workings. He is also the brother of [[Khemmis]], First Mate of the [[Weastern Pirates]], a fact that neither of them has found occasion to speak of plainly.
+**Khallis** is a changeling presenting under the guise of a tiefling, presenting under the guise of a human, who served as personal advisor to the first prince of the [[Sang-Lothor Imperium]], Xervisian Lothlorian. As a member of the Golden Council of Sang-Lothor, he wielded considerable influence over the Imperium's politics and inner workings. He is also the brother of [[Khemmis]], First Mate of the [[Weastern Pirates]], a fact that neither of them has found occasion to speak of plainly.
 ## Overview
 
 **Aliases:** Blue Devil, Emperor Lothor Prime
@@ -21,7 +21,7 @@ publish: true
 **Gender:** Fluid
 **Height:** 6'4"
 **Date of Birth:** Aries 21, 1460 TO
-**Place of Birth:** Arx Flutallum, [[Sang Lothor Imperium]]
+**Place of Birth:** Arx Flutallum, [[Sang-Lothor Imperium]]
 **Affiliation:** Golden Council of Sang-Lothor, Stygia Coliseum (formerly), [[Weastern Pirates]] (formerly)
 **Occupation:** Advisor to the Prince
 
@@ -31,7 +31,7 @@ publish: true
 
 ### The Coliseum
 
-Khallis and [[Khemmis]] were born on the same day in the same place — Arx Flutallum, deep within the [[Sang Lothor Imperium]] — into the same life of slavery. Together they passed from owner to owner until they arrived at the Coliseum of Stygia in 1475 TO, where they were beaten, trained, and made to fight for the entertainment of noble children who threw refuse from the stands.
+Khallis and [[Khemmis]] were born on the same day in the same place — Arx Flutallum, deep within the [[Sang-Lothor Imperium]] — into the same life of slavery. Together they passed from owner to owner until they arrived at the Coliseum of Stygia in 1475 TO, where they were beaten, trained, and made to fight for the entertainment of noble children who threw refuse from the stands.
 
 When the brothers were set against the Minotaur Thorun, Khallis fell. [[Khemmis]] was told his brother had succumbed to his injuries. [[Khemmis]] believed it, because he had no reason not to, and because grief does not leave room for suspicion.
 
@@ -45,11 +45,11 @@ At some point, Khallis found his way to Port Tormenta on [[Aigora]], where he jo
 
 [[Jebbedo Ode'bbej]] crafted him a Rod of the Pactkeeper during his time with the crew. A Rod of the Pactkeeper is a warlock's instrument. Khallis has not elaborated on the nature of that pact, or with whom it was made — though it was eventually revealed that his patron had been [[Nathair]] for many years, without Khallis's knowledge.
 
-He served with the [[Weastern Pirates]] through campaigns that included the liberation of [[Weastworld]] and the foiling of schemes that reached into the heart of the [[Sang Lothor Imperium]]. At some point, he left — or the crew dispersed — and Khallis arrived at Sang-Lothor not as a pirate but as a political figure, seated on the Golden Council and whispering into the ear of the first prince.
+He served with the [[Weastern Pirates]] through campaigns that included the liberation of [[Weastworld]] and the foiling of schemes that reached into the heart of the [[Sang-Lothor Imperium]]. At some point, he left — or the crew dispersed — and Khallis arrived at Sang-Lothor not as a pirate but as a political figure, seated on the Golden Council and whispering into the ear of the first prince.
 
 ### Sang-Lothor and the Golden Council
 
-Khallis now serves as personal advisor to **Xervisian Lothlorian**, first prince of the [[Sang Lothor Imperium]] — and by extension operates within the same court where **Razgaal Lothlorian**, Xervisian's kin, made [[Savina Blannis]] Lord Commander of the Imperial Guard. He also sat on the same Golden Council as **Kalkstein Grimsbane**, [[Savina Blannis|Savina's]] bastard brother, before Kalkstein was killed.
+Khallis now serves as personal advisor to **Xervisian Lothlorian**, first prince of the [[Sang-Lothor Imperium]] — and by extension operates within the same court where **Razgaal Lothlorian**, Xervisian's kin, made [[Savina Blannis]] Lord Commander of the Imperial Guard. He also sat on the same Golden Council as **Kalkstein Grimsbane**, [[Savina Blannis|Savina's]] bastard brother, before Kalkstein was killed.
 
 Whether Khallis knew what Kalkstein was — whether he knew who had contracted Peter Grimsbane's death, and through what organization — is not a question anyone has yet put to him directly.
 
@@ -86,7 +86,7 @@ He carries the alias **Emperor Lothor Prime**. The Emperor under whom both he an
     - *"You're supposed to be the smart one."* — [[Khemmis]]
 
 - **Xervisian Lothlorian** *(the Prince)*
-    - The first prince of the [[Sang Lothor Imperium]] and the man whose ear Khallis has earned. The nature of that influence — whether it is counsel, manipulation, genuine loyalty, or something operating on several tracks at once — is not easily categorized.
+    - The first prince of the [[Sang-Lothor Imperium]] and the man whose ear Khallis has earned. The nature of that influence — whether it is counsel, manipulation, genuine loyalty, or something operating on several tracks at once — is not easily categorized.
 
 - **[[Savina Blannis]]**
     - Both served, at different times, in proximity to the Lothlorian royal house. Both sat at tables adjacent to Kalkstein Grimsbane before his death. Savina has not yet asked Khallis what he knew.
