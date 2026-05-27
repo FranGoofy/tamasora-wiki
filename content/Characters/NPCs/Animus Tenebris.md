@@ -1,6 +1,21 @@
 ---
 publish: true
 ---
+> [!infobox] Animus Tenebris
+> ![[Animus (no helm 1).webp]]
+>
+> | | |
+> |---|---|
+> | **Type** | NPC |
+> | **Actor** | FranGoofy |
+> | **Name** | Animus Tenebris |
+> | **Creature type** | Humanoid |
+> | **Race** | Tiefling |
+> | **Places** | [[Astraloftum]] |
+> | **Family** | [[Virtus Tenebris]] (sister), [[Zariel Tenebris]] (mother), [[Amiel Tenebris]] (father) |
+> | **Factions** | [[White Hand]], [[Palms of a New Dawn]], [[Ecclesia Solari]] |
+> | **Class / Profession** | Solar Scion |
+
 Animus Tenebris was born into the esteemed [[Tenebris Estate]], a lineage of legendary warriors devoted to the [[Ecclesia Solari]]. Unlike most Tieflings, Animus was born without horns, his face soft and unassuming, traits that set him apart and sowed seeds of insecurity from an early age. To mask his perceived imperfections, he adopted a fierce persona, donning a heavy, intimidating helmet and wielding a colossal two-handed sword named ‘Fomorslayer’ that became an extension of his will. 
 
 Animus’s rise to prominence began before his sister Virtus even dreamed of becoming a Scion. A natural leader, he quickly ascended to lead the **White Hand**, a prestigious group of Solar Scions devoted to Tekk, the Soul-Forger. Known for his incredible strength and mastery of the blade, Animus wielded his weapon with precision and ease, cutting down foes like a tempest of steel. 

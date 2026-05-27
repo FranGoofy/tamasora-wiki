@@ -1,6 +1,16 @@
 ---
 publish: true
 ---
+> [!infobox] Isra
+> ![[isra.webp]]
+>
+> | | |
+> |---|---|
+> | **Ancestry** | [[Dreamers\|Dreamer]] |
+> | **Class** | Eldritch Cleric |
+> | **Deity** | God of Secrets and Knowledge |
+> | **Thread** | [[Thread of the Apocalypse]] |
+
 *[[Dreamers|Dreamer]] Race, Eldritch Cleric, Amnesiac ([[Thread of the Apocalypse]])*
 
 Knowledge Keeper of a long lost race.

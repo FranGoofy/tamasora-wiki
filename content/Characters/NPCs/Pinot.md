@@ -1,6 +1,19 @@
 ---
 publish: true
 ---
+> [!infobox] Pinot
+> ![[Pinot.webp]]
+>
+> | | |
+> |---|---|
+> | **Type** | NPC |
+> | **Actor** | FranGoofy |
+> | **Name** | Pinot |
+> | **Creature type** | Humanoid |
+> | **Places** | [[Astraloftum]], [[Macha]] |
+> | **Family** | Lileas (sister) |
+> | **Class / Profession** | Gardener |
+
 Childhood friend of [[Virtus Tenebris]] & [[Diallos]]. 
 
 A young boy who is good with his hands. According to Pinot, Pinot and Lileas's mother passed away after Lileas' birth. Pinot raised Lileas during their childhood. Their father lived in [[Macha]], raising money for the two children. Since they were hardly with their parents, they spent most of their time on their grandfather's farm. This may be the place where Pinot first took interest in gardening. He eventually developed love for all of nature and "naturally" became a gardener. He never seems to take a day off in gardening, and perhaps never once slacked off. According to his philosophy below:

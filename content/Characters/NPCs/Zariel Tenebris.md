@@ -1,6 +1,21 @@
 ---
 publish: true
 ---
+> [!infobox] Zariel Tenebris
+> ![[Zariel Tenebris.webp]]
+>
+> | | |
+> |---|---|
+> | **Type** | NPC |
+> | **Actor** | FranGoofy |
+> | **Name** | Zariel Tenebris |
+> | **Titles** | Lord Commander |
+> | **Creature type** | Humanoid |
+> | **Places** | [[Astraloftum]] |
+> | **Family** | [[Virtus Tenebris]] (daughter), [[Animus Tenebris]] (son), [[Amiel Tenebris]] (husband, missing) |
+> | **Factions** | [[Astraloftum]], [[Ecclesia Solari]] |
+> | **Class / Profession** | Lord Commander |
+
 # Zariel Tenebris
 
 *Lord Commander of [[Astraloftum]] — Mother of [[Virtus Tenebris|Virtus]] and [[Animus Tenebris|Animus]]*

@@ -1,6 +1,16 @@
 ---
 publish: true
 ---
+> [!infobox] Boneshield Misfits
+>
+> | | |
+> |---|---|
+> | **Type** | Player Party |
+> | **Actors** | ??? |
+> | **Members** | [[Riqirith]], [[Montague Tepes]], [[Aurelia]], [[Isra]] |
+> | **Factions** | Boneshield |
+> | **Speciality** | Fateweaving |
+
 # Characters
 
 ## [[Riqirith]]

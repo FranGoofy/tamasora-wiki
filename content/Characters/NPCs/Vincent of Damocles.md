@@ -1,6 +1,18 @@
 ---
 publish: true
 ---
+> [!infobox] Vincent of Damocles
+> ![[Vincent.webp]]
+>
+> | | |
+> |---|---|
+> | **Type** | NPC |
+> | **Actor** | FranGoofy |
+> | **Name** | Vincent of Damocles |
+> | **Places** | [[Astraloftum]] |
+> | **Factions** | [[Tekkhead]] Labs |
+> | **Class / Profession** | Arms Dealer |
+
 # Vincent of Damocles
 
 *Enigmatic Arms Dealer — Former Friend of Sir Amiel Tenebris*

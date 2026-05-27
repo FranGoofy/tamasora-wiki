@@ -1,6 +1,15 @@
 ---
 publish: true
 ---
+> [!infobox] Aurelia
+> ![[Aurelia.webp]]
+>
+> | | |
+> |---|---|
+> | **Ancestry** | High Elf |
+> | **Class** | Bladesinging Wizard |
+> | **Thread** | [[Thread of Malediction]] |
+
 *High Elf, Bladesinging Wizard, Noble, Scholar of the Forbidden, [[Thread of Malediction]]*
 
 Running away from her elven family’s responsibilities, Aurelia finds herself on the [[Boneshield|edge of human civilization]], going from village to village, town to town. She seeks the Seelie Court Jewel because it glows in the presence of lies and malice. She wants to prove and redeem herself to her family.

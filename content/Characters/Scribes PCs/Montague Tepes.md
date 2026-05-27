@@ -1,6 +1,15 @@
 ---
 publish: true
 ---
+> [!infobox] Montague Tepes
+> ![[monty.webp]]
+>
+> | | |
+> |---|---|
+> | **Ancestry** | Human |
+> | **Class** | Eldritch Warlock |
+> | **Thread** | [[Thread of Slaughter]] |
+
 *Human, Eldritch Warlock, [[Thread of Slaughter]]*
 
 Montague Tepes is a respected veterinarian in [[Boneshield]] until one day, something bound to him, something very sinister indeed… No one believed what he saw, so he decided to to try to uncover what it is that eventually became part of him..

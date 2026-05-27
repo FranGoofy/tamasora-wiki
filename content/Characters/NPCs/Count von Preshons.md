@@ -1,6 +1,22 @@
 ---
 publish: true
 ---
+> [!infobox] Count von Preshons
+> ![[Count von Preshons.webp]]
+>
+> | | |
+> |---|---|
+> | **Type** | NPC |
+> | **Actor** | FranGoofy |
+> | **Name** | Count von Preshons |
+> | **Titles** | Count, Nirvana's Drakebane |
+> | **Creature type** | Undead |
+> | **Race** | Vampire |
+> | **Places** | [[Yahar'gul]] |
+> | **Family** | [[Silas Clemens]] (son), [[Talleah Preshons]] (daughter) |
+> | **Factions** | [[Cult of Nirvana]] |
+> | **Class / Profession** | Fomorian General |
+
 # Count von Preshons
 
 *Nirvana's Drakebane — Fallen Lord of [[Yahar'gul]] — Father of [[Silas Clemens|Silas]] and [[Talleah Preshons|Talleah]]*

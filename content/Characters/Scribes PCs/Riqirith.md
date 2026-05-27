@@ -1,6 +1,15 @@
 ---
 publish: true
 ---
+> [!infobox] Riqirith
+> ![[Riqirith full.webp]]
+>
+> | | |
+> |---|---|
+> | **Ancestry** | Eladrin Elf |
+> | **Class** | Mutation Druid |
+> | **Thread** | [[Thread of Rejuvenation]] |
+
 *Eladrin [[Elf]], Mutation Druid, [[Thread of Rejuvenation]]*
 
 The '**Wild-Witch of Gul'**, as the residents of [[Boneshield]] call her, has long been the protector of its nearby forests. 

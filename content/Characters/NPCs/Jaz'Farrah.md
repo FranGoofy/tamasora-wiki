@@ -1,6 +1,21 @@
 ---
 publish: true
 ---
+> [!infobox] Jaz'Farrah
+> ![[jaz'farrah.webp]]
+>
+> | | |
+> |---|---|
+> | **Type** | NPC |
+> | **Actor** | FranGoofy |
+> | **Name** | Jaz'Farrah |
+> | **Titles** | Mad Shamaness of Saturn |
+> | **Creature type** | Humanoid |
+> | **Race** | [[Children of Jas\|Titanborn]] |
+> | **Places** | [[Saturn]] |
+> | **Factions** | Maskin |
+> | **Class / Profession** | Shamaness |
+
 # Jaz'Farrah
 
 *Mad Shamaness of Saturn — Maskin Revolutionary*

@@ -1,6 +1,21 @@
 ---
 publish: true
 ---
+> [!infobox] High Priestess Cetra
+> ![[High Priestess Cetra 1.webp]]
+>
+> | | |
+> |---|---|
+> | **Type** | NPC |
+> | **Actor** | FranGoofy |
+> | **Name** | Liara Cetra |
+> | **Titles** | High Priestess |
+> | **Also known as** | Liara Cetra (Solar Scions identity) |
+> | **Places** | [[Astraloftum]], [[St. Ode'bbej Cathedral]] |
+> | **Family** | [[Thirteen]] (surrogate son) |
+> | **Factions** | [[Ecclesia Solari]], [[Solar Scions]], SABER |
+> | **Class / Profession** | High Priestess |
+
 High Priestess of the [[Ecclesia Solari]] and leader of the [[Astraloftum]] Church Hierarchy. Under her leadership, the Church remains steadfast in its mission to locate [[Paradise]], believing the arrival of the [[Comet of Eden]] marks the beginning of a new crusade.
 
 She resides in [[St. Ode'bbej Cathedral]].
