@@ -14,8 +14,6 @@ From the planning notes for the campaign, this child carries enormous prophetic 
 
 This connects directly to [[Diallos]]'s early vision of a **red-haired baby** — reappearing in his **"Coming of the Comet"** prophecy, where the [[Cult of Nirvana]] is seen heralding a new Fomorian King in the form of a **red-haired infant**, timed to the arrival of the [[Comet of Eden]].
 
-The child of Cannoch and Fern may be that infant — or may be the target the Cult intends to use, manipulate, or hunt.
-
 ## Current Status
 Fern remains pregnant. She and Cannoch joined the Soul Shepherds as part of their crew following the events on the Pirate Mining Island. Their child has not yet been born.
 
