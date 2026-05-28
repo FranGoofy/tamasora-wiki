@@ -16,7 +16,7 @@ Upon returning to [[Astraloftum]], the Soul Shepherds presented Bartholomew's ca
 The Clergy was moved. Cetra allowed him to proceed to the Mirror Realm trial.
 
 ## The Mirror Realm Trial
-The Soul Shepherds entered the [[Atrium Profanus]] in the [[Mirror Realm]] via the **Eluvian Mirror** in St. Ode'bbej Cathedral, with the SABER agent [[Thirteen]] (posing as a janitor) opening the portal.
+The Soul Shepherds entered the [[Atrium Profanus]] in the [[Mirror Realm]] via the **[[Eluvian Mirror]]** in St. Ode'bbej Cathedral, with the SABER agent [[Thirteen]] (posing as a janitor) opening the portal.
 
 Inside, **Dark Arse** — Bartholomew's Dark Self — waited at a great pipe organ, playing an ancient Draconic melody and unleashing the petrified **Fomorian Devil Generals** (Iblis, Niggurath, and Cun'Ingus) via the **Ebon Star**.
 
