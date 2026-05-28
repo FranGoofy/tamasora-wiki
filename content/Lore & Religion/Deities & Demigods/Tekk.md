@@ -51,11 +51,9 @@ Among the [[Dwarves of Jupiter]], Tekk is not the God-Warrior of Technology but 
 ---
 
 ## The Unfinished Anvil
-*(New lore)*
-
 Somewhere on a forgotten Titan, Tekk left an anvil he never completed. The Soul-Forger swore he would return to finish it only when the last [[Souls|Soul]] he had in mind to forge was ready.
 
-Smiths who have pilgrimaged to find it almost never come back. The handful who do return changed: they say they could feel the work the Soul-Forger was meant to do on the anvil, and they say they understood, briefly, who the Last Soul was meant to be. None can ever describe what they felt, and most go to their graves refusing to say the name they saw. The most devout Tekk-clerics teach that the day the anvil is finished is the day the [[Soul Wars]] truly end, and that no one alive (perhaps not even Tekk himself) currently knows which Soul is required.
+Smiths who have pilgrimaged to find it almost never come back. The handful who do return changed: they say they could feel the work the Soul-Forger was meant to do on the anvil, and they say they understood, briefly, who the [[Amiel Tenebris|Last Soul]] was meant to be. None can ever describe what they felt, and most go to their graves refusing to say the name they saw. The most devout Tekk-clerics teach that the day the anvil is finished is the day the [[Soul Wars]] truly end, and that no one alive (perhaps not even Tekk himself) currently knows which Soul is required.
 
 ---
 
@@ -75,7 +73,7 @@ Smiths who have pilgrimaged to find it almost never come back. The handful who d
 
 - [[Virtus Tenebris]]: Shield-maiden of the [[Soul Shepherds]]; channels Tekk's free-will doctrine in her leadership.
 - [[Diallos]]: Monk of the [[Soul Shepherds]]; Tekk's perspective on destiny is the backbone of his philosophy.
-- [[Animus Tenebris]]: Leader of the [[White Hand]]; bears *Fomorslayer*, a colossal two-handed sword forged in Tekk's name.
+- [[Animus Tenebris]]: Leader of the [[Palms of a New Dawn]]; bears *Fomorslayer*, a colossal two-handed sword forged in Tekk's name.
 
 ## Related
 - [[Trinity]]
