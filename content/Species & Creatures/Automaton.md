@@ -26,7 +26,7 @@ What is empirically observed, regardless of theology:
 - Awakened Automatons cannot be raised as [[Undead]] in the same manner as mortals.
 - They cannot be seen by [[Demon|Demons]] the way mortal Souls can. Most Demons find them tasteless.
 - A destroyed Automaton's animating spark, if there is one, does not pass into the [[Spirit Realm]] or the [[Gardens of Arcadia]]. Where it goes is, depending on whom you ask, "back to Tekk's forge," "nowhere at all," or "the same place every other dead thing goes, and you simply cannot see it."
-- They cannot enter [[Paradise]]. Or so the doctrine claims. Tekk has not weighed in.
+- They cannot enter [[Paradise]] (No-one can!) Or so the doctrine claims. Tekk has not weighed in.
 
 ---
 
@@ -40,7 +40,7 @@ A modern Automaton in the [[Skysea]] is not built the way the old war-constructs
 
 **Skin.** Plates of metal, ceramic, or treated hide, chosen for the Automaton's intended altitude. High-zone units are clad in materials that do not embrittle in the cold. Low-zone units are coated in lacquers that resist the acidic smog of the [[Mercantile Hegemony]]'s freight hubs.
 
-**Heart.** A central reservoir, usually crystal or glass, holding either a stored [[Souls|Soul]] (in the case of illegal models) or an Animation Core (in the case of legal ones). The Animation Core is the official Church-approved substitute: a focused arcane lattice that mimics the function of a Soul without, the Church insists, actually being one.
+**Heart.** A central reservoir, usually crystal or glass , holding either a stored [[Souls|Soul]] (in the case of illegal models) or an Animation Core (in the case of legal ones). The Animation Core is the official Church-approved substitute: a focused arcane lattice that mimics the function of a Soul without, the Church insists, actually being one.
 
 **Eyes.** Almost always crystal, almost always glowing. The color of an Automaton's eye-light is the easiest way to identify the workshop that built it. Tekkhead-blue is the most common; Hegemony-amber is a close second.
 
