@@ -112,31 +112,31 @@ With the help of Milodius’ calming ballads, Diallos’ peaceful resistance mag
 
 \*15 Everbloom 312 (Day 70 since the formation of the Soul Shepherds)  Game Date: (May 14th, 2026)
 
-The [[Soul Shepherds]] venture into the heights of the [[Inverted Temple]]'s **Great Alchemical Library**, a towering archive of cracked spines, bubbling apparatus, and secrets pressed between pages. There, they find [[Groin the Brewer]], the Library's eccentric custodian, who greets them with the easy manner of a man who has not had company in too long. Over the clink of an offered bottle, Groin reveals a troubling piece of forgotten ecclesiastical history: that [[Saint Brasser the Ambrosius]] - revered throughout the [[Skysea]], was formally *decanonized* by the [[Ecclesia Solari]] in records buried here, a revelation the Church has gone to considerable lengths to suppress.
+The [[Soul Shepherds]] venture into the heights of the [[Inverted Temple]]'s **Great Alchemical Library**, a towering archive of cracked spines, bubbling apparatus, and secrets pressed between pages. There, they find [[Groin the Brewer]], the Library's eccentric custodian, who greets them with the easy manner of a man who has not had company in too long. Over the clink of an offered bottle, Groin reveals a troubling piece of forgotten ecclesiastical history: that [[Saint Brasser the Ambrosius]] - revered throughout the [[Skysea]], was formally _decanonized_ by the [[Ecclesia Solari]] in records buried here, a revelation the Church has gone to considerable lengths to suppress.
 
 They fan out through the stacks. **[[Diallos]]** is the first to find something that stops him cold, a journal written by [[Bobby Beerbelly]], its pages yellowed with age and desperation. He reads a particular entry aloud, and something changes in the air of the room:
 
-> *"It wasn't faith that broke him. They poured [[Abathur]] into him like wine into a cup; The CHURCH poured it into him. They knew. The Church Knew. I must tell Amiel..."*
+> _"It wasn't faith that broke him. They poured [[Abathur]] into him like wine into a cup; The CHURCH poured it into him. They knew. The Church Knew. I must tell Amiel..."_
 > - **Bobby**
 
-The name *Abathur* strikes Diallos like a physical blow. He **becomes God-Meddled**, his body involuntarily shrinking in on itself, cowering at an instinct deeper than reason - the name of an entity that should not be spoken. He slowly recovers back to full size after a few tense minutes, but the shadow of it lingers on his face.
+The name _Abathur_ strikes Diallos like a physical blow. He **becomes God-Meddled**, his body involuntarily shrinking in on itself, cowering at an instinct deeper than reason - the name of an entity that should not be spoken. He slowly recovers back to full size after a few tense minutes, but the shadow of it lingers on his face.
 
 [[Silas Clemens|Silas]] and [[Bartholomew|Bart]], however, are conspicuously unaffected - both having already worked their way deep into the temple's ale stores upon arrival. Still warm in the belly and pleasantly untroubled, the two are **immune to the Frightened condition** for the better part of an hour, a dubious but effective piece of anti-divine armor.
 
 **Silas** continues deeper into the stacks, hunting for texts on hemomancy and the [[Scribes]]' relationship to the [[Ecclesia]]. He finds two volumes of interest. The first: a clinical treatise on [[Titan]] blood and its corruption of Dwarven physiology — a confirmation, in dry scholarly language, that [[Forvivlad]] is not a curse from the gods but a biological consequence of toxic titanblood exposure. The second is something altogether different: a **Scribe Manifesto**, the political soul of the resistance laid out in impassioned prose:
 
-> *There's a little voice in our head that says STOP! Abandon Authority and allow us to listen to things that matter. That is, in and of itself, Democracy. The powers of the Skysea have always served the rich and influential and discarded the poor. The Ecclesia is a curious one, they supposedly champion the downtrodden and offer a bastion of refuge, yet they reject other races arbitrarily... Our Goblinoid and Orc friends struggle to find their way into our world, rejected by the Ecclesia and exploited by the Hegemony, what other recourse do they have then mercenary work? They then fall under the stigma that the Ecclesia has labeled them under criminals - it is a vicious negative social spiral. I propose that we revoke the idea of 'Fomorians'. The Ecclesia can be a force of good, but until they become accepting of all races and species, that cannot, and will not, happen.*
-> -*Guapito de Vona, Editor*
+> _There's a little voice in our head that says STOP! Abandon Authority and allow us to listen to things that matter. That is, in and of itself, Democracy. The powers of the Skysea have always served the rich and influential and discarded the poor. The Ecclesia is a curious one, they supposedly champion the downtrodden and offer a bastion of refuge, yet they reject other races arbitrarily... Our Goblinoid and Orc friends struggle to find their way into our world, rejected by the Ecclesia and exploited by the Hegemony, what other recourse do they have then mercenary work? They then fall under the stigma that the Ecclesia has labeled them under criminals - it is a vicious negative social spiral. I propose that we revoke the idea of 'Fomorians'. The Ecclesia can be a force of good, but until they become accepting of all races and species, that cannot, and will not, happen._
+> -_Guapito de Vona, Editor_
 
 Meanwhile, **[[Whimsical|Whimsy]]** discovers a narrow secret tunnel concealed behind one of the bookshelves. Inside sits an Urn, unremarkable to look at but strange in feel, the **'Be Creative' Alchemy Jug**, humming with subtle, unpredictable magical potential.
 
 **[[Virtus Tenebris|Virtus]]** finds something far more personal. Tucked between research notes, a hastily scrawled message in a handwriting she recognizes - her father [[Amiel Tenebris]]'s hand, placing him in this very Library alongside Bobby Beerbelly:
 
-> *"The Fomorian is dead and Bobby has the [[Golden Key]]. I will hold the line at the bridge so he can seal the door. After this, I plan to drink up all of the Ale in the Temple!"*
+> _"The Fomorian is dead and Bobby has the [[Golden Key]]. I will hold the line at the bridge so he can seal the door. After this, I plan to drink up all of the Ale in the Temple!"_
 
 Virtus reads it twice. She folds it carefully and says nothing for a long moment.
 
-In a quieter corner of the Library, **[[Thirteen]]** makes his own discovery. Behind a false stone hollow, half-hidden in the architecture of the shelves, he finds the **'Church Killer' manuscript**: a heretical text that contradicts official [[Ecclesia Solari]] doctrine on [[Saint Brasser the Ambrosius]]. His Soul-Sword vibrates violently in proximity to it, resonating with something inside the pages that the blade seems to recognize. Thirteen tucks it under his arm and says nothing to the others. Inside the binding is a **Spell Scroll of Commune**, and the manuscript itself names *two* high-ranking Solari conspirators involved in Brasser's poisoning, not one, as has always been assumed. One name is **half-burned away**, visible only as a partial seal, its identity an open wound. The other is **fully legible**: an older [[Solari Inquisitor]] named [[Vincent of Damocles]], likely dead by now, though his family remains active in [[Astraloftum]] politics.
+In a quieter corner of the Library, **[[Thirteen]]** makes his own discovery. Behind a false stone hollow, half-hidden in the architecture of the shelves, he finds the **'Church Killer' manuscript**: a heretical text that contradicts official [[Ecclesia Solari]] doctrine on [[Saint Brasser the Ambrosius]]. His Soul-Sword vibrates violently in proximity to it, resonating with something inside the pages that the blade seems to recognize. Thirteen tucks it under his arm and says nothing to the others. Inside the binding is a **Spell Scroll of Commune**, and the manuscript itself names _two_ high-ranking Solari conspirators involved in Brasser's poisoning, not one, as has always been assumed. One name is **half-burned away**, visible only as a partial seal, its identity an open wound. The other is **fully legible**: an older [[Solari Inquisitor]] named [[Vincent of Damocles]], likely dead by now, though his family remains active in [[Astraloftum]] politics.
 
 In the Hall of Statues leading back through the Library, the Soul Shepherds encounter a [[Kekoa]] warrior named **Thorfinn** - built like a monument and carrying himself with the ease of someone who has never lost a fight. He extends a formal offer: a place on his **[[Pōpō Pele]]** team. The Shepherds decline respectfully; they have more pressing matters. But Thorfinn takes no offense. The offer remains open. They can seek him out at [[Hipolum-Dhrum]], at the [[Grand Aletop]], whenever the time feels right.
 
@@ -144,15 +144,15 @@ With the library's revelations still settling, **Silas** gathers his resolve and
 
 Then it is **Thirteen**'s turn to act on his discovery. With the group assembled, he uncases the **Spell Scroll of Commune** from inside the 'Church Killer' binding and casts it, opening a channel to the [[Trinity]]. He puts four questions to the divine:
 
-*Will the manuscript destroy the Church?* - **Yes.**
-*Are the Gods currently displeased?* - **Yes.**
-*Is the [[Golden Key]] beneath [[Lake Ruthaba]]?* - **Yes.**
+_Will the manuscript destroy the Church?_ - **Yes.**
+_Are the Gods currently displeased?_ - **Yes.**
+_Is the [[Golden Key]] beneath [[Lake Ruthaba]]?_ - **Yes.**
 
-Then - aware of the weight of it, risking divine retribution for the asking - Thirteen pushes through one final question: *Is [[Abathur]] still alive?*
+Then - aware of the weight of it, risking divine retribution for the asking - Thirteen pushes through one final question: _Is [[Abathur]] still alive?_
 
 The Trinity answers. - **Yes.**
 
-In the silence that follows, the Soul Shepherds begin to plan. King Dumac's scout party at **Crystalhammer Falls** has roughly two days before it locates the [[Bhan-Ember]] base. The window is narrow. **Silas** proposes a *Hallucinatory Terrain* misdirection to lure the patrol to a cliff edge above [[Lake Ruthaba]]. **[[Milodious Aureon|Milodius]]**, **Diallos**, and **Thirteen** will go ahead as the advance scouting party - slipping through the secret entrance, gathering intelligence, and baiting the [[Fire Giants]] toward the lake where the rest of the Shepherds will be waiting.
+In the silence that follows, the Soul Shepherds begin to plan. King Dumac's scout party at **Crystalhammer Falls** has roughly two days before it locates the [[Bhan-Ember]] base. The window is narrow. **Silas** proposes a _Hallucinatory Terrain_ misdirection to lure the patrol to a cliff edge above [[Lake Ruthaba]]. **[[Milodious Aureon|Milodius]]**, **Diallos**, and **Thirteen** will go ahead as the advance scouting party - slipping through the secret entrance, gathering intelligence, and baiting the [[Fire Giants]] toward the lake where the rest of the Shepherds will be waiting.
 
 ## **Session 77.** The Poet Warrior
 
@@ -166,23 +166,23 @@ Deeper inside, Diallos edges close enough to eavesdrop on a cluster of [[Fire Gi
 
 The giants leave a large **satchel** unattended near the falls.
 
-The scouts move quickly. Diallos and company lift the satchel. Then **Milodius** casts *Mislead* - his illusory double flickering to life and bolting for the surface, a convincing target sprinting toward [[Lake Ruthaba]]. The giants take the bait, roaring after the specter as it leads them out of the falls and down toward the lake. **Vargoon** is half-convinced, he has one last look around and then goes after the copy.
+The scouts move quickly. Diallos and company lift the satchel. Then **Milodius** casts _Mislead_ - his illusory double flickering to life and bolting for the surface, a convincing target sprinting toward [[Lake Ruthaba]]. The giants take the bait, roaring after the specter as it leads them out of the falls and down toward the lake. **Vargoon** is half-convinced, he has one last look around and then goes after the copy.
 
 Across the cavern, the rest of the Soul Shepherds are already in position.
 
-**[[Whimsical|Whimsy]]** kneels at the lake's edge, preparing the ambush, when the water offers her a strange warning. A frog at the bank nudges her attention toward the surface of the lake. Then the algae drifting in the shallows arranges itself into letters - words written in **Rubix**: *"do'nt'ive."* **[[Virtus Tenebris|Virtus]]**, now capable of reading Rubix at half proficiency, translates it without ceremony: *Do not dive.* They leave the lake's depths undisturbed.
+**[[Whimsical|Whimsy]]** kneels at the lake's edge, preparing the ambush, when the water offers her a strange warning. A frog at the bank nudges her attention toward the surface of the lake. Then the algae drifting in the shallows arranges itself into letters - words written in **Rubix**: _"do'nt'ive."_ **[[Virtus Tenebris|Virtus]]**, now capable of reading Rubix at half proficiency, translates it without ceremony: _Do not dive._ They leave the lake's depths undisturbed.
 
-**[[Bartholomew|Bart]]** stands quietly at the water's edge when a voice comes to him - not from outside, but from somewhere deeper, somewhere between bone and thought: *"You stood like he stood."* He does not answer it. He keeps his eyes on the approach.
+**[[Bartholomew|Bart]]** stands quietly at the water's edge when a voice comes to him - not from outside, but from somewhere deeper, somewhere between bone and thought: _"You stood like he stood."_ He does not answer it. He keeps his eyes on the approach.
 
 The [[Fire Giants]] arrive in pursuit of Milodius's phantom and find themselves running straight off a cliff!
 
-**Silas** had spent the preparation time weaving a *Hallucinatory Terrain* over the far bank of [[Lake Ruthaba]]: a convincing false campsite, set precisely at the edge of a very real drop. The giants chasing the Mislead double see only the phantom ahead and a camp beyond it, and by the time the real cliff edge arrives, it is already too late. They plummet into the lake below. One of the dwarves recognizes **Milodius** before he is shot off the cliff: "*the Poet Warrior!*" he exclaims as he falls.
+**Silas** had spent the preparation time weaving a _Hallucinatory Terrain_ over the far bank of [[Lake Ruthaba]]: a convincing false campsite, set precisely at the edge of a very real drop. The giants chasing the Mislead double see only the phantom ahead and a camp beyond it, and by the time the real cliff edge arrives, it is already too late. They plummet into the lake below. One of the dwarves recognizes **Milodius** before he is shot off the cliff: "_the Poet Warrior!_" he exclaims as he falls.
 
 Only **Vargoon** remains standing. Outnumbered and seeing exactly how thoroughly this was planned, the Sergeant makes the sensible choice: he **surrenders**. **Thirteen** wastes no time binding him.
 
 Then something moves in the lake.
 
-The giants who fell are being *taken*. Something vast beneath the surface coils enormous tentacles with teeth around each one and drags them under with efficient, terrible speed. The water stills. What rises in their place is stranger: a cluster of **jelly Kuo-toa-like creatures**, luminous and deliberate, gliding toward the shore. They speak to the Shepherds in smooth, measured tones. Their master, they say, wishes to **parlay** - a resolution to the Dwarven Civil War. He asks that the Soul Shepherds meet him at the **central island** of Lake Ruthaba.
+The giants who fell are being _taken_. Something vast beneath the surface coils enormous tentacles with teeth around each one and drags them under with efficient, terrible speed. The water stills. What rises in their place is stranger: a cluster of **jelly Kuo-toa-like creatures**, luminous and deliberate, gliding toward the shore. They speak to the Shepherds in smooth, measured tones. Their master, they say, wishes to **parlay** - a resolution to the Dwarven Civil War. He asks that the Soul Shepherds meet him at the **central island** of Lake Ruthaba.
 
 The party agrees.
 
@@ -190,19 +190,19 @@ They make their way to the island. From the center of the lake, a **pillar of wa
 
 Every specter speaks at once, with the same voice, in perfect unison:
 
-*"I am [[Abathur]]."*
+_"I am [[Abathur]]."_
 
 The entity makes his offer plainly. Three things: First: the **[[Golden Key]]**, the very object they need to unlock what waits beneath the lake. Second: an **army**, sufficient to tip the Dwarven Civil War. Third: the **names** of every high-ranking Solari conspirator involved in the poisoning of the Saint, not a partial list, but the full record. In exchange, he asks only that they **do not tell the [[Ecclesia Solari]]** of his existence.
 
-He explains his position without shame. What he gains from this pact is the *"refusal of his existence"* - to be neither reported nor hunted. He has a home at stake within [[Carapax]], and both **King Dumac** and **Cloudbeard** are closing in on it.
+He explains his position without shame. What he gains from this pact is the _"refusal of his existence"_ - to be neither reported nor hunted. He has a home at stake within [[Carapax]], and both **King Dumac** and **Cloudbeard** are closing in on it.
 
 [[Natu]], [[Magi]], and [[Tekk]] make themselves felt - a deep, heavy withdrawal of approval, a divine cold shoulder that fills the air like pressure before a storm. The gods are not pleased.
 
 **Thirteen** is the first to speak. He does not want to take the deal. He does not dress it up.
 
-**[[Diallos]]** turns the logic over aloud: would telling the [[Ecclesia]] about [[Abathur]] actually help anyone? Given what they know, the corruption already running through the Church's veins, the conspirators, the poisoning, the suppressed decanonization - would the information simply become another weapon in the wrong hands? *"Why would we hand the church information,"* Diallos asks quietly, *"if it means that information could perpetuate the very corruption we know is taking place within it, and inadvertently contribute to it?"*
+**[[Diallos]]** turns the logic over aloud: would telling the [[Ecclesia]] about [[Abathur]] actually help anyone? Given what they know, the corruption already running through the Church's veins, the conspirators, the poisoning, the suppressed decanonization - would the information simply become another weapon in the wrong hands? _"Why would we hand the church information,"_ Diallos asks quietly, _"if it means that information could perpetuate the very corruption we know is taking place within it, and inadvertently contribute to it?"_
 
-**Virtus** turns to Thirteen directly. *"What are you loyal to?"*
+**Virtus** turns to Thirteen directly. _"What are you loyal to?"_
 
 Thirteen answers plainly. He knows the corruption in the Church is real. But his loyalty is to the **[[High Priestess]]** - his adoptive mother. He is following her, even if he is following her blindly. He says that what he cares about, at the bottom of everything, is finding **paradise** - that perhaps it will be a place where he truly belongs. And he cares about sacrificing what is necessary to reach it.
 
@@ -216,3 +216,49 @@ They refuse all three offers.
 
 \*15-16 Everbloom 312 (Day 71 since the formation of the Soul Shepherds)  Game Date: (May 28th, 2026)
 
+-The session starts with a slight edit to what Abathur's deal is.
+-The deal now is: "You will hold the key in your hand before the hour is out." He offers us the Golden Key. A file rises from the water. Abathur says 13 can show this file to the high priestess. It contains information about what happened to the old high priest. Abathur also says to Virtus that he has information about Amiel because he came to Abathur with the same questions that the party has now.
+- The last is the army.
+-What he wants in return is that we never tell the church of his existence and we come to his aid withing 24 hours if he is ever attacked, by Cloud Beard or anyone.
+-Silas pushes back on the deal, trying to take advantage of Abathur because he doesn't think he is offering us anything we need.
+-Abathur says we may need his help if we want to minimize casualties.
+-Silas thinks the creature is causing the forvivlad, Abathur denies it. Silas asks if Abathur knows how to cure the forvivlad and he says he does but that Silas would not like his solution. He never says exactly what the "solution" is.
+-Silas counter offers, he ants everything that was already offered plus knowledge on the gods and Abathur.
+-Abathur warns Silas that Magi will try to reconcile with him eventually and that he should not allow him to. He agrees  to add all the knowledge he knows about the gods into the deal conditions.
+-Silas asks for yet another condition. He wants 1 willing soul every day.
+-Abathur explains that the souls are controlled b him but they would be cooperative. They would be the souls of the jellified creatures.
+-Abathur refers to the jellified creatures as "Awakened Dreamers"
+-Diallos recalls from his studies that Dreamer souls are considered corrupt and would not be able to consent to being used by Silas. He warns Silas of this before he agrees to the deal.
+-When Silas continues to ponder what he should do, obviously fixated on the idea of using the power of this creature against the gods, Diallos asks him a heavy hitting question in his cryptic and unsettling way "If something good happens because of the Gods, would you begrudge that for it? And inversely, If something bad comes from this decision, is it justifiable because it would also be bad for the gods? How willing are you to justify something as a good thing is it scorns the gods too?" 
+-While Silas considers his words, Abathur speaks to Silas and says "I wish to see a mad god stripped of his divinity.
+-Silas asks Whimsy what she thinks he should do and she advises him to see what 13 is planning to do, because his decision might negatively impact Silas if they are both bound by the same oath.
+-Virtus scrutinizes 13 and realizes he is very likely to break that oath and tell the high priestess not only the information in the file but about this creature's existence as well. She warns Silas of this.
+-Silas takes 13 by the shoulders and tries to break through to him asking him again what he wants, gods and church aside, so that they are on the same page.
+-13 tells him he wants to take the deal and break it, accepting the repercussions even if it means his own death, but only if it effects only himself.
+-Silas says if 13 takes the deal then he will also take the deal, making 13 responsible for Silas's safety as well if he deicides to throw his own life away.
+-13 backs out of the deal.
+-Silas makes his n'th counter offer
+-He declines the pact aspect of the deal but gives his word to come to Abathur's rescue if he needs it.
+-Abathur gives us the key and leaves after that.
+-A dreamer approaches Silas and says "Take my spawn with you. It will work as a relay to me"
+-This dreamer is too bit and not cute enough for Silas's standards and he asks for a different one. After a couple of rejected attempts, Silas accepts a fish with legs as the relay and it now goes by "The Talker."
+-Silas asks the talker where abathur comes from and all it says it came from a dreamless realm.
+-IN THE END, NO ONE ACCEPTED THE DEAL.
+-The party begins the interrogation of Vargun.
+-The palace was moved to the surface. That is where Astrika is.
+-Dumok does not truly command Astrika, she reports ultimately to Cloud Beard.
+-Vargun says he won't give Cloud Beard the location of the Banember camp if we took him there because he doesn't see them as a threat.
+-Where is Dumok? Probably at the palace on the surface.
+-How is Cloud Beard & King Dumok's relationship? The king is just a puppet to Cloud Beard and once his value is spent he plans to get rid of him.
+-Vargun was tasked to find the white haired lady.
+-We know Cloud Beard is supplying a Dreamer to a buyer. They dont know why but they're paying handsomely.
+-The dragonborn are the buyers.
+-Vargun thinks the dwarves dug too deep into Carapax, poisoning his blood and causing his sickness. But he also says that "presumptuously it is because of Cloud Beard's storm".
+-He believes that Cloud Beard would respect losing at popopeilei but doubts that would ever happen. 
+-Cloud Beard has control over the weather.
+-He calls himself the Gale Warrior
+-Vargun would respect Cloud Beard less if he were a sore loser about losing the popopeilei tournament.
+-Cloud Beard is an alcoholic and does worse when sober.
+-The party fights Vargun.
+-Virtus deals the killing blow, Slicing him open across his abdomen.
+-The Talker tells Diallos "The woman in your sleep has the road to paradise and you need to find her."
