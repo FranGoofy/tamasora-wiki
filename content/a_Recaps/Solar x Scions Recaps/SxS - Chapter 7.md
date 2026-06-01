@@ -156,7 +156,7 @@ In the silence that follows, the Soul Shepherds begin to plan. King Dumac's scou
 
 ## **Session 77.** The Poet Warrior
 
-\*15-16 Everbloom 312 (Day 71 since the formation of the Soul Shepherds)  Game Date: (May 21st, 2026)
+\*16 Everbloom 312 (Day 71 since the formation of the Soul Shepherds)  Game Date: (May 21st, 2026)
 
 The morning before the scouts depart, **[[Alfoz]]**, one of the [[Bhan-Ember]] Dwarves, approaches [[Bartholomew|Bart]] with a folded war banner in his hands. He asks if Bart would be willing to bless it before they march. **Bart** obliges without hesitation, performing the Ceremony of [[Natu]] with care. The blessing takes hold and wild flowers grow around the banner: for the next twenty-four hours, the [[Bhan-Ember]] base and its defenders are fortified - whenever they must hold against the worst, they can roll a d4 and add it to any saving throw.
 
@@ -212,53 +212,103 @@ In the end, they give [[Abathur]] their answer.
 
 They refuse all three offers.
 
-## **Session 78.** ???
+## **Session 78.** Deal or no Deal (Spoiler: No Deal)
 
-\*15-16 Everbloom 312 (Day 71 since the formation of the Soul Shepherds)  Game Date: (May 28th, 2026)
+\*16 Everbloom 312 (Day 71 since the formation of the Soul Shepherds)  Game Date: (May 28th, 2026)
 
--The session starts with a slight edit to what Abathur's deal is.
--The deal now is: "You will hold the key in your hand before the hour is out." He offers us the Golden Key. A file rises from the water. Abathur says 13 can show this file to the high priestess. It contains information about what happened to the old high priest. Abathur also says to Virtus that he has information about Amiel because he came to Abathur with the same questions that the party has now.
-- The last is the army.
--What he wants in return is that we never tell the church of his existence and we come to his aid withing 24 hours if he is ever attacked, by Cloud Beard or anyone.
--Silas pushes back on the deal, trying to take advantage of Abathur because he doesn't think he is offering us anything we need.
--Abathur says we may need his help if we want to minimize casualties.
--Silas thinks the creature is causing the forvivlad, Abathur denies it. Silas asks if Abathur knows how to cure the forvivlad and he says he does but that Silas would not like his solution. He never says exactly what the "solution" is.
--Silas counter offers, he ants everything that was already offered plus knowledge on the gods and Abathur.
--Abathur warns Silas that Magi will try to reconcile with him eventually and that he should not allow him to. He agrees  to add all the knowledge he knows about the gods into the deal conditions.
--Silas asks for yet another condition. He wants 1 willing soul every day.
--Abathur explains that the souls are controlled b him but they would be cooperative. They would be the souls of the jellified creatures.
--Abathur refers to the jellified creatures as "Awakened Dreamers"
--Diallos recalls from his studies that Dreamer souls are considered corrupt and would not be able to consent to being used by Silas. He warns Silas of this before he agrees to the deal.
--When Silas continues to ponder what he should do, obviously fixated on the idea of using the power of this creature against the gods, Diallos asks him a heavy hitting question in his cryptic and unsettling way "If something good happens because of the Gods, would you begrudge that for it? And inversely, If something bad comes from this decision, is it justifiable because it would also be bad for the gods? How willing are you to justify something as a good thing is it scorns the gods too?" 
--While Silas considers his words, Abathur speaks to Silas and says "I wish to see a mad god stripped of his divinity.
--Silas asks Whimsy what she thinks he should do and she advises him to see what 13 is planning to do, because his decision might negatively impact Silas if they are both bound by the same oath.
--Virtus scrutinizes 13 and realizes he is very likely to break that oath and tell the high priestess not only the information in the file but about this creature's existence as well. She warns Silas of this.
--Silas takes 13 by the shoulders and tries to break through to him asking him again what he wants, gods and church aside, so that they are on the same page.
--13 tells him he wants to take the deal and break it, accepting the repercussions even if it means his own death, but only if it effects only himself.
--Silas says if 13 takes the deal then he will also take the deal, making 13 responsible for Silas's safety as well if he deicides to throw his own life away.
--13 backs out of the deal.
--Silas makes his n'th counter offer
--He declines the pact aspect of the deal but gives his word to come to Abathur's rescue if he needs it.
--Abathur gives us the key and leaves after that.
--A dreamer approaches Silas and says "Take my spawn with you. It will work as a relay to me"
--This dreamer is too bit and not cute enough for Silas's standards and he asks for a different one. After a couple of rejected attempts, Silas accepts a fish with legs as the relay and it now goes by "The Talker."
--Silas asks the talker where abathur comes from and all it says it came from a dreamless realm.
--IN THE END, NO ONE ACCEPTED THE DEAL.
--The party begins the interrogation of Vargun.
--The palace was moved to the surface. That is where Astrika is.
--Dumok does not truly command Astrika, she reports ultimately to Cloud Beard.
--Vargun says he won't give Cloud Beard the location of the Banember camp if we took him there because he doesn't see them as a threat.
--Where is Dumok? Probably at the palace on the surface.
--How is Cloud Beard & King Dumok's relationship? The king is just a puppet to Cloud Beard and once his value is spent he plans to get rid of him.
--Vargun was tasked to find the white haired lady.
--We know Cloud Beard is supplying a Dreamer to a buyer. They dont know why but they're paying handsomely.
--The dragonborn are the buyers.
--Vargun thinks the dwarves dug too deep into Carapax, poisoning his blood and causing his sickness. But he also says that "presumptuously it is because of Cloud Beard's storm".
--He believes that Cloud Beard would respect losing at popopeilei but doubts that would ever happen. 
--Cloud Beard has control over the weather.
--He calls himself the Gale Warrior
--Vargun would respect Cloud Beard less if he were a sore loser about losing the popopeilei tournament.
--Cloud Beard is an alcoholic and does worse when sober.
--The party fights Vargun.
--Virtus deals the killing blow, Slicing him open across his abdomen.
--The Talker tells Diallos "The woman in your sleep has the road to paradise and you need to find her."
+The seven Faces of [[Abathur]] do not flicker, and the pillar of water at the heart of the central island of [[Lake Ruthaba]] does not collapse. The [[Soul Shepherds]] have refused the eldritch deity's first three offers, and Abathur, undeterred, restructures the terms.
+
+*"Listen again,"* he says, in the unified voice of his seven Faces. *"The Key in your hand before the hour is out."* The water beneath the island stirs; the **[[Golden Key]]** rises from the silt to hover briefly above the surface, then sinks again. *"For [[Thirteen]], a file. Information about what became of your old [[Saint Ascon|High Priest]]. Carry it back to your Priestess and she will not have to suspect anymore. For [[Virtus Tenebris|Virtus]], a road to your father. [[Amiel Tenebris|Amiel]] came to me, years ago, with the same questions you came down here with. I will tell you what he asked, and what I answered. And for the [[Bhan-Ember|resistance]], the army at the gates of [[Hipolum-Dhrum]] when you choose the hour."*
+
+*"You will not tell the [[Ecclesia Solari|Church]] of my existence. And when I am attacked in my home, by [[Cloudbeard]] or by anyone, you will come to my aid within a day. That is all."*
+
+It is **[[Silas Clemens|Silas]]** who answers, and from this moment the parley is his. He pushes back on the terms; he does not believe Abathur is offering anything the Soul Shepherds truly need. He probes for cracks. Abathur, patient, points out that they may yet need his help if they wish to minimize casualties in the [[Dwarven Civil War]].
+
+Silas presses harder. He asks the eldritch creature, point-blank, whether *he* is the cause of the [[Forvivlad]] curse afflicting the Dwarves. Abathur denies it without anger. *"I am not the cause. I know the cure,"* he adds, in the same voice. *"You would not like my solution."* He never says what the solution is.
+
+Silas counter-offers. He wants everything already on the table, plus the full and freely given **knowledge of the gods and of Abathur himself**, added to the conditions of the pact. The seven Faces dip in acknowledgement.
+
+*"Granted, Silas Clemens. But hear me. The [[Magi|god you once worshipped]] will try to reconcile with you. They will speak gently. They will sound like the truth. Do not let them in. You are on the path to truth without them."*
+
+Silas, fixed, presses further. He wants **one willing soul every day**, fed to him for his own purposes, as part of the bargain. The Faces, after the briefest pause, agree.
+
+*"The souls would be those of the [[Dreamers|Awakened Dreamers]]. They are mine. They will cooperate."*
+
+It is the first time the Soul Shepherds hear the jellified creatures of the lake named: **Awakened Dreamers**.
+
+It is also the moment **[[Diallos]]** speaks. He has been quiet through Silas's negotiation; now he turns toward his friend and lays a hand on his shoulder.
+
+*"The souls of [[Dreamers]] are now corrupted by this entity"* he says, evenly. *"They cannot consent. Whatever is given here would not be a gift"*
+
+And then, in his quieter and more unsettling voice, the one he reserves for moments where he does not want to be misread: *"If something good happens because of the gods, would you begrudge it for that? And inversely, if something bad comes from this decision, is it justifiable because it would also be bad for the gods? How willing are you to justify something as a good thing if it scorns the gods too?"*
+
+Silas does not answer immediately. The Faces of Abathur watch him think. And then, beneath the unified voice, a single Face leans toward Silas and whispers, audible only to him:
+
+*"I wish to see a mad god stripped of his divinity."*
+
+Silas turns to **[[Whimsical|Whimsy]]**, a motherly confidante, and asks her plainly what he should do. Whimsy does not answer the question Silas is asking. She answers a different one.
+
+*"See what [[Thirteen]] does first,"* she says. *"His choice could undo yours."*
+
+It is **[[Virtus Tenebris|Virtus]]** who voices the concern aloud. She has watched Thirteen closely throughout the negotiations. *"If he takes this oath,"* she says, *"he will break it. He will tell [[High Priestess Cetra|Cetra]] not only what is in the file but about the creature itself. He will, because it is who he is."*
+
+Silas takes Thirteen by the shoulders. The Faces of Abathur do not interrupt. *"Forget the gods,"* Silas says. *"Forget the Church. Tell me what you want."* Thirteen, very tired, says he would take the deal and break it. He would accept the repercussions, even his own death, *if those repercussions touched only him*. *"Then you do not take it,"* Silas says. *"Because if you take it, I take it. Whatever they do to you, they do to me. I will not let you throw your life away alone."*
+
+Thirteen looks at him for a long moment, and then, very quietly, backs out of the deal.
+
+Silas turns back to the Faces and makes his final counter-counter-offer. He declines the binding pact entirely. But he gives his word, freely and unbound, that **if Abathur is ever attacked in his home, the Soul Shepherds will come**. The Faces dip once in acknowledgement. The pillar of water shifts. The **[[Golden Key]]** rises again from the silt and floats, with no ceremony at all, into Virtus's open palm.
+
+*"I want what is in the Old Palace destroyed,"* Abathur says, as the Faces begin to fold back into the dimming pillar. *"That serves me whether you serve me or not. We may yet have arrangements."*
+
+The pillar collapses. The Faces are gone. The lake is very still.
+
+As the Soul Shepherds gather themselves to leave the lake, one of the **Awakened Dreamers** glides forward through the water and rises before Silas. *"Take my spawn with you,"* it says. *"It will work as a relay to me."*
+
+The creature it offers, however, is too large and not cute enough for Silas's standards. He waves it off. A second Dreamer produces a second spawn; refused, for similar reasons. After several rejected specimens, the creature finally offered up is a small **fish with legs**, which Silas accepts without hesitation. He names it **[[the Talker]]**. 
+
+Silas, half-curious, asks the Talker where Abathur is from. *"He came from a dreamless realm."*
+
+**In the end, no one accepted the deal.**
+
+**The Interrogation.** Back at the lake's edge, the blinded **Vargoon** is bound to the same stone he was bound to before the parley, the Soul Shepherds question the Fire Giant Sergeant for what he knows. He talks.
+
+The **Old Palace**, he tells them, has been **moved to the surface**. [[Zenith Aastrika|Aastrika]] is there now. [[Traitor King Dumac|Dumac]] does not truly command her; she reports ultimately to **[[Cloudbeard]]**, who plans to dispose of the King once his usefulness is spent. The King is a puppet, a megaphone, nothing more. Dumac himself is, in all likelihood, on the surface as well, at the Palace.
+
+Vargoon tells them that he would not give Cloudbeard the location of the [[Bhan-Ember]] camp even if the Shepherds dragged him there, because he does not consider the [[Bhan-Ember]] a meaningful threat to anyone.
+
+He was tasked, he says, with finding **the white-haired lady**: the figure rumor has placed at the bottom of [[Lake Ruthaba]]. He does not know what she is. He has been ordered to find her regardless.
+
+He shares another piece, offhandedly, the way a soldier shares intelligence he no longer values: Cloudbeard has been **supplying a Dreamer** to a buyer for a substantial price. The buyer, Vargoon believes, is **Dragonborn**, almost certainly an agent of the [[Martian Imperium]]. He does not know what the Dragonborn want with a Dreamer. He does not particularly care.
+
+He shares his own theory about [[Carapax]]'s slow sickness: that the dwarves dug too deep into the Titan's flesh, poisoning his blood. *"Presumptuously,"* he allows, *"it is also Cloudbeard's storm."* Either way, the Titan is dying.
+
+Of Cloudbeard he speaks at length. The Storm Giant Admiral calls himself **the Gale Warrior**. He commands the weather itself. He is a heavy drinker; he is, by personal observation, worse when sober. He would, Vargoon believes, respect an honest defeat at [[Pōpō Pele]], and would lose face with his own warriors if he proved a sore loser about it. Vargoon doubts that defeat will ever happen.
+
+When the interrogation has given what it will give; [[Thirteen]] heals the Fire Giant and unblinds him. The Shepherds rise. Vargoon rises with them. He knows what comes next.
+
+**The Killing.** The fight is short and brutal. Vargoon accepts the duel. The [[Monks of Flame|Monk of Flame]] heats up his hands and rolls forward in a single hot wave that **[[Bartholomew|Bart]]** and **[[Diallos]]** turn aside with shield and Astral fists. **Silas**'s blood-magic catches the giant at the knee. **[[Milodious Aureon|Milo]]**'s rallying tune drives Bart's next strike home. **Whim**'s pan is in the air; **Thirteen**'s Soul-Sword finds his shoulder.
+
+It is **[[Virtus Tenebris|Virtus]]** who finishes him. Vargoon comes around for one last punch, and Virtus, planted, opens him from sternum to belt with a single horizontal slash of her War-forged Tekk Blessed Pickaxe. He folds where he stands.
+
+What follows is not a Solar Scion's mercy.
+
+**[[Whimsical|Whim]]**, with an anger no one in the cavern is quite ready for, sets upon Vargoon's body and tears it apart with her bare hands. Severed limbs roll into the shallows. Severed limbs sink.
+
+The water, for a long moment, does not move.
+
+Then it moves. Beneath the lake's surface, a slow, soundless pulse, like a satisfied exhale. **[[Abathur]]** appreciates the meal.
+
+**The Last Words.** The Soul Shepherds turn back toward the long climb up the temple shaft. The Talker, riding in Silas' wine bottle, very quietly, speaks aloud for the second time.
+
+*"The woman in your sleep,"* it says, to **[[Diallos]]**, *"has the road to [[Paradise]]. You need to find her."*
+
+Diallos walks the rest of the climb in meditation.
+
+That night, in quarters within the [[Inverted Temple]], **[[Diallos]]** and **[[Virtus Tenebris|Virtus]]** both choose to **claim Divine Boons** from **[[Tekk]]**, the Soul-Forger, redeeming the Piety they have accumulated through their service to him. The Boons come quickly, quietly, without spectacle. Tekk, who values free will above ceremony, does not insist on the latter.
+
+In the small hours of the morning, **[[Magi]]** comes for **[[Silas Clemens|Silas]]**, exactly as [[Abathur]] warned. The voice is gentle. The voice sounds like the truth. The voice offers reconciliation, restoration, a return to favor. Silas, with the warning still fresh in his blood, refuses. The voice withdraws without anger. It will come again...
+## **Session 79.** ???
+
+\*16 Everbloom 312 (Day 72 since the formation of the Soul Shepherds)  Game Date: (June 4th, 2026)
+
+???
