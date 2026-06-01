@@ -304,7 +304,7 @@ Then it moves. Beneath the lake's surface, a slow, soundless pulse, like a satis
 
 Diallos walks the rest of the climb in meditation.
 
-That night, in quarters within the [[Inverted Temple]], **[[Diallos]]** and **[[Virtus Tenebris|Virtus]]** both choose to **claim Divine Boons** from **[[Tekk]]**, the Soul-Forger, redeeming the Piety they have accumulated through their service to him. Virtus' Boomerang Shield fortifies, 
+That night, in quarters within the [[Inverted Temple]], **[[Diallos]]** and **[[Virtus Tenebris|Virtus]]** both choose to **claim Divine Boons** from **[[Tekk]]**, the Soul-Forger, redeeming the Piety they have accumulated through their service to him. Virtus' Boomerang Shield fortifies and Diallos meditates, unlocking the ability to manipulate the future.
 
 In the small hours of the morning, **[[Magi]]** comes for **[[Silas Clemens|Silas]]**, exactly as [[Abathur]] warned. The voice is gentle. The voice sounds like the truth. The voice offers reconciliation, restoration, a return to favor. Silas, with the warning still fresh in his blood, refuses. The voice withdraws without anger. It will come again...
 ## **Session 79.** ???
