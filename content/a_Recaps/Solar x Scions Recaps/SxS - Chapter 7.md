@@ -292,7 +292,7 @@ It is **[[Virtus Tenebris|Virtus]]** who finishes him. Vargoon comes around for 
 
 What follows is not a Solar Scion's mercy.
 
-**[[Whimsical|Whim]]**, with an anger no one in the cavern is quite ready for, sets upon Vargoon's body and tears it apart with her bare hands. Severed limbs roll into the shallows. Severed limbs sink.
+**[[Whimsical|Whimsy]]**, with an anger no one in the cavern is quite ready for, sets upon Vargoon's body and tears it apart with her bare hands. Severed limbs roll into the shallows. Severed limbs sink.
 
 The water, for a long moment, does not move.
 
@@ -304,7 +304,7 @@ Then it moves. Beneath the lake's surface, a slow, soundless pulse, like a satis
 
 Diallos walks the rest of the climb in meditation.
 
-That night, in quarters within the [[Inverted Temple]], **[[Diallos]]** and **[[Virtus Tenebris|Virtus]]** both choose to **claim Divine Boons** from **[[Tekk]]**, the Soul-Forger, redeeming the Piety they have accumulated through their service to him. The Boons come quickly, quietly, without spectacle. Tekk, who values free will above ceremony, does not insist on the latter.
+That night, in quarters within the [[Inverted Temple]], **[[Diallos]]** and **[[Virtus Tenebris|Virtus]]** both choose to **claim Divine Boons** from **[[Tekk]]**, the Soul-Forger, redeeming the Piety they have accumulated through their service to him. Virtus' Boomerang Shield fortifies, 
 
 In the small hours of the morning, **[[Magi]]** comes for **[[Silas Clemens|Silas]]**, exactly as [[Abathur]] warned. The voice is gentle. The voice sounds like the truth. The voice offers reconciliation, restoration, a return to favor. Silas, with the warning still fresh in his blood, refuses. The voice withdraws without anger. It will come again...
 ## **Session 79.** ???
