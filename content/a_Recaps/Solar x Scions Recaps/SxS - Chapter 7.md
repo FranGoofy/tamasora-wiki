@@ -218,55 +218,55 @@ They refuse all three offers.
 
 The seven Faces of [[Abathur]] do not flicker, and the pillar of water at the heart of the central island of [[Lake Ruthaba]] does not collapse. The [[Soul Shepherds]] have refused the eldritch deity's first three offers, and Abathur, undeterred, restructures the terms.
 
-*"Listen again,"* he says, in the unified voice of his seven Faces. *"The Key in your hand before the hour is out."* The water beneath the island stirs; the **[[Golden Key]]** rises from the silt to hover briefly above the surface, then sinks again. *"For [[Thirteen]], a file. Information about what became of your old [[Saint Ascon|High Priest]]. Carry it back to your Priestess and she will not have to suspect anymore. For [[Virtus Tenebris|Virtus]], a road to your father. [[Amiel Tenebris|Amiel]] came to me, years ago, with the same questions you came down here with. I will tell you what he asked, and what I answered. And for the [[Bhan-Ember|resistance]], the army at the gates of [[Hipolum-Dhrum]] when you choose the hour."*
+_"Listen again,"_ he says, in the unified voice of his seven Faces. _"The Key in your hand before the hour is out."_ The water beneath the island stirs; the **[[Golden Key]]** rises from the silt to hover briefly above the surface, then sinks again. _"For [[Thirteen]], a file. Information about what became of your old [[Saint Ascon|High Priest]]. Carry it back to your Priestess and she will not have to suspect anymore. For [[Virtus Tenebris|Virtus]], a road to your father. [[Amiel Tenebris|Amiel]] came to me, years ago, with the same questions you came down here with. I will tell you what he asked, and what I answered. And for the [[Bhan-Ember|resistance]], the army at the gates of [[Hipolum-Dhrum]] when you choose the hour."_
 
-*"You will not tell the [[Ecclesia Solari|Church]] of my existence. And when I am attacked in my home, by [[Cloudbeard]] or by anyone, you will come to my aid within a day. That is all."*
+_"You will not tell the [[Ecclesia Solari|Church]] of my existence. And when I am attacked in my home, by [[Cloudbeard]] or by anyone, you will come to my aid within a day. That is all."_
 
 It is **[[Silas Clemens|Silas]]** who answers, and from this moment the parley is his. He pushes back on the terms; he does not believe Abathur is offering anything the Soul Shepherds truly need. He probes for cracks. Abathur, patient, points out that they may yet need his help if they wish to minimize casualties in the [[Dwarven Civil War]].
 
-Silas presses harder. He asks the eldritch creature, point-blank, whether *he* is the cause of the [[Forvivlad]] curse afflicting the Dwarves. Abathur denies it without anger. *"I am not the cause. I know the cure,"* he adds, in the same voice. *"You would not like my solution."* He never says what the solution is.
+Silas presses harder. He asks the eldritch creature, point-blank, whether _he_ is the cause of the [[Forvivlad]] curse afflicting the Dwarves. Abathur denies it without anger. _"I am not the cause. I know the cure,"_ he adds, in the same voice. _"You would not like my solution."_ He never says what the solution is.
 
 Silas counter-offers. He wants everything already on the table, plus the full and freely given **knowledge of the gods and of Abathur himself**, added to the conditions of the pact. The seven Faces dip in acknowledgement.
 
-*"Granted, Silas Clemens. But hear me. The [[Magi|god you once worshipped]] will try to reconcile with you. They will speak gently. They will sound like the truth. Do not let them in. You are on the path to truth without them."*
+_"Granted, Silas Clemens. But hear me. The [[Magi|god you once worshipped]] will try to reconcile with you. They will speak gently. They will sound like the truth. Do not let them in. You are on the path to truth without them."_
 
 Silas, fixed, presses further. He wants **one willing soul every day**, fed to him for his own purposes, as part of the bargain. The Faces, after the briefest pause, agree.
 
-*"The souls would be those of the [[Dreamers|Awakened Dreamers]]. They are mine. They will cooperate."*
+_"The souls would be those of the [[Dreamers|Awakened Dreamers]]. They are mine. They will cooperate."_
 
 It is the first time the Soul Shepherds hear the jellified creatures of the lake named: **Awakened Dreamers**.
 
 It is also the moment **[[Diallos]]** speaks. He has been quiet through Silas's negotiation; now he turns toward his friend and lays a hand on his shoulder.
 
-*"The souls of [[Dreamers]] are now corrupted by this entity"* he says, evenly. *"They cannot consent. Whatever is given here would not be a gift"*
+_"The souls of [[Dreamers]] are now corrupted by this entity"_ he says, evenly. _"They cannot consent. Whatever is given here would not be a gift"_
 
-And then, in his quieter and more unsettling voice, the one he reserves for moments where he does not want to be misread: *"If something good happens because of the gods, would you begrudge it for that? And inversely, if something bad comes from this decision, is it justifiable because it would also be bad for the gods? How willing are you to justify something as a good thing if it scorns the gods too?"*
+And then, in his quieter and more unsettling voice, the one he reserves for moments where he does not want to be misread: _"If something good happens because of the gods, would you begrudge it for that? And inversely, if something bad comes from this decision, is it justifiable because it would also be bad for the gods? How willing are you to justify something as a good thing if it scorns the gods too?"_
 
 Silas does not answer immediately. The Faces of Abathur watch him think. And then, beneath the unified voice, a single Face leans toward Silas and whispers, audible only to him:
 
-*"I wish to see a mad god stripped of his divinity."*
+_"I wish to see a mad god stripped of his divinity."_
 
 Silas turns to **[[Whimsical|Whimsy]]**, a motherly confidante, and asks her plainly what he should do. Whimsy does not answer the question Silas is asking. She answers a different one.
 
-*"See what [[Thirteen]] does first,"* she says. *"His choice could undo yours."*
+_"See what [[Thirteen]] does first,"_ she says. _"His choice could undo yours."_
 
-It is **[[Virtus Tenebris|Virtus]]** who voices the concern aloud. She has watched Thirteen closely throughout the negotiations. *"If he takes this oath,"* she says, *"he will break it. He will tell [[High Priestess Cetra|Cetra]] not only what is in the file but about the creature itself. He will, because it is who he is."*
+It is **[[Virtus Tenebris|Virtus]]** who voices the concern aloud. She has watched Thirteen closely throughout the negotiations. _"If he takes this oath,"_ she says, _"he will break it. He will tell [[High Priestess Cetra|Cetra]] not only what is in the file but about the creature itself. He will, because it is who he is."_
 
-Silas takes Thirteen by the shoulders. The Faces of Abathur do not interrupt. *"Forget the gods,"* Silas says. *"Forget the Church. Tell me what you want."* Thirteen, very tired, says he would take the deal and break it. He would accept the repercussions, even his own death, *if those repercussions touched only him*. *"Then you do not take it,"* Silas says. *"Because if you take it, I take it. Whatever they do to you, they do to me. I will not let you throw your life away alone."*
+Silas takes Thirteen by the shoulders. The Faces of Abathur do not interrupt. _"Forget the gods,"_ Silas says. _"Forget the Church. Tell me what you want."_ Thirteen, very tired, says he would take the deal and break it. He would accept the repercussions, even his own death, _if those repercussions touched only him_. _"Then you do not take it,"_ Silas says. _"Because if you take it, I take it. Whatever they do to you, they do to me. I will not let you throw your life away alone."_
 
 Thirteen looks at him for a long moment, and then, very quietly, backs out of the deal.
 
 Silas turns back to the Faces and makes his final counter-counter-offer. He declines the binding pact entirely. But he gives his word, freely and unbound, that **if Abathur is ever attacked in his home, the Soul Shepherds will come**. The Faces dip once in acknowledgement. The pillar of water shifts. The **[[Golden Key]]** rises again from the silt and floats, with no ceremony at all, into Virtus's open palm.
 
-*"I want what is in the Old Palace destroyed,"* Abathur says, as the Faces begin to fold back into the dimming pillar. *"That serves me whether you serve me or not. We may yet have arrangements."*
+_"I want what is in the Old Palace destroyed,"_ Abathur says, as the Faces begin to fold back into the dimming pillar. _"That serves me whether you serve me or not. We may yet have arrangements."_
 
 The pillar collapses. The Faces are gone. The lake is very still.
 
-As the Soul Shepherds gather themselves to leave the lake, one of the **Awakened Dreamers** glides forward through the water and rises before Silas. *"Take my spawn with you,"* it says. *"It will work as a relay to me."*
+As the Soul Shepherds gather themselves to leave the lake, one of the **Awakened Dreamers** glides forward through the water and rises before Silas. _"Take my spawn with you,"_ it says. _"It will work as a relay to me."_
 
 The creature it offers, however, is too large and not cute enough for Silas's standards. He waves it off. A second Dreamer produces a second spawn; refused, for similar reasons. After several rejected specimens, the creature finally offered up is a small **fish with legs**, which Silas accepts without hesitation. He names it **[[the Talker]]**. 
 
-Silas, half-curious, asks the Talker where Abathur is from. *"He came from a dreamless realm."*
+Silas, half-curious, asks the Talker where Abathur is from. _"He came from a dreamless realm."_
 
 **In the end, no one accepted the deal.**
 
@@ -280,7 +280,7 @@ He was tasked, he says, with finding **the white-haired lady**: the figure rumor
 
 He shares another piece, offhandedly, the way a soldier shares intelligence he no longer values: Cloudbeard has been **supplying a Dreamer** to a buyer for a substantial price. The buyer, Vargoon believes, is **Dragonborn**, almost certainly an agent of the [[Martian Imperium]]. He does not know what the Dragonborn want with a Dreamer. He does not particularly care.
 
-He shares his own theory about [[Carapax]]'s slow sickness: that the dwarves dug too deep into the Titan's flesh, poisoning his blood. *"Presumptuously,"* he allows, *"it is also Cloudbeard's storm."* Either way, the Titan is dying.
+He shares his own theory about [[Carapax]]'s slow sickness: that the dwarves dug too deep into the Titan's flesh, poisoning his blood. _"Presumptuously,"_ he allows, _"it is also Cloudbeard's storm."_ Either way, the Titan is dying.
 
 Of Cloudbeard he speaks at length. The Storm Giant Admiral calls himself **the Gale Warrior**. He commands the weather itself. He is a heavy drinker; he is, by personal observation, worse when sober. He would, Vargoon believes, respect an honest defeat at [[Pōpō Pele]], and would lose face with his own warriors if he proved a sore loser about it. Vargoon doubts that defeat will ever happen.
 
@@ -300,15 +300,42 @@ Then it moves. Beneath the lake's surface, a slow, soundless pulse, like a satis
 
 **The Last Words.** The Soul Shepherds turn back toward the long climb up the temple shaft. The Talker, riding in Silas' wine bottle, very quietly, speaks aloud for the second time.
 
-*"The woman in your sleep,"* it says, to **[[Diallos]]**, *"has the road to [[Paradise]]. You need to find her."*
+_"The woman in your sleep,"_ it says, to **[[Diallos]]**, _"has the road to [[Paradise]]. You need to find her."_
 
 Diallos walks the rest of the climb in meditation.
 
 That night, in quarters within the [[Inverted Temple]], **[[Diallos]]** and **[[Virtus Tenebris|Virtus]]** both choose to **claim Divine Boons** from **[[Tekk]]**, the Soul-Forger, redeeming the Piety they have accumulated through their service to him. Virtus' Boomerang Shield fortifies and Diallos meditates, unlocking the ability to manipulate the future.
 
 In the small hours of the morning, **[[Magi]]** comes for **[[Silas Clemens|Silas]]**, exactly as [[Abathur]] warned. The voice is gentle. The voice sounds like the truth. The voice offers reconciliation, restoration, a return to favor. Silas, with the warning still fresh in his blood, refuses. The voice withdraws without anger. It will come again...
+
 ## **Session 79.** ???
 
 \*16 Everbloom 312 (Day 72 since the formation of the Soul Shepherds)  Game Date: (June 4th, 2026)
 
-???
+- Rupert tells us there is a secret elevator that will take us to the surface in 40-60 minutes. We have to ask him for the location personally when we are ready to go after King Dumok.
+- The Banembers leave rocks and pray at the banners that Bart blessed.
+- Rupert tells the dwarves of our victory against the scouting party which lifts morale.
+- Bart and Milo play a tine that invigorates the dwarves further. They do a war dance.
+- We go through the inverted temple after a short rest to the iron gate that leads to the golden keg.
+- There is a fetid yeast smell wafting from behind the gate. Bart detects that the gas is poisonous and we won't be able to breathe once we go inside. He also recognizes that the gas is extremely flammable.
+- There is a talisman stuck in the door. Diallos identifies it as enchanted giving the wearer attuned to it advantage on con saves.
+- Milo casts Warding Wind to disperse the gas within 10 feet of him making the air safe to breathe.
+- We open the door, releasing the talisman and we give it to Milo.
+- We enter the hall and see that it used to be lived in. Kehs and cards and other personal items scattered about the place. We dont see anyone living but we hear footsteps that sound like wood creaking and metal clanking.
+- The footsteps belong to automatons that ignore us and move barrels around.
+- We find a stone dwarf who seems to have died mid drink clutching his chest.
+- Silas drinks some ale from a random barrel and fills a bottle with it. An automaton notices this and apologizes to him for the mess.
+- The ale makes us immune to the poisonous air.
+- Everyone drinks from the ale. Those who get drunk off it have dissadvantage on wisdom checks and those who do not overindulge get +2 to checks against being frightened.
+- Silas showers in beer sprayed by an automaton.
+- In the next room there are no signs of life. Diallos notices there is a sloshing noise coming from a barrel. When he puts his ear to the wood, Diallos is surprised when the barrel bites back. Another barrel springs to life and swallows Silas. We fight and kill both mimic barrels.
+- We find an almost stagnant river of ale and cross it.
+- An automaton named Steve-o is turned off in the next room. We do not turn him on.
+- Whimsy sports in the distance sees a very large and very fat dragon overindulging on ale straight from the eternal Keg's spout.
+- The dragon can be heard mumbling to itself "Brasser, Brasser where are you?"
+- Thirteen who was wandering way ahead of the group somehow does not notice the dragon, getting too close and alarms it.
+- The dragon who is very protective of the keg begins fighting with Thirteen. They enter combat.
+- While they fight the rest of the party devises a plan where Whimsy will make herself look like Brasser and Bart will use detect thoughts to copy Brasser's voice from the dragon's memories. He uses minor illusion to make it sound like whimsy is the one speaking and he mimics Brasser's voice.
+- The dragon who is Named Umbrasax calls Brasser "Brother". He has fond memories of him. One of which is of Brasser, Bobby Beerbelly, and Amiel who hatched the dragon after finding its egg in the Deep Roads and left him in the in the Chamber once he got too big to continue bringing around with them. This was some 50 years ago.
+- "Brasser" tells Umbrasax that all the other dragons have disappeared many years ago and all left to paradise. Umbrasax doesn't care and doesn't believe in paradise.
+- Virtus introduces herself as Amiel's daughter. She explains to him they were both taught by Amiel how to swing a blade. Umbrasax thinks that makes them something like siblings. He asks her if they're here to take the keg away. She tells him no, but she thinks that he should leave the chambers. He grows too great for these walls. He agrees and says he must eat a real meal. She agrees, bolsters him saying he needs a Giant meal. And she offers him the chance to fight alongside us against Cloud Beard, and save the dwarves who will surely be eternally grateful to him. He eagerly agrees to ally himself with us.
