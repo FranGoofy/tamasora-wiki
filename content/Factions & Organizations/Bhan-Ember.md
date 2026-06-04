@@ -20,3 +20,12 @@ The Bhan-Ember have suffered heavy casualties fighting [[Fire Giants]] loyal to 
 
 ## Key Location
 - **Bhan-Ember Amphitheatre** – Where the movement is constructing a towering banner of [[Tekk]], a symbol of their faith and defiance.
+
+## Members
+- [[Joy]] — Field leader of the [[Scribes]]. Whim's lover.
+- [[Editor Rupert]] — Veteran Scribe historian. Dumac's father. Scribe leader at the Temple.
+- [[Alfoz]] — Bhan-Ember Foreman.
+- [[Groin the Brewer]] — Alchemical Library guardian. Looks for Bugman's Ale.
+- [[Ribny]] — First cured of Forvivlad. Living proof.
+- **Bumbor** — Veteran Bhan-Ember on the Bridge of Mirth.
+- **Thorfin** — Kekoa warrior in the Hall of Statues. Offered the Soul Shepherds a spot on his [[Pōpō Pele]] team; the refused but he said the offer will remain open, they can seek him out on [[Hipolum-Dhrum]] at [[Grand Aletop]].

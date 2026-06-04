@@ -8,7 +8,7 @@ Game Date: (March 24th, 2026\)
 
 **[[Montague Tepes]] of [[Boneshield]]**, the local veterinarian, had warned them. Spouting desperate prophecies of the encroaching doom, he was branded a madman by the villagers, and notably, by **[[Aurelia]]**, a runaway noble hiding out in the local inn of [[Boneshield]]. On a dark and misty morning, Monty encountered [[Aurelia]] in the outskirts of [[Boneshield]] and they encountered **[[Riqirith]]**, known to the now-doomed locals as a 'wild witch.' Her past sins came to haunt them on the road in the form of a terrifying Doom Boar, a two-headed monstrosity born of her own previous mutations and experiments. In a brutal clash of survival, the party slew the beast, watching as the corrupted forest swiftly overtook its rotting corpse. 
 
-Then they met [[Isra]]?
+Then they met [[Isra]].
 
 ## **Session 1\.** 
 
@@ -48,7 +48,7 @@ Game Date: (May 11th, 2026\)
 - **Isra takes the Treasure:** Gold pocket watch (100gp), engraved _"Remember the Third."_ Foreshadows the third sister.
 - The Weasels sounds like [[Holly Aster]].
 - [[Riqirith]] messed with the [[Crooked Man]], convinces him that the paintings are 'twisted', so she fixes them.
-- Monty finds Vlas' Journal: 
+- Monty finds Vladistad's Journal: 
 	- "The moment we crossed the Boneshield town gate, I have felt watched. My senses feel less. The dreams come earlier each night. Mother told me long ago we had family from Boneshield, that they died poorly. I thought it was a ghost story. Tonight at dinner I will tell Monty everything. He deserves to know we are blood, if distantly. We should leave on the [[Wandering Line]] tomorrow. But tonight: dinner. No, today, Breakfast." *-Vlastimil*
 		- Written in 297, 15 years ago.
 - Aurelia finds the **Seelie Court Curse Tome** ([[Thread of Malediction]]).
@@ -57,5 +57,15 @@ Game Date: (May 11th, 2026\)
 ## **Session 4\.** 
 12 Everbloom 312  
 Game Date: (May 19th, 2026\)
-- The [[Boneshield Misfits]] continue exploring the [[Crooked House]], looking for the final mementos required to enter the attic, where they hear Togo barking.
+- The [[Boneshield Misfits]] continue exploring the [[Crooked House]], looking for the final mementos required to enter the attic, where they hear Togo barking. 
+	- They fight a Peacock statue and [[Riqirith]] almost turns to stone. 
+	- They discover that **Vladistad is the Crooked Man**.
+	- They speak to the Ghost of Petra that informs them there is a Hag in the Attic.
+	- They fall to the magical trappings of an enchanting piano, forcing them all (sans [[Aurelia]]) to dance to the tunes. Aurelia plays her '*Lost Elf'* theme on the harpischord and ends the magic music.
+- They open the door to the attic with the mementos and encounter [[Alistair Frey]] and [[Togo]] in a stupor. [[Aurelia]] 'feels up' Alistair but soon realizes she made a grave error - it is instead the **Witch of the Crooked House, Vesla Browntooth** disguised; she vows to take their teeth. Her Weasel familiar goes into Aurelia's ear and confuses her with its' [[Fey]] magic. [[Riqirith]] goes down and gets a scar. Isra summons her Spirit Weapon, and Montague creates a Phantasmal Illusion with his new powers...
+- 
+## **Session 5\.** 
+12 Everbloom 312  
+Game Date: (June 2nd, 2026\)
+
 - 
