@@ -308,34 +308,32 @@ That night, in quarters within the [[Inverted Temple]], **[[Diallos]]** and **[[
 
 In the small hours of the morning, **[[Magi]]** comes for **[[Silas Clemens|Silas]]**, exactly as [[Abathur]] warned. The voice is gentle. The voice sounds like the truth. The voice offers reconciliation, restoration, a return to favor. Silas, with the warning still fresh in his blood, refuses. The voice withdraws without anger. It will come again...
 
-## **Session 79.** ???
+## **Session 79.** Hair of the Dragon
 
-\*16 Everbloom 312 (Day 72 since the formation of the Soul Shepherds)  Game Date: (June 4th, 2026)
+\*17 Everbloom 312 (Day 72 since the formation of the Soul Shepherds)  Game Date: (June 4th, 2026)
 
-- Rupert tells us there is a secret elevator that will take us to the surface in 40-60 minutes. We have to ask him for the location personally when we are ready to go after King Dumok.
-- The Banembers leave rocks and pray at the banners that Bart blessed.
-- Rupert tells the dwarves of our victory against the scouting party which lifts morale.
-- Bart and Milo play a tine that invigorates the dwarves further. They do a war dance.
-- We go through the inverted temple after a short rest to the iron gate that leads to the golden keg.
-- There is a fetid yeast smell wafting from behind the gate. Bart detects that the gas is poisonous and we won't be able to breathe once we go inside. He also recognizes that the gas is extremely flammable.
-- There is a talisman stuck in the door. Diallos identifies it as enchanted giving the wearer attuned to it advantage on con saves.
-- Milo casts Warding Wind to disperse the gas within 10 feet of him making the air safe to breathe.
-- We open the door, releasing the talisman and we give it to Milo.
-- We enter the hall and see that it used to be lived in. Kehs and cards and other personal items scattered about the place. We dont see anyone living but we hear footsteps that sound like wood creaking and metal clanking.
-- The footsteps belong to automatons that ignore us and move barrels around.
-- We find a stone dwarf who seems to have died mid drink clutching his chest.
-- Silas drinks some ale from a random barrel and fills a bottle with it. An automaton notices this and apologizes to him for the mess.
-- The ale makes us immune to the poisonous air.
-- Everyone drinks from the ale. Those who get drunk off it have dissadvantage on wisdom checks and those who do not overindulge get +2 to checks against being frightened.
-- Silas showers in beer sprayed by an automaton.
-- In the next room there are no signs of life. Diallos notices there is a sloshing noise coming from a barrel. When he puts his ear to the wood, Diallos is surprised when the barrel bites back. Another barrel springs to life and swallows Silas. We fight and kill both mimic barrels.
-- We find an almost stagnant river of ale and cross it.
-- An automaton named Steve-o is turned off in the next room. We do not turn him on.
-- Whimsy sports in the distance sees a very large and very fat dragon overindulging on ale straight from the eternal Keg's spout.
-- The dragon can be heard mumbling to itself "Brasser, Brasser where are you?"
-- Thirteen who was wandering way ahead of the group somehow does not notice the dragon, getting too close and alarms it.
-- The dragon who is very protective of the keg begins fighting with Thirteen. They enter combat.
-- While they fight the rest of the party devises a plan where Whimsy will make herself look like Brasser and Bart will use detect thoughts to copy Brasser's voice from the dragon's memories. He uses minor illusion to make it sound like whimsy is the one speaking and he mimics Brasser's voice.
-- The dragon who is Named Umbrasax calls Brasser "Brother". He has fond memories of him. One of which is of Brasser, Bobby Beerbelly, and Amiel who hatched the dragon after finding its egg in the Deep Roads and left him in the in the Chamber once he got too big to continue bringing around with them. This was some 50 years ago.
-- "Brasser" tells Umbrasax that all the other dragons have disappeared many years ago and all left to paradise. Umbrasax doesn't care and doesn't believe in paradise.
-- Virtus introduces herself as Amiel's daughter. She explains to him they were both taught by Amiel how to swing a blade. Umbrasax thinks that makes them something like siblings. He asks her if they're here to take the keg away. She tells him no, but she thinks that he should leave the chambers. He grows too great for these walls. He agrees and says he must eat a real meal. She agrees, bolsters him saying he needs a Giant meal. And she offers him the chance to fight alongside us against Cloud Beard, and save the dwarves who will surely be eternally grateful to him. He eagerly agrees to ally himself with us.
+The morning after the parley finds the [[Inverted Temple]] in higher spirits than it has known in a long while. **[[Editor Rupert]]** spreads word of the Soul Shepherds' victory over the [[Fire Giants|Fire Giant]] scouting party at [[Crystalhammer Falls]], and the news moves through the camp like warmth through cold stone — the [[Bhan-Ember]] dwarves who only days ago were burying their own now have something to stand a little taller for. Rupert also shares a closely held secret: there is a hidden **elevator** that can carry the party to the surface in forty to sixty minutes, straight toward [[Hipolum-Dhrum]]. He will give them its exact location, but only in person, and only when they are truly ready to make the climb.
+
+At the war banners **[[Bartholomew]]** blessed before the scouts departed, dwarves come to leave small stones and murmur quiet prayers, the wildflowers still blooming impossibly around the cloth. Bart and **[[Milodious Aureon|Milo]]** strike up a rousing tune between them, and the gathered Bhan-Embers break into a thunderous war dance, stamping the old temple floor until the dust rises.
+
+**The Iron Gate.** After a short rest, the Soul Shepherds make their way through the [[Inverted Temple]] to the iron gate that seals the **[[Eternal Keg]]**. A fetid, yeasty stench wafts from behind it. **Bart** reads the air at once: the gas pooling beyond the gate is _poisonous_; they will not be able to breathe inside, and, worse, it is _extremely flammable_. Wedged into the door itself is a **talisman**, which **[[Diallos]]** identifies as enchanted: whoever attunes to it gains advantage on Constitution saving throws. **Milo** casts _Warding Wind_, the swirling gale dispersing the toxic gas within ten feet of him and carving out a pocket of breathable air. They haul the gate open, freeing the talisman, and hand it to Milo.
+
+**The Brewery.** Beyond the gate lies a hall that was clearly lived in once: kegs and playing cards and scattered personal effects, the small debris of lives spent in good company. No one living stirs among it, yet footsteps echo through the chamber — the creak of wood and clank of metal. The footsteps belong to **automatons**, who pay the intruders no mind at all, busying themselves rolling barrels from place to place. In a quiet corner the party finds a **stone dwarf**, frozen mid-drink, one hand clutched to his chest where his heart gave out.
+
+**[[Silas Clemens|Silas]]**, ever curious, taps a random barrel and drinks deep, filling a bottle for later. An automaton notices and, rather than raising any alarm, _apologizes to him for the mess._ The ale tenders the drinker **immune to the poisonous air**. One by one, the Shepherds drink. Those who overindulge find themselves pleasantly muddled, suffering disadvantage on Wisdom checks; those who pace themselves earn a steadier nerve, gaining +2 to resist being **frightened**. Silas, for his part, ends up standing beneath a fountain of beer sprayed by one of the obliging automatons, showering in it without complaint.
+
+**The Mimic Barrels.** The next room shows no sign of life, until **Diallos** catches a faint sloshing from one of the barrels. He leans in, presses his ear to the wood, and the barrel _bites back._ A second barrel lurches to life and swallows **Silas** whole. The Shepherds make short, splintering work of both **mimics**. Past the wreckage they come upon a slow, almost stagnant river of ale and wade across it. In the chamber beyond sits another automaton, this one switched off — a unit named **Steve-o**. They leave him as they found him, dark and silent.
+
+**The Dragon of the Keg.** It is **[[Whimsical|Whimsy]]** who spots it first: far off in the gloom, an enormous and enormously _fat_ dragon, slumped at the very source of the **[[Eternal Keg]]**, guzzling ale straight from its golden spout. Between gulps, the beast mumbles to itself, plaintive and slurred — _"Brasser… Brasser, where are you?"_ Somehow, **[[Thirteen]]**, who has wandered well ahead of the rest of the group, fails to notice the mountain of scales entirely, drifting too close and startling it awake. Fiercely protective of its keg, the dragon rounds on him, and the two crash into combat.
+
+While Thirteen holds the dragon's attention, the rest of the party improvises a desperate gambit. **Whimsy** shapes her appearance into that of **[[Saint Brasser the Ambrosius|Brasser]]** himself, while **Bart** casts _Detect Thoughts_, sifting the dragon's memories for the lost saint's voice. With _Minor Illusion_, Bart throws that stolen voice over Whimsy's disguise, so that it seems Brasser stands before the beast once more, speaking in his own remembered tones.
+
+The dragon is **[[Umbrasax]]** — calls Brasser _"Brother."_ He holds the saint dear. Among the memories Bart glimpses is the day Umbrasax was hatched: **Brasser**, **[[Bobby Beerbelly]]**, and **[[Amiel Tenebris|Amiel]]** found his egg deep in the [[Deep Roads]] and raised him, until he grew too great to carry along and was left here, in this chamber, to guard the Keg. That was some fifty years ago.
+
+"Brasser" gently tells Umbrasax that the other dragons vanished long ago — that they all departed for **[[Paradise]]**. Umbrasax does not care, and does not believe in Paradise besides.
+
+It is then that **[[Virtus Tenebris|Virtus]]** steps forward and introduces herself plainly: she is **Amiel's daughter**. She tells the dragon that she and he were both taught by Amiel how to swing a blade — and Umbrasax decides this makes them something like _siblings._ Wary still, he asks if they have come to take his keg away. No, Virtus tells him — but she thinks he ought to leave this chamber all the same. He has grown too great for these walls. Umbrasax agrees; he is sick of ale, and admits he must finally eat a real meal. A _Giant_ meal, Virtus offers, bolstering his pride, and with it she extends the true invitation: to fight alongside the Soul Shepherds against **[[Cloudbeard]]**, and to save the dwarves, who would surely be eternally grateful to him. Eagerly, the great drunken dragon agrees to ally himself with them, for now...
+
+## **Session 80.** TBD
+
+\*17 Everbloom 312 (Day 72 since the formation of the Soul Shepherds)  Game Date: (June 10th, 2026)
