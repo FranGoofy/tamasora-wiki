@@ -308,7 +308,7 @@ That night, in quarters within the [[Inverted Temple]], **[[Diallos]]** and **[[
 
 In the small hours of the morning, **[[Magi]]** comes for **[[Silas Clemens|Silas]]**, exactly as [[Abathur]] warned. The voice is gentle. The voice sounds like the truth. The voice offers reconciliation, restoration, a return to favor. Silas, with the warning still fresh in his blood, refuses. The voice withdraws without anger. It will come again...
 
-## **Session 79.** Hair of the Dragon
+## **Session 79.** Pour Decisions
 
 \*17 Everbloom 312 (Day 72 since the formation of the Soul Shepherds)  Game Date: (June 4th, 2026)
 
