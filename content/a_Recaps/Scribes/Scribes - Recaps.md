@@ -24,8 +24,8 @@ Game Date: (March 31st, 2026\)
 - **[[Holly Aster]]** \- Baker, gives free bread to people in town during Noon, her son is involved with the Tunnel Femurs.  
   - Asks **Riqirith** for Herbs for a new bread recipe.  
 - **[[Alistair Frey]]** thanks **Montague** for finding **Togo**, says he will meet with them later and is thinking about purchasing the [[Crooked House]] on the Hill to move closer to Boneshield.  
-- **[[Isra]]** buys “ice cold” water at an insane price from **Aldra Farnum**, the Innkeeper of the **[[Green Queen]] Inn**.   
-  - **[[Aurelia]]** is staying here and owes **Aldra** rent.  
+- **[[Isra]]** buys “ice cold” water at an insane price from **Alda Farnum**, the Innkeeper of the **[[Green Queen]] Inn**.   
+  - **[[Aurelia]]** is staying here and owes **Alda** rent.  
 - **Riqirth** grabs herbs from home (missing Swallow), party meets Shifty the Displacer Kitten.  
   - Riqirith explains she mutated Shifty after rescuing it from a severe injury.
 
