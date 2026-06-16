@@ -90,7 +90,22 @@ Game Date: (June 2nd, 2026\)
 13 Everbloom 312  
 Game Date: (June 8nd, 2026\)
 
-???
-[[Scribes Session 6]]
+[[Montague Tepes|Monty]] and Mina have a heartfelt goodbye. Mina tells Monty that she is leaving Boneshield and heading to the [[College of Damocles]] in the [[East Skysea]]. The party has [[Alda Farnum]] give them a [[Fated Tarot Reading]].
+- [[Isra]] draws the '**Hanged Man**' and '**the Fool**'
+- [[Aurelia]] draws the '**Star**' and '**the High Priestess**'
+- [[Montague Tepes]] draws '**the Hermit**'
+- [[Riqirith]] draws '**the World**' and '**Death**'.
 
-Monty and Old Rusty (last one to see the elven man) went to Foxwillow, the party hears rumorus from Holly about the lack ofd bread and dairy comign from the town.
+As Alda turns **Isra's** card, her suppressed clairvoyance breaks. In a voice not her own she describes the [[Lake Ruthaba]] parley from [[SxS - Chapter 7|Scions S78]]:
+> *"A pillar of black water… seven f aces, each wearing the face of someone you'd trust with your life… a key of pure gold rising from the silt… and a man with a sword made of souls who is looking for you — across all the dark between the stars."*
+  She snaps out of it terrified, no memory of speaking, blames the drink.
+  
+The [[Boneshield Misfits]] then learn from [[Boneshield#V4. Mayor's Home|the Mayor]] that Old Rusty was the last person in Boneshield to see [[Aurelia's Hunter]]; they know that Old Rusty went to Foxwillow - the party hears rumors from [[Boneshield#V14. Bread by Holly & V15. Harga's Meats|Holly]] about the lack of bread and dairy coming Foxwillow. The party have decided to travel to Foxwillow to investigate, but first they will need a ride...
+
+## **Session 7\.** 
+13 Everbloom 312  
+Game Date: (June 15th, 2026\)
+
+[[Scribes Harvest Terror Arc]]
+
+- 

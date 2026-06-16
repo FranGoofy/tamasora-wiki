@@ -85,7 +85,7 @@ The town square centers on a gnarled oak made of calcified bone, grown to resemb
 * **Gerghis** (Blacksmith): a quiet, muscular dwarf who fled the Atlas Mines to embrace the Newcomers' reason. He pulled **[[Isra]]** from the dark of the mines and treats her like a sister.
 
 ## V17. The Wickery
-* **Oswick Frey** (Chandler): a wheelchair-bound candlemaker, brother of [[Alistair Frey]], hopelessly in love with the schoolteacher Finneas.
+* **Oswick Frey**: a wheelchair-bound candlemaker, brother of [[Alistair Frey]], hopelessly in love with the schoolteacher Finneas.
 
 ## V18. A Stitch in Time
 * **Thomasin Ardor** (Tailor): makes beautiful garments but stays emotionally distant due to childhood trauma.
