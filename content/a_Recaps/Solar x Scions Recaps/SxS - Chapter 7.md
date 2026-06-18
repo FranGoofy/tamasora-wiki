@@ -337,3 +337,5 @@ It is then that **[[Virtus Tenebris|Virtus]]** steps forward and introduces hers
 ## **Session 80.** TBD
 
 \*17 Everbloom 312 (Day 72 since the formation of the Soul Shepherds)  Game Date: (June 10th, 2026)
+
+The Scions ...

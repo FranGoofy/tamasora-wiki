@@ -6,7 +6,7 @@ publish: true
 > 
 > | | |
 > |---|---|
-> | **Title** | Sir Amiel Tenebris the Maulforged |
+> | **Title** | Sir Amiel Tenebris, the White Lion of Jupiter |
 > | **Class** | [[Solar Scions\|Solar Scion]] / Fighter / Artificer |
 > | **Deity** | [[Tekk]] |
 > | **House** | [[Tenebris Estate]] |
@@ -16,7 +16,10 @@ publish: true
 
 *Missing Solar Scion — Father of [[Virtus Tenebris|Virtus]] and [[Animus Tenebris|Animus]]*
 
-**Sir Amiel Tenebris the Maulforged** was a legendary [[Solar Scions|Solar Scion]], renowned warrior, and patriarch of the [[Tenebris Estate]]. He disappeared approximately ten years ago during an expedition to find [[Paradise]], leaving behind his family, his legacy, and many unanswered questions.
+**Sir Amiel Tenebris, the White Lion of Jupiter**, was a legendary [[Solar Scions|Solar Scion]], renowned warrior, and patriarch of the [[Tenebris Estate]]. He disappeared approximately ten years ago during an expedition to find [[Paradise]], leaving behind his family, his legacy, and many unanswered questions.
+
+## The White Lion
+He earned his name on the snowy, storm-wracked mountains of [[Jupiter]] where he was raised. Even as a young man his hair grew long and full, falling about his shoulders like a lion's mane. Those who faced him in battle never forgot it: fearless and proud, he stood unshaken before any foe.
 
 ## Legacy
 Amiel was celebrated as one of the most skilled Solar Scions of his generation. The Tenebris name is synonymous with martial excellence and devotion to [[Tekk]]. His disappearance was the event that set both [[Virtus Tenebris|Virtus]] and [[Animus Tenebris|Animus]] on the path to becoming Solar Scions themselves.
