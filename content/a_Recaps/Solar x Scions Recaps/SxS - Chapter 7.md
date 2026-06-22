@@ -339,3 +339,19 @@ It is then that **[[Virtus Tenebris|Virtus]]** steps forward and introduces hers
 \*17 Everbloom 312 (Day 72 since the formation of the Soul Shepherds)  Game Date: (June 10th, 2026)
 
 The Scions ...
+
+- Virtus opens the keg so it can flow through the undershell.
+- Virtus asks the automotons what their purpose is, they fill and ship barrels to the taverns of Jupiter
+- The talker tells Silas that abather is happy the ale is flowing.
+- Umbrasax gets stuck while leaving the cavern and Whimsy casts enlarge/reduce to make him smaller.
+- Umbrasax drowns in the ale looking for Ambrosious' amulet, Virtus jumps in and saves him, retrieving the amulet of the Drunkard"
+- A bunch of automotons are working around a magic scroll.
+- Bart tells them that the scroll is his and he learns that it made the automoton that held it ponder life.
+- When Bart holds the scroll he feels the light of Nactu. it is a scroll of moonbeam.
+- After leaving the cavern, Virtus uses the craetive alchemy jug to make a high protein, low calorie drink that tastes like the eternal ale, it is named Eternal Ale Lite. Silas Lesser Restorations Umbrasax, removing the poisoned/drunk condition.
+- Umbrasax gets unruly after sobering up and Virtus lays down the law, saying that his sober thoughts and feelings are the burden of being alive. She asks if he can handle that responsibility and he settles down (because he is not bitchmade)
+-  Umbrasax is angry at ambrosoius for leaving him. He asks for him but the party manages to distract him.
+- Whimsy teaches Umbrasax how to shapeshift into a dwarven body.
+- When the party returns, Joy tells them that the hypolumdrum(?) will be happy that the ale is flowing again, but that King Dumoc will want to find the source and shut it down when he finds out.
+- We are going to go to the factory that Astrika is in charge of to face off against her. There are dwarven slaves there.
+-Umbrasax, thanks to the eternal ale lite, is 50% rehabilitated.
