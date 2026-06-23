@@ -334,24 +334,24 @@ The dragon is **[[Umbrasax]]** — calls Brasser _"Brother."_ He holds the saint
 
 It is then that **[[Virtus Tenebris|Virtus]]** steps forward and introduces herself plainly: she is **Amiel's daughter**. She tells the dragon that she and he were both taught by Amiel how to swing a blade — and Umbrasax decides this makes them something like _siblings._ Wary still, he asks if they have come to take his keg away. No, Virtus tells him — but she thinks he ought to leave this chamber all the same. He has grown too great for these walls. Umbrasax agrees; he is sick of ale, and admits he must finally eat a real meal. A _Giant_ meal, Virtus offers, bolstering his pride, and with it she extends the true invitation: to fight alongside the Soul Shepherds against **[[Cloudbeard]]**, and to save the dwarves, who would surely be eternally grateful to him. Eagerly, the great drunken dragon agrees to ally himself with them, for now...
 
-## **Session 80.** TBD
+## **Session 80.** Eternal Ale Lite
 
-\*17 Everbloom 312 (Day 72 since the formation of the Soul Shepherds)  Game Date: (June 10th, 2026)
+\*17 Everbloom 312 (Day 72 since the formation of the [[Soul Shepherds]])  Game Date: (June 10th, 2026)
 
-The Scions ...
+**The Keg Flows Again.** With the great seal broken at last, **[[Virtus Tenebris|Virtus]]** opens the [[Eternal Keg]] and lets it run. Ale courses out of the [[Chamber of the Eternal Keg|Chamber]] and down through the channels of the [[Undershell]] for the first time in a decade, the old arteries of the [[Inverted Temple]] filling once more. Curious about the tireless brass workers, Virtus asks the [[Automaton|Monastic Brew Bots]] what their purpose is; they answer, without ever pausing their labor, that they fill and ship barrels to the taverns of all [[Jupiter]]. In [[Silas Clemens|Silas]]'s wine bottle, **[[the Talker]]** stirs and relays a quiet message: [[Abathur]] is pleased the ale is flowing again.
 
-- Virtus opens the keg so it can flow through the undershell.
-- Virtus asks the automotons what their purpose is, they fill and ship barrels to the taverns of Jupiter
-- The talker tells Silas that abather is happy the ale is flowing.
-- Umbrasax gets stuck while leaving the cavern and Whimsy casts enlarge/reduce to make him smaller.
-- Umbrasax drowns in the ale looking for Ambrosious' amulet, Virtus jumps in and saves him, retrieving the amulet of the Drunkard"
-- A bunch of automotons are working around a magic scroll.
-- Bart tells them that the scroll is his and he learns that it made the automoton that held it ponder life.
-- When Bart holds the scroll he feels the light of Nactu. it is a scroll of moonbeam.
-- After leaving the cavern, Virtus uses the craetive alchemy jug to make a high protein, low calorie drink that tastes like the eternal ale, it is named Eternal Ale Lite. Silas Lesser Restorations Umbrasax, removing the poisoned/drunk condition.
-- Umbrasax gets unruly after sobering up and Virtus lays down the law, saying that his sober thoughts and feelings are the burden of being alive. She asks if he can handle that responsibility and he settles down (because he is not bitchmade)
--  Umbrasax is angry at ambrosoius for leaving him. He asks for him but the party manages to distract him.
-- Whimsy teaches Umbrasax how to shapeshift into a dwarven body.
-- When the party returns, Joy tells them that the hypolumdrum(?) will be happy that the ale is flowing again, but that King Dumoc will want to find the source and shut it down when he finds out.
-- We are going to go to the factory that Astrika is in charge of to face off against her. There are dwarven slaves there.
--Umbrasax, thanks to the eternal ale lite, is 50% rehabilitated.
+**A Tight Squeeze.** Leaving proves harder than arriving, at least for the newest member of the company. **[[Umbrasax]]**, grown fat over fifty years of drinking, wedges himself fast in the mouth of the cavern and cannot budge. **[[Whimsical|Whimsy]]** solves it with a casting of _Enlarge/Reduce_, shrinking the great wyrm to a manageable size. Before they can go, Umbrasax plunges back into the ale in search of a keepsake left behind by his beloved [[Saint Brasser the Ambrosius|Ambrosius]], and promptly begins to drown in it. **Virtus** dives in after him and hauls the floundering dragon back to the surface, recovering in the process the lost treasure: the **[[Amulet of the Drunkard]]**.
+
+**The Accountants' Scroll.** A cluster of [[Automaton|brew-bots]] labor around a single magic scroll, counting and recounting it without end. **[[Bartholomew|Bart]]** calmly informs them that the scroll belongs to him, and in the exchange learns a strange thing: the scroll once moved the very automaton that carried it to stop and ponder the meaning of its own life. When Bart takes it in hand, a soft and unfamiliar light washes over him, the light of [[Noctu]], the exiled Moon. It is a **Spell Scroll of _Moonbeam_**.
+
+**Eternal Ale Lite.** Once free of the Chamber, Virtus puts the **'Be Creative' Alchemy Jug** to clever use, brewing a high-protein, low-calorie drink that tastes exactly like the Eternal Ale but without the ruin. She names it **Eternal Ale Lite**. With a worthy substitute in hand, **Silas** casts _Lesser Restoration_ on Umbrasax and lifts the poisoned, drunken haze that has clouded the dragon for half a century.
+
+**The Burden of Being Alive.** Sober for the first time in living memory, Umbrasax does not take it gracefully; he turns unruly and loud. It is **Virtus** who steadies him. She tells him plainly that his sober thoughts and feelings, however heavy, are simply the burden of being alive, and asks whether he is strong enough to carry it. He decides that he is, and settles. Beneath the bluster, the grief surfaces: Umbrasax is angry at [[Saint Brasser the Ambrosius|Ambrosius]] for leaving him behind, and calls out for the brother who is never coming back. The party gently steers him away from the wound before it can swallow him.
+
+**A New Face.** With patience, **Whimsy** coaxes out a power Umbrasax never knew he carried, teaching the dragon how to shapeshift. After some clumsy effort, he takes the shape of a [[Dwarf|dwarf]], small enough at last to walk among them unnoticed.
+
+**The Road Ahead.** When the company returns to the [[Inverted Temple]], **[[Joy]]** greets the news of the flowing ale with both hope and warning: [[Hipolum-Dhrum]] will rejoice to taste it again, but the moment **[[Traitor King Dumac|King Dumac]]** learns the source has reopened, he will move to find it and shut it down. The Scions set their sights on the next step: the forge-factory ruled by **[[Zenith Aastrika|Aastrika]]**, where dwarven slaves still labor in chains. Thanks to the Eternal Ale Lite, Umbrasax is halfway to his old strength, fifty percent rehabilitated and climbing.
+
+## **Session 81.** TBD
+
+\*17 Everbloom 312 (Day 72 since the formation of the Soul Shepherds)  Game Date: (June 24th, 2026)
