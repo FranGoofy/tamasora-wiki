@@ -352,33 +352,19 @@ It is then that **[[Virtus Tenebris|Virtus]]** steps forward and introduces hers
 
 **The Road Ahead.** When the company returns to the [[Inverted Temple]], **[[Joy]]** greets the news of the flowing ale with both hope and warning: [[Hipolum-Dhrum]] will rejoice to taste it again, but the moment **[[Traitor King Dumac|King Dumac]]** learns the source has reopened, he will move to find it and shut it down. The Scions set their sights on the next step: the forge-factory ruled by **[[Zenith Aastrika|Aastrika]]**, where dwarven slaves still labor in chains. Thanks to the Eternal Ale Lite, Umbrasax is halfway to his old strength, fifty percent rehabilitated and climbing.
 
-## **Session 81.** TBD
+## **Session 81.** The Dwarven Capital
 
-\*17 Everbloom 312 (Day 72 since the formation of the Soul Shepherds)  Game Date: (June 24th, 2026)
+\*17 Everbloom 312 (Day 72 since the formation of the [[Soul Shepherds]])  Game Date: (June 24th, 2026)
 
-- The party takes the lift to the ale top tavern but it gets stuck midway.
-- the ale top tavern has a no fighting policy
-- we use a speaker system to speak to someone at the top, asking them why the lift stopped moving and they tell us it is because there is an inspection going on.
-- Milodious lies to the operator in a panic saying that someone is giving birth on the lift and we need to be raised immediately. This convinces the man to start up the lift again despite the risk of the lift being discovered by Dumac's guards.
-- when the party reaches the top, the operator realizes he was deceived but had heard good things about us from rupert, so he doesn't dwell on it. He gives us disguises that make us appear to be a part of a circus troupe so that we do not get discovered. Umbrasax does not wear a disguise in his dwarven form.
-- Dumac seems to be suspecting something is going on.
-- Virtus gives Umbrasax a stern pep talk so that he understands the assignment and he does.
-- the tavern keep, Oinara Tern, a Krakoan woman asks Milo to bring her Virtus. She is working with us in this operation.
-- Diallos overhears some things while babysitting Umbrasax who has taken a nap at a booth. "The thing we have chained up is going crazy" This is going on at the factory.
-- Oinara takes Virtus and Milo to a secret room to speak
-- She gives Virtus a hug and a good look, and she reveals that she is Virtus's Aunt
-- She explains that she is a spymaster and has been collecting information about the factory operation. She can give us a layout of the factory, She explains that Astrika is a "Monk of The Flame", and that they have a chained up fomorian that they are using as a power source and they call it "The Demon Core"
-- The goal is to destroy the Demon Core to ruin the factory operation.
-- There is an alchemest called Garglestein that could help with the bloodletting to cure the forvivlad.
-- Whimsy talks to two patrons at the ale top tgavern called Horse and Monkey. They are old friends and recognize her even through her "disguise" once she starts talking to them. They're aware of the current political climate.
-- Silas speaks to Fundiin the Mountain, a giantess. She tells him to entertain her since he is dressed as a jester. He does get a laugh out of her
-- She tells him how she wants to kill a dragon because for giants, its a formidable feat.
-- Silas tells her he personally has never met a dragon, but also shares a story about his parents who were interested in dragons. He tells her they sent adventurers out to collect dragons for their scales but they all got flayed by the dragons. This makes the giantess excited rather than dissuade her from pursuing dragons. He proceeds to trauma dump of the giantess.
-- Fundiin does not fuck with this and so she gathers her forvivlad slaves and returns to the factory.
-- Silas gets asked to dance for some of Dumac's guards and he does. After, silas shows them a forged letter by Dumac written with the ink of Damocles saying that they are ordered to escort us to Astrika and they become charmed.
-- They tell Silas there will be 10-15 fire giants there.
-- The Demon Core might be a "Dark Angel", a winged demon of fury.
-- 13 guzzles swords (gay style)
-- Umbrasax experiences snow for the first time
-- Both our escorts get replaced by other guards
-- Diallos stops someone from killing themselves.
+**The Stuck Lift.** The party takes the lift up toward the [[Grand Aletop|Ale Top]] tavern, but it grinds to a halt midway (the Ale Top keeps a strict no-fighting policy). Using a speaker system, they call up to ask why the lift has stopped, and are told an inspection is underway. In a panic, **[[Milodious Aureon|Milodious]]** lies to the operator that someone aboard is giving birth and they must be raised immediately. The story convinces the man to start the lift again, despite the risk of it being discovered by [[Traitor King Dumac|Dumac]]'s guards. When the party reaches the top, the operator realizes he was deceived, but he has heard good things about them from [[Editor Rupert|Rupert]], so he does not dwell on it. He gives them disguises that make them appear to be part of a circus troupe, so as not to be discovered. **[[Umbrasax]]**, in his dwarven form, wears no disguise at all. [[Traitor King Dumac|Dumac]] seems to suspect something is going on. Before they spread out, **[[Virtus Tenebris|Virtus]]** gives Umbrasax a stern pep talk so that he understands the assignment, and he does.
+
+**The Spymaster Aunt.** The tavern keep, **[[Oinara Tern]]**, a [[Kekoa|Kekoan]] woman, asks **Milo** to bring her **Virtus**; she is working with them in this operation. Meanwhile **[[Diallos]]**, babysitting Umbrasax as the dragon naps in a booth, overhears something troubling: "the thing we have chained up is going crazy," a matter unfolding at the factory. Oinara takes Virtus and Milo to a secret room to speak. She gives Virtus a hug and a good long look, and reveals that she is Virtus's **aunt**. She explains that she is a spymaster who has been collecting information about the factory operation, and can give them a layout of it. [[Zenith Aastrika|Astrika]], she says, is a "Monk of the Flame," and they have a chained-up [[Fomorians|fomorian]] they are using as a power source, which they call **the Demon Core**. The goal is to destroy the Demon Core and ruin the factory operation. She also mentions an alchemist called **Garglestein** who could help with the bloodletting to cure the [[Forvivlad]].
+
+**Working the Room.** **[[Whimsical|Whimsy]]** talks to two patrons called **Horse** and **Monkey**, old friends who recognize her even through her "disguise" once she starts talking to them; they are aware of the current political climate. **[[Silas Clemens|Silas]]** speaks to **Fundiin the Mountain**, a giantess, who tells him to entertain her since he is dressed as a jester. He does get a laugh out of her. She tells him how she wants to kill a dragon, because for giants it is a formidable feat. Silas tells her he has never personally met a dragon, but shares a story about his parents, who were interested in dragons: they sent adventurers out to collect dragons for their scales, but the dragons flayed them all. The tale excites the giantess rather than dissuading her, and Silas proceeds to trauma-dump on her besides. Having had her fill of it, Fundiin gathers her Forvivlad slaves and returns to the factory. Silas is then asked to dance for some of Dumac's guards, and does; afterward, he shows them a forged letter written in the Ink of Damocles, signed as if by [[Traitor King Dumac|Dumac]], ordering them to escort the troupe to [[Zenith Aastrika|Astrika]]. The guards become charmed by it, and tell Silas there will be ten to fifteen [[Fire Giants|fire giants]] there. They suspect the Demon Core might be a "Dark Angel," a winged demon of fury. Nearby, **[[Thirteen]]** leans into the act and swallows swords for the crowd.
+
+**Into the Snow.** **Umbrasax** experiences snow for the first time. Both of the party's escorts are replaced by other guards along the way. The Scions meet **[[Jingma]]** again, who tells them they can find him at the [[Grand Aletop]] afterward. **Diallos** stops someone from taking their own life. Then, still dressed as carnival folk, the Scions are accidentally "ambushed" by [[Bhan-Ember]] rebels who wanted to fight Dumac's guards. Rather than turn on their own, the Scions join the rebels, throwing in outside the [[Hipolum-Dhrum|Old Palace]] (the factory) against an ice giant and Dumac's guards.
+
+## **Session 82.** TBD
+
+\*17 Everbloom 312 (Day 72 since the formation of the [[Soul Shepherds]])  Game Date: (June 24th, 2026)
+

@@ -106,6 +106,12 @@ The [[Boneshield Misfits]] then learn from [[Boneshield#V4. Mayor's Home|the May
 13 Everbloom 312  
 Game Date: (June 15th, 2026\)
 
+The [[Boneshield Misfits]] meet Oswick (he's a superstitious man that sells magical candles that casts Paladin and Cleric spells), 1 supply point for everyone. The party takes a wagon to [[Foxwillow]], there is a spooky carriage by 4 horses, steered by a dark priest, called House Arigwulf, there was a twinkle in the sky to the South where the carriage went towards, and then the party made camp.
+## **Session 8\.** 
+13 Everbloom 312  
+Game Date: (June 29th, 2026\)
+
 [[Scribes Harvest Terror Arc]]
+
 
 - 
