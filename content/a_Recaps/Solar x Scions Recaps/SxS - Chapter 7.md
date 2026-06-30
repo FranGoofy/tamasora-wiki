@@ -355,3 +355,30 @@ It is then that **[[Virtus Tenebris|Virtus]]** steps forward and introduces hers
 ## **Session 81.** TBD
 
 \*17 Everbloom 312 (Day 72 since the formation of the Soul Shepherds)  Game Date: (June 24th, 2026)
+
+- The party takes the lift to the ale top tavern but it gets stuck midway.
+- the ale top tavern has a no fighting policy
+- we use a speaker system to speak to someone at the top, asking them why the lift stopped moving and they tell us it is because there is an inspection going on.
+- Milodious lies to the operator in a panic saying that someone is giving birth on the lift and we need to be raised immediately. This convinces the man to start up the lift again despite the risk of the lift being discovered by Dumac's guards.
+- when the party reaches the top, the operator realizes he was deceived but had heard good things about us from rupert, so he doesn't dwell on it. He gives us disguises that make us appear to be a part of a circus troupe so that we do not get discovered. Umbrasax does not wear a disguise in his dwarven form.
+- Dumac seems to be suspecting something is going on.
+- Virtus gives Umbrasax a stern pep talk so that he understands the assignment and he does.
+- the tavern keep, Oinara Tern, a Krakoan woman asks Milo to bring her Virtus. She is working with us in this operation.
+- Diallos overhears some things while babysitting Umbrasax who has taken a nap at a booth. "The thing we have chained up is going crazy" This is going on at the factory.
+- Oinara takes Virtus and Milo to a secret room to speak
+- She gives Virtus a hug and a good look, and she reveals that she is Virtus's Aunt
+- She explains that she is a spymaster and has been collecting information about the factory operation. She can give us a layout of the factory, She explains that Astrika is a "Monk of The Flame", and that they have a chained up fomorian that they are using as a power source and they call it "The Demon Core"
+- The goal is to destroy the Demon Core to ruin the factory operation.
+- There is an alchemest called Garglestein that could help with the bloodletting to cure the forvivlad.
+- Whimsy talks to two patrons at the ale top tgavern called Horse and Monkey. They are old friends and recognize her even through her "disguise" once she starts talking to them. They're aware of the current political climate.
+- Silas speaks to Fundiin the Mountain, a giantess. She tells him to entertain her since he is dressed as a jester. He does get a laugh out of her
+- She tells him how she wants to kill a dragon because for giants, its a formidable feat.
+- Silas tells her he personally has never met a dragon, but also shares a story about his parents who were interested in dragons. He tells her they sent adventurers out to collect dragons for their scales but they all got flayed by the dragons. This makes the giantess excited rather than dissuade her from pursuing dragons. He proceeds to trauma dump of the giantess.
+- Fundiin does not fuck with this and so she gathers her forvivlad slaves and returns to the factory.
+- Silas gets asked to dance for some of Dumac's guards and he does. After, silas shows them a forged letter by Dumac written with the ink of Damocles saying that they are ordered to escort us to Astrika and they become charmed.
+- They tell Silas there will be 10-15 fire giants there.
+- The Demon Core might be a "Dark Angel", a winged demon of fury.
+- 13 guzzles swords (gay style)
+- Umbrasax experiences snow for the first time
+- Both our escorts get replaced by other guards
+- Diallos stops someone from killing themselves.
