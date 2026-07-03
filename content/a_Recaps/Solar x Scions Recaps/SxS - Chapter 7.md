@@ -366,5 +366,5 @@ It is then that **[[Virtus Tenebris|Virtus]]** steps forward and introduces hers
 
 ## **Session 82.** TBD
 
-\*17 Everbloom 312 (Day 72 since the formation of the [[Soul Shepherds]])  Game Date: (June 24th, 2026)
+\*17 Everbloom 312 (Day 72 since the formation of the [[Soul Shepherds]])  Game Date: (June 30th, 2026)
 
