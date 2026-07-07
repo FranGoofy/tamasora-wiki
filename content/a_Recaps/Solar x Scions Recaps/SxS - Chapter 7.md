@@ -364,7 +364,15 @@ It is then that **[[Virtus Tenebris|Virtus]]** steps forward and introduces hers
 
 **Into the Snow.** **Umbrasax** experiences snow for the first time. Both of the party's escorts are replaced by other guards along the way. The Scions meet **[[Jingma]]** again, who tells them they can find him at the [[Grand Aletop]] afterward. **Diallos** stops someone from taking their own life. Then, still dressed as carnival folk, the Scions are accidentally "ambushed" by [[Bhan-Ember]] rebels who wanted to fight Dumac's guards. Rather than turn on their own, the Scions join the rebels, throwing in outside the [[Hipolum-Dhrum|Old Palace]] (the factory) against an ice giant and Dumac's guards.
 
-## **Session 82.** TBD
+## **Session 82.** ???
 
 \*17 Everbloom 312 (Day 72 since the formation of the [[Soul Shepherds]])  Game Date: (June 30th, 2026)
+
+...
+
+## **Session 83.** TBD
+
+\*17 Everbloom 312 (Day 72 since the formation of the [[Soul Shepherds]])  Game Date: (July 8th, 2026)
+
+...
 
