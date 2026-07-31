@@ -364,15 +364,25 @@ It is then that **[[Virtus Tenebris|Virtus]]** steps forward and introduces hers
 
 **Into the Snow.** **Umbrasax** experiences snow for the first time. Both of the party's escorts are replaced by other guards along the way. The Scions meet **[[Jingma]]** again, who tells them they can find him at the [[Grand Aletop]] afterward. **Diallos** stops someone from taking their own life. Then, still dressed as carnival folk, the Scions are accidentally "ambushed" by [[Bhan-Ember]] rebels who wanted to fight Dumac's guards. Rather than turn on their own, the Scions join the rebels, throwing in outside the [[Hipolum-Dhrum|Old Palace]] (the factory) against an ice giant and Dumac's guards.
 
-## **Session 82.** ???
+## **Session 82.** Ambush at the Gates
 
 \*17 Everbloom 312 (Day 72 since the formation of the [[Soul Shepherds]])  Game Date: (June 30th, 2026)
 
-...
+The Scions infiltrate [[The Old Palace]] after defeating an ice giant and some of Dumac's guards. Realizing their disguises wont help them anymore, they ally themselves with some of the Bhan Ember insurgents outside the palace and enlist their help in their infiltration. However, when they enter, their disorganized nature seem to be more of a hindrance than a boon, and they trigger multiple traps throughout the old palace, causing some of them to die. [[Virtus]] orders them to stay back and that the [[Soul Shepherds]] will handle it.
 
-## **Session 83.** TBD
+## **Session 83.** A Hot and Messy Hall
 
 \*17 Everbloom 312 (Day 72 since the formation of the [[Soul Shepherds]])  Game Date: (July 8th, 2026)
 
-...
+In [[The Old Palace]], the Scions find themselves venturing quietly through a hot environment - once a glorious bastion of Dwarven rule in [[Hipolum-Dhrum]], the palace has since been retrofitted to serve as [[Cloudbeard Pirates]]'s Weapons Factory - and deeper within, they know the [[The Old Palace#Z9. The Demon Core|the Demon Core]] awaits...
+
+[[Milodious Aureon]] scouts around the corner and sees feasting Giants in a mess hall, he urges the team to take action and after a brutal fight, the party licks their wounds and short rests in a nearby storage room.
+
+## **Session 84.** TBD
+
+\*17 Everbloom 312 (Day 72 since the formation of the [[Soul Shepherds]])  Game Date: (August 5th, 2026)
+
+
+
+
 
