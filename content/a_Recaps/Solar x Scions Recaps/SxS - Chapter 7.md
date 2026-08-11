@@ -376,11 +376,16 @@ The Scions infiltrate [[The Old Palace]] after defeating an ice giant and some o
 
 In [[The Old Palace]], the Scions find themselves venturing quietly through a hot environment - once a glorious bastion of Dwarven rule in [[Hipolum-Dhrum]], the palace has since been retrofitted to serve as [[Cloudbeard Pirates]]'s Weapons Factory - and deeper within, they know the [[The Old Palace#Z9. The Demon Core|the Demon Core]] awaits...
 
+[[Diallos]] had a vision of [[Zenith Aastrika]]'s lair, in which she was meditating in front of an angry [[Fomorians|Fomorian]] [[Demon]].
+
 [[Milodious Aureon]] scouts around the corner and sees feasting Giants in a mess hall, he urges the team to take action and after a brutal fight, the party licks their wounds and short rests in a nearby storage room.
 
 ## **Session 84.** TBD
 
 \*17 Everbloom 312 (Day 72 since the formation of the [[Soul Shepherds]])  Game Date: (August 5th, 2026)
+
+
+
 
 
 

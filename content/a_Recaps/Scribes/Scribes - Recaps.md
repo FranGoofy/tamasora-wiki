@@ -108,10 +108,18 @@ Game Date: (June 15th, 2026\)
 
 The [[Boneshield Misfits]] meet Oswick (he's a superstitious man that sells magical candles that casts Paladin and Cleric spells), 1 supply point for everyone. The party takes a wagon to [[Foxwillow]], there is a spooky carriage by 4 horses, steered by a dark priest, called House Arigwulf, there was a twinkle in the sky to the South where the carriage went towards, and then the party made camp.
 ## **Session 8\.** 
-13 Everbloom 312  
+14 Everbloom 312  
 Game Date: (June 29th, 2026\)
 
-[[Scribes Harvest Terror Arc]]
+The Boneshield Misfits arrive at [[Foxwillow]] with [[Alistair Frey]] and encounter a burning town. They save some townsfolk from killing each other (they were being possesed by pumpkin heads), and rescued a couple from the burning windmill with the help of Riqirith (wild shaped into a War Horse and mutated herself to have wings, thus becoming a 'pegasus'). They rest up outside the rubble of the windmill and vow to continue to investigate the happenings of Foxwillow.
 
+## **Session 9\.** 
+14 Everbloom 312  
+Game Date: (July 14th, 2026\)
 
-- 
+## **Session 10\.** 
+14 Everbloom 312  
+Game Date: (August 11th, 2026\)
+
+...
+
