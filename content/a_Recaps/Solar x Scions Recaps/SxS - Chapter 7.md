@@ -58,7 +58,7 @@ The winds harmonize as lightning crackles through the frost, manifesting the col
 
 _14 Everbloom 312 (Day 69 since the formation of the Soul Shepherds)  Game Date: (April 16th, 2026)_
 
-The Soul Shepherds enter one of Carapax’s orifices, the ship arrives at a tunnel leading to [[Kelda-Dhrum]], a once thought abandoned Dwarven Fortress in the South of Jupiter’s [[Undershell]]. During their rest, Virtus forges her very own [[Adamantine]] Plate armor. Silas focuses on talking to his Souls. Bartholomew and Milodius talk a bit. Diallos meditates, and Whimsical and Joy reconvene. Virtus leaves [[Beppo]] and [[P-Sowen]] in charge of the ARK - the crew venture deeper into [[Undershell]] with Joy in tow.
+The Soul Shepherds enter one of Carapax’s orifices, the ship arrives at a tunnel leading to [[Kelda-Dhrum]], a once thought abandoned Dwarven Fortress in the South of Jupiter’s [[Undershell]]. During their well deserved **Long Rest**, Virtus forges her very own [[Adamantine]] Plate armor. Silas focuses on talking to his Souls. Bartholomew and Milodius talk a bit. Diallos meditates, and Whimsical and Joy reconvene. Virtus leaves [[Beppo]] and [[P-Sowen]] in charge of the ARK - the crew venture deeper into [[Undershell]] with Joy in tow.
 
 They arrive at the fortress and Milodious clears debris in the way with his wings. The Shepherds find ‘[[Forvivlad]]’ Dwarves slaving away in the heat of the fortress mining ore. They seem to be on the verge of insanity, as their blood is tainted (Silas surmises). Whimsical, Milodius, and Bartholomew defuse their antagonism by fooling them that it's their lunch time. Before they leave for lunch, the [[Forvivlad]] Dwarves go pray to a statue of the late [[King Dumaclath]] nearby, they say that they do not do this out of fear, but rather out of devotion.  
 
@@ -312,11 +312,11 @@ In the small hours of the morning, **[[Magi]]** comes for **[[Silas Clemens|Sila
 
 \*17 Everbloom 312 (Day 72 since the formation of the Soul Shepherds)  Game Date: (June 4th, 2026)
 
-The morning after the parley finds the [[Inverted Temple]] in higher spirits than it has known in a long while. **[[Editor Rupert]]** spreads word of the Soul Shepherds' victory over the [[Fire Giants|Fire Giant]] scouting party at [[Crystalhammer Falls]], and the news moves through the camp like warmth through cold stone — the [[Bhan-Ember]] dwarves who only days ago were burying their own now have something to stand a little taller for. Rupert also shares a closely held secret: there is a hidden **elevator** that can carry the party to the surface in forty to sixty minutes, straight toward [[Hipolum-Dhrum]]. He will give them its exact location, but only in person, and only when they are truly ready to make the climb.
+The [[Soul Shepherds]] return to the [[Inverted Temple]] exhausted and **Sleep with a Short Rest** . The morning after the parley finds the [[Inverted Temple]] in higher spirits than it has known in a long while. **[[Editor Rupert]]** spreads word of the Soul Shepherds' victory over the [[Fire Giants|Fire Giant]] scouting party at **Crystalhammer Falls**, and the news moves through the camp like warmth through cold stone — the [[Bhan-Ember]] dwarves who only days ago were burying their own now have something to stand a little taller for. Rupert also shares a closely held secret: there is a hidden **elevator** that can carry the party to the surface in forty to sixty minutes, straight toward [[Hipolum-Dhrum]]. He will give them its exact location, but only in person, and only when they are truly ready to make the climb.
 
 At the war banners **[[Bartholomew]]** blessed before the scouts departed, dwarves come to leave small stones and murmur quiet prayers, the wildflowers still blooming impossibly around the cloth. Bart and **[[Milodious Aureon|Milo]]** strike up a rousing tune between them, and the gathered Bhan-Embers break into a thunderous war dance, stamping the old temple floor until the dust rises.
 
-**The Iron Gate.** After a short rest, the Soul Shepherds make their way through the [[Inverted Temple]] to the iron gate that seals the **[[Eternal Keg]]**. A fetid, yeasty stench wafts from behind it. **Bart** reads the air at once: the gas pooling beyond the gate is _poisonous_; they will not be able to breathe inside, and, worse, it is _extremely flammable_. Wedged into the door itself is a **talisman**, which **[[Diallos]]** identifies as enchanted: whoever attunes to it gains advantage on Constitution saving throws. **Milo** casts _Warding Wind_, the swirling gale dispersing the toxic gas within ten feet of him and carving out a pocket of breathable air. They haul the gate open, freeing the talisman, and hand it to Milo.
+**The Iron Gate.** After a **Short Rest**, the Soul Shepherds make their way through the [[Inverted Temple]] to the iron gate that seals the **[[Eternal Keg]]**. A fetid, yeasty stench wafts from behind it. **Bart** reads the air at once: the gas pooling beyond the gate is _poisonous_; they will not be able to breathe inside, and, worse, it is _extremely flammable_. Wedged into the door itself is a **talisman**, which **[[Diallos]]** identifies as enchanted: whoever attunes to it gains advantage on Constitution saving throws. **Milo** casts _Warding Wind_, the swirling gale dispersing the toxic gas within ten feet of him and carving out a pocket of breathable air. They haul the gate open, freeing the talisman, and hand it to Milo.
 
 **The Brewery.** Beyond the gate lies a hall that was clearly lived in once: kegs and playing cards and scattered personal effects, the small debris of lives spent in good company. No one living stirs among it, yet footsteps echo through the chamber — the creak of wood and clank of metal. The footsteps belong to **automatons**, who pay the intruders no mind at all, busying themselves rolling barrels from place to place. In a quiet corner the party finds a **stone dwarf**, frozen mid-drink, one hand clutched to his chest where his heart gave out.
 
@@ -378,11 +378,25 @@ In [[The Old Palace]], the Scions find themselves venturing quietly through a ho
 
 [[Diallos]] had a vision of [[Zenith Aastrika]]'s lair, in which she was meditating in front of an angry [[Fomorians|Fomorian]] [[Demon]].
 
-[[Milodious Aureon]] scouts around the corner and sees feasting Giants in a mess hall, he urges the team to take action and after a brutal fight, the party licks their wounds and short rests in a nearby storage room.
+[[Milodious Aureon]] scouts around the corner and sees feasting Giants in a mess hall, he urges the team to take action and after a brutal fight, the party licks their wounds and **Short Rests** in a nearby storage room.
 
-## **Session 84.** TBD
+## **Session 84.** Battle at the Forge
 
 \*17 Everbloom 312 (Day 72 since the formation of the [[Soul Shepherds]])  Game Date: (August 5th, 2026)
+
+The [[Soul Shepherds]] and [[Umbrasax]] venture further into the Factory - they encounter a **Fire Giant Blacksmith** and his master, a **Master Smith Granite Giant**, forging weapons for Cloudbeard's army. [[Characters/SxS PCs/Virtus Tenebris|Virtus Tenebris]] reveals herself and issues a challenge to the blacksmith by clanking on her boomerang shield. She baits him out of the Forge into an ambush in the hall, where he is swiftly taken care of by the Scions. 
+
+[[Silas Clemens]] and his Reaper Spirit deal the final blow - sending the **Fire Giant Blacksmith** into a deathless sleep; [[Umbrasax]] ferociously consumes the flesh off the Fire Giant, filling up his belly with flaming meat.
+
+[[Virtus Tenebris]] and [[Diallos]] fight the **Master Smith Granite Giant**. A sort of artillery specialist, the Giant throws Iron Balls from a forged sling - damaging [[Bartholomew]], [[Thirteen]], and [[Umbrasax]]. Virtus blocks a punch from the Giant with her bare hands, but Diallos gets sent reeling back, breaking a bone as he lands on the ground - he flies back to the Giant and starts choking it with his Astral Arms - whilst [[Thirteen]] shoots out Guiding Bolts and [[Milodious Aureon]] launches a volley of arrows. The Giant stumbles into the Forge and melts into the Lava. 
+
+After the Forge is cleared of trouble, [[Whimsical]] collects a shitload of Adamantine and Mithril Ingots, surely they will come useful later when Virtus makes weapons. She picks up the Fire Giant Blacksmith's Hammer - a massive (but not impossible to wield) **Adamantine Maul** to her. [[Diallos]] finds a volcanic device, that is cool to the touch, held by a large stone hand. It looks to be a sort Magical Communication Device (**an Elemental Tir**) that is used by the [[Cloudbeard Pirates]] to talk to each other through long distances. Diallos activates it with his **Mage Hand** and an **Advisor to Cloudbeard** answers back - Diallos promptly ends the Connection without saying a word.
+
+## **Session 85.** ???
+
+\*18 Everbloom 312 (Day 72 since the formation of the [[Soul Shepherds]])  Game Date: (August 5th, 2026)
+
+**Midnight of the 18th of Evebloom Strikes.** The [[Soul Shepherds]] continue through [[The Old Palace]]...
 
 
 

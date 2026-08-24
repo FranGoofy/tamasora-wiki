@@ -111,15 +111,21 @@ The [[Boneshield Misfits]] meet Oswick (he's a superstitious man that sells magi
 14 Everbloom 312  
 Game Date: (June 29th, 2026\)
 
-The Boneshield Misfits arrive at [[Foxwillow]] with [[Alistair Frey]] and encounter a burning town. They save some townsfolk from killing each other (they were being possesed by pumpkin heads), and rescued a couple from the burning windmill with the help of Riqirith (wild shaped into a War Horse and mutated herself to have wings, thus becoming a 'pegasus'). They rest up outside the rubble of the windmill and vow to continue to investigate the happenings of Foxwillow.
+The Boneshield Misfits arrive at [[Foxwillow]] with [[Alistair Frey]] and encounter a burning town. They save some villagers from killing each other (they were being possessed by pumpkin heads), and rescued a couple from the burning windmill with the help of Riqirith (wild shaped into a War Horse and mutated herself to have wings, thus becoming a sort of 'Pegasus'). They rest up outside the rubble of the windmill and vow to continue to investigate the happenings of Foxwillow.
 
 ## **Session 9\.** 
 14 Everbloom 312  
 Game Date: (July 14th, 2026\)
 
+[[Isra]] finds propped against the stone foundation of the burned windmill. A Fabled Heirloom, known as the **Banjo of Ol' Jericho Sticks**. [[Montague Tepes]] walks [[Alistair Frey]] back to village to get him aid for his broken leg. While at the **Schoolhouse**, Monty sees an eerie drawing of a crow among the stalks holding out a hand for payment drawn with chalk on the school wall. 
+
+The rest of the **Misfits** go into the [[Foxwillow#The Fields of the Crow|Cornfields]] to find the missing villagers and **Adelaide Langtree**. The whispers within the cornfield call out to [[Aurelia]] to reveal a secret before she enters the stalks - she tells the voice that she is a runaway princess.
+
+[[Riqirith]] flies above the cornfields trying to guide them the party the right way, but a murder of crows impedes her scouting. And then Isra found a Doppelganger with Alistair's face and then a Corvodaemon attacked them and it was defeated, Monty saved another villager (a teacher) and took her out of the Cornfield.
+
 ## **Session 10\.** 
 14 Everbloom 312  
 Game Date: (August 11th, 2026\)
 
-...
+... TBD
 
