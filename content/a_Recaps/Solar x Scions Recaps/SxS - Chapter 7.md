@@ -396,7 +396,12 @@ After the Forge is cleared of trouble, [[Whimsical]] collects a shitload of Adam
 
 \*18 Everbloom 312 (Day 72 since the formation of the [[Soul Shepherds]])  Game Date: (August 5th, 2026)
 
-**Midnight of the 18th of Evebloom Strikes.** The [[Soul Shepherds]] continue through [[The Old Palace]]...
+**Midnight of the 18th of Evebloom Strikes.** The [[Soul Shepherds]] continue through [[The Old Palace]]. The Scions head towards [[Zenith Aastrika]]'s chamber to confront her and shut down the Giant's weapons manufacturing operation. ...
+## **Session 86.** ???
+
+\*18 Everbloom 312 (Day 72 since the formation of the [[Soul Shepherds]])  Game Date: (???, 2026)
+
+Fight continues...
 
 
 
