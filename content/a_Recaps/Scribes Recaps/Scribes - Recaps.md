@@ -97,7 +97,7 @@ Game Date: (June 8nd, 2026\)
 - [[Riqirith]] draws '**the World**' and '**Death**'.
 
 As Alda turns **Isra's** card, her suppressed clairvoyance breaks. In a voice not her own she describes the [[Lake Ruthaba]] parley from [[SxS - Chapter 7|Scions S78]]:
-> *"A pillar of black water… seven f aces, each wearing the face of someone you'd trust with your life… a key of pure gold rising from the silt… and a man with a sword made of souls who is looking for you — across all the dark between the stars."*
+> *"A pillar of black water… seven faces, each wearing the face of someone you'd trust with your life… a key of pure gold rising from the silt… and a man with a sword made of souls who is looking for you — across all the dark between the stars."*
   She snaps out of it terrified, no memory of speaking, blames the drink.
   
 The [[Boneshield Misfits]] then learn from [[Boneshield#V4. Mayor's Home|the Mayor]] that Old Rusty was the last person in Boneshield to see [[Aurelia's Hunter]]; they know that Old Rusty went to Foxwillow - the party hears rumors from [[Boneshield#V14. Bread by Holly & V15. Harga's Meats|Holly]] about the lack of bread and dairy coming Foxwillow. The party have decided to travel to Foxwillow to investigate, but first they will need a ride...
@@ -121,11 +121,20 @@ Game Date: (July 14th, 2026\)
 
 The rest of the **Misfits** go into the [[Foxwillow#The Fields of the Crow|Cornfields]] to find the missing villagers and **Adelaide Langtree**. The whispers within the cornfield call out to [[Aurelia]] to reveal a secret before she enters the stalks - she tells the voice that she is a runaway princess.
 
-[[Riqirith]] flies above the cornfields trying to guide them the party the right way, but a murder of crows impedes her scouting. And then Isra found a Doppelganger with Alistair's face and then a Corvodaemon attacked them and it was defeated, Monty saved another villager (a teacher) and took her out of the Cornfield.
+[[Riqirith]] flies above the cornfields trying to guide them the party the right way, but a murder of crows impedes her scouting. And then Isra found a *Doppelganger with Alistair's face* (later named **[[Yeast]]**) and then a **Corvodaemon** attacked them and it was defeated, Monty saved another villager (a teacher) and took her out of the Cornfield.
 
 ## **Session 10\.** 
 14 Everbloom 312  
 Game Date: (August 11th, 2026\)
 
-... TBD
+The [[Boneshield Misfits]] rest up outside the Cornfield Maze and prepare to fight the [[Green Knights#1. The Crow Reaper of the Eastern Fields|demon]] that is ruining [[Foxwillow]] - they are being watched from within the stalks by **[[Yeast]]** (the doppelganger wearing Alistair's face). [[Isra]] conducts an Augury ceremony to gleam into their fighting prospects and learns with [[Riqirith]] that the very land they're on is with them on this fight. 
 
+They enter again and [[Riqirith]] makes a subtle distraction for the Doppleganger, buying them sometime within the maze, but when they reach the clearing where the scarecrow of Foxwillow awaits - clearly it is possesed by some demon a fight ensues. **Adelaide Langtree** is also possesed, but [[Isra]] realizes that she can end the Charm on her (and the Doppleganger) with the **Banjo of Ol' Jericho Sticks**. She attempts to play a minor chord and the Banjo plays by itself, ending the stupor on Adelaide and the Doppleganger (who are now allies). All of them defeat the demon and Raum wails and bursts into straw and feathers. A faint scarecrow appears, strumming a sorrowful banjo, and tips his hat. *"Bring 'em home safe. They'll come out of the corn, so long as their bodies ain't too damaged. Didn't mean for any of it. Virgil's words were sweet. Show's over." 
+
+The party stands at the field's edge; silvery spirits drift toward their bodies.
+
+## **Session 11\.** 
+15 Everbloom 312  
+Game Date: (September 15th, 2026\)
+
+Riqiirth wakes up at the Schoolhouse and looks for 'ALICIA (Yeast)', a young man with black hair named 'Iris' has gone missing because of the 'Red Tax'.

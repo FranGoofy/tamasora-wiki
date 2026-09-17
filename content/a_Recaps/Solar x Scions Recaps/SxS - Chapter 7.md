@@ -392,16 +392,45 @@ The [[Soul Shepherds]] and [[Umbrasax]] venture further into the Factory - they 
 
 After the Forge is cleared of trouble, [[Whimsical]] collects a shitload of Adamantine and Mithril Ingots, surely they will come useful later when Virtus makes weapons. She picks up the Fire Giant Blacksmith's Hammer - a massive (but not impossible to wield) **Adamantine Maul** to her. [[Diallos]] finds a volcanic device, that is cool to the touch, held by a large stone hand. It looks to be a sort Magical Communication Device (**an Elemental Tir**) that is used by the [[Cloudbeard Pirates]] to talk to each other through long distances. Diallos activates it with his **Mage Hand** and an **Advisor to Cloudbeard** answers back - Diallos promptly ends the Connection without saying a word.
 
-## **Session 85.** ???
+## **Session 85.** Into the Demon Core
 
-\*18 Everbloom 312 (Day 72 since the formation of the [[Soul Shepherds]])  Game Date: (August 5th, 2026)
+\*18 Everbloom 312 (Day 73 since the formation of the [[Soul Shepherds]])  Game Date: (August 5th, 2026)
 
-**Midnight of the 18th of Evebloom Strikes.** The [[Soul Shepherds]] continue through [[The Old Palace]]. The Scions head towards [[Zenith Aastrika]]'s chamber to confront her and shut down the Giant's weapons manufacturing operation. ...
-## **Session 86.** ???
+**Midnight Strikes.** Midnight of the 18th of Everbloom passes somewhere far above, unheard beneath the shell. The [[Soul Shepherds]] press on through [[The Old Palace]], leaving the cooling Forge behind them and making straight for [[Zenith Aastrika]]'s chamber. There is no more scouting and no more hiding: they mean to face the Monk of Flame herself and shut down the weapons operation arming [[Cloudbeard]]'s war machine.
 
-\*18 Everbloom 312 (Day 72 since the formation of the [[Soul Shepherds]])  Game Date: (???, 2026)
+**The Demon Core.** The doors open onto the heart of the factory. Aastrika waits within, attended by her Fire Giant minions, and above the furnace-pit hangs the thing the entire palace has been built around: a **[[Balor]]**, bound in chains and burning, its fury harvested as raw fuel to keep every forge in the Old Palace alight.
 
-Fight continues...
+**Pillar of Flame.** Aastrika opens the fight with a towering column of fire that engulfs **[[Whimsical|Whimsical]]** and **[[Thirteen]]**, searing them both badly. **[[Virtus Tenebris|Virtus]]** roars over the din for the Scions to hold the line and keep fighting.
+
+**The Elephant and the Dirge.** **[[Diallos]]** summons his **Janus Totem**, and the carving unfolds into a great wooden elephant construct; he mounts it and rides into the fray. **[[Milodious Aureon|Milodius]]** plants his feet and begins to sing a **Dirge**, a gloomy and mournful lament that withers the Fire Giant minions where they stand and rakes at Aastrika herself. She turns on the bard at once, desperate to silence the song, but **Diallos** answers with **Silvery Barbs** and her attempt comes to nothing. The singing does not stop.
+
+**The Voice in the Chains.** Amid the roar of the flames, **[[Silas Clemens|Silas]]** hears something else entirely. The **Balor** is speaking to him, directly into his mind.
+
+**Holding the Gate.** At the chamber doors, **[[Umbrasax]]** plants himself and holds the line, keeping the way at Silas and Milodius's backs clear while the battle burns on around them.
+
+## **Session 86.** Flame Let Loose
+
+\*18 Everbloom 312 (Day 73 since the formation of the [[Soul Shepherds]])  Game Date: (September 9th, 2026)
+
+**The Song Breaks.** The fight in the Demon Core rages on. A volley of rocks hurled by the Fire Giant Troopers finally breaks **[[Milodious Aureon|Milodius]]**'s concentration, and the mournful **Dirge** falls silent.
+
+**The Stolen Crown.** **[[Whimsical|Whimsy]]** wrenches **Aastrika's Crown** from the Monk of Flame's head, but [[Zenith Aastrika|Aastrika]] answers with an explosive bout of fire that leaves her incapacitated. **[[Silas Clemens|Silas]]** reaches her with a **Vortex Warp** and pulls her to safety, then feeds her some of the food she cooked for him during their last rest. Before the Monk of Flame even realizes what has happened, Silas has claimed the crown for himself.
+
+**The Last Strength of a Soul.** **[[Thirteen]]** strikes true again and again. Caught in Aastrika's explosion, he collapses, but with the last remaining strength of his soul he surges back to consciousness and stays in the fight.
+
+**Flame Let Loose.** In the midst of the battle, the **[[Balor]]** tears itself free of its chains. It destroys the **Demon Core** and shatters the floor beneath it, and the fight plunges down onto the **Old Palace Bridge** of [[Hipolum-Dhrum]]. The Balor kills **Zenith Aastrika** and absorbs her soul. **Thirteen** is knocked unconscious by the fall.
+
+**Standing Against the Demon.** **[[Virtus Tenebris|Virtus]]** and **[[Bartholomew|Bart]]** stand their ground before the Balor while **Silas** stays above. **Whimsy** calls on her Wild Shape and becomes an **Insectoid Behemoth**, and **Milodius** swoops down to land a flurry of slashes on the demon.
+
+**The Offer.** The Balor speaks. It has defeated its foe, it tells the Scions, and if they surrender, it will walk away in peace. If they wish to fight, it will face them. The Scions answer as one: they will face the demon.
+
+## **Session 87.** TBD
+
+\*18 Everbloom 312 (Day 73 since the formation of the [[Soul Shepherds]])  Game Date: (September 16th, 2026)
+
+The fight continues under the factory and into the sealed Old Palace, a challenged Balor ensues combat with the Solar Scions - 
+
+
 
 
 
